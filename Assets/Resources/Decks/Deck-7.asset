@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 720195d612531fe4c818f9aa95ed4840, type: 3}
+  m_Name: Deck-7
+  m_EditorClassIdentifier: 
+  deckTitle: Night of Knights!
+  deckDescription: No fears, no regrets! Do dare or answer truth to make everybody
+    else sip once, or sip 4 times to skip.
+  icon: {fileID: 21300000, guid: 31e3783ad30fc498fb07dc431946aca1, type: 3}
+  questions:
+  - name: 
+    text: '[player], if you had to choose brains or beauty, which would you pick?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s the worst gift you\u2019ve ever received?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], if your life were a movie, who would play you?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever had a near-death experience?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], if you could live anywhere in the world, where would you live?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], what was the nastiest prank you ever played on someone?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s the weirdest thing about you? Are you proud of it?"
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what would you do with your life if money didn\u2019t exist?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], what would you do if you were invisible for a day?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], do you have any hidden talents? What are they?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], if you could be a professional athlete, what sport would you
+      play and why?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s the most adventurous thing you\u2019ve ever done?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], what do you like to do when you are alone?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], what is the worst food you have ever eaten?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], which fictional character would you like to be and why?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what is the biggest lie you\u2019ve ever told?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever been in a physical fight with anyone? If yes,
+      tell the whole story!'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], would you ever consider using a fake ID?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], open the window and get someone on the street to wave to you.'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], go to Facebook and answer the latest public post: \u201CNo,
+      you\u2019re wrong!\u201D."
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], say \u201Cya heard meh\u201D after everything you say for the
+      next 5 minutes."
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], prank call someone you know! Perhaps someone who couldn\u2019t
+      make it that night."
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], come up with your own language and only talk like this until
+      your next turn.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], take a sneaky pic of all the players during the evening without
+      them noticing.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], do your best hip-hop dance.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], only use your elbows and knees to make a sandwich.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], speak like a gangster for the next 5 minutes.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], tell everybody an embarrassing story about yourself.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], call a random phone number and talk to that person for as long
+      as possible.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], drink a cocktail made by the other players.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], make a poem using the words orange and moose.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], call someone you like and leave them a flirty message on their
+      voicemail.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], do a silly dance in the middle of the room.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], take a shower with your clothes on together.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], let someone shave your right leg.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], imitate your favorite emoji.'
+    players: 1
+    timer: 
+  isOpen: 0

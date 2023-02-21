@@ -1,0 +1,162 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 720195d612531fe4c818f9aa95ed4840, type: 3}
+  m_Name: Deck-9
+  m_EditorClassIdentifier: 
+  deckTitle: Met a pet
+  deckDescription: Woof or meow? Crazy questions about pets, spin and drink!
+  icon: {fileID: 21300000, guid: f000d6a816b504b40802a5782e647117, type: 3}
+  questions:
+  - name: 
+    text: Anyone who ever did the opening scene from The Lion King with their cat
+      or dog - sip twice.
+    players: A
+    timer: 
+  - name: 
+    text: Anyone who ever tried to scary their pet - sip twice.
+    players: A
+    timer: 
+  - name: 
+    text: Anyone who talk with their pet on regular basis - sip 3 times and look
+      left and right - these people could listen you as well.
+    players: A
+    timer: 
+  - name: 
+    text: Anyone who cried during Hachiko - you are awesome and sip twice.
+    players: A
+    timer: 
+  - name: 
+    text: 'Introvert test: if on parties you spent more time with host''s pet than
+      the other guests, sip 4 times!'
+    players: A
+    timer: 
+  - name: 
+    text: '[player], did you ever kissed their pet on the mouth? sip 5 times, if
+      yes!'
+    players: 1
+    timer: 
+  - name: 
+    text: Anyone who's ever found their shoes peed by a pet - we know your pain,
+      sip twice.
+    players: A
+    timer: 
+  - name: 
+    text: Who ever tried a cat dry food or treat, just to see what it tastes like
+      sip twice.
+    players: A
+    timer: 
+  - name: 
+    text: If you ever tried to get away from fart guilt blaming a pet - shame on
+      you and sip 1 time.
+    players: A
+    timer: 
+  - name: 
+    text: Cats or dogs? Dog people sip 3 times.
+    players: A
+    timer: 
+  - name: 
+    text: If you ever celebrated a pet's birthday - sip 2 times, and sip 2 times
+      extra if you did it alone.
+    players: A
+    timer: 
+  - name: 
+    text: If you ever spooned your pet sip 3 times.
+    players: A
+    timer: 
+  - name: 
+    text: '[player] vs [player2], sing an pet themed song - the first one to start
+      singing wins, loser should sip 4 times, hurry up - after 10 seconds losers
+      will be both!'
+    players: 2
+    timer: 
+  - name: 
+    text: '[player], if you''ve sent or received a photo of a pet last 7 days, sip
+      3 times.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], name 15 pet (or could be pet) animals in 30 seconds or finish
+      your drink!'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], if you tell your pet(s) ''Bless you'' when they sneeze - sip
+      3 times!'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], if you were a pet, who would you want to be your owner? Pick,
+      and you should take a shot together.'
+    players: 1
+    timer: 
+  - name: 
+    text: Everyone, take as many sips as number of pets you've ever had.
+    players: A
+    timer: 
+  - name: 
+    text: Duel! [player] vs [player2], you have 30 seconds to name as many pets or
+      animal movies as you can. Loser should make 4 sips.
+    players: 2
+    timer: 
+  - name: 
+    text: '[player], do an impression of your dog greeting you at home or make 4
+      sips if have no dog or your dog is grumpy.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], are there any animal accounts you follow on social media? if
+      yes, sip 4 times.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player] vs [player], everyone count 1-2-3, and you name the most hilarious
+      name for a snake (like sneeky shlong or so). Vote for loser that should sip
+      twice!'
+    players: 1
+    timer: 
+  - name: 
+    text: Cats or dogs? Cat people sip 3 times.
+    players: A
+    timer: 
+  - name: 
+    text: Full circle! Everyone should make an animal sound - purr, bark and so on
+      and then sip once, noone can skip!
+    players: A
+    timer: 
+  - name: 
+    text: Anyone who dress up as dog or cat for Halloween should sip twice.
+    players: A
+    timer: 
+  - name: 
+    text: Full circle! Everyone should name the funniest nickname for a pet raccoon.
+      Voting will decide the winner who should sip 4 times.
+    players: A
+    timer: 
+  - name: 
+    text: '[player], you are raccoon now! Choose the most stale food in the fridge
+      and take a bite!'
+    players: 1
+    timer: 
+  - name: 
+    text: Full circle! Everyone should name the most exotic or/and hilarious name
+      for pet and sip once. Voting will decide the winner who should sip 2 extra.
+    players: A
+    timer: 
+  - name: 
+    text: Anyone who gave their pet a middle name - well done and sip twice.
+    players: A
+    timer: 
+  - name: 
+    text: Anyone with exotic pet like snake or spider - sip 3 times.
+    players: A
+    timer: 
+  isOpen: 0

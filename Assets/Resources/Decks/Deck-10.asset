@@ -1,0 +1,245 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 720195d612531fe4c818f9aa95ed4840, type: 3}
+  m_Name: Deck-10
+  m_EditorClassIdentifier: 
+  deckTitle: Drinking Wizards
+  deckDescription: Dares for persistent ones! Don't wake up in police station! 5
+    sips to skip or do to make everybody sip once.
+  icon: {fileID: 21300000, guid: 7823e0e03e80046edbb8ed2659f61ef7, type: 3}
+  questions:
+  - name: 
+    text: '[player], take an embarrassing selfie and post it as your profile picture.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], remove your socks with your teeth.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], go next door with a measuring cup and ask for a cup of sugar.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], let the group choose an item for you to brush your teeth with.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], stick a Hot Cheeto in your nose, and leave it there for 30 seconds.'
+    players: 
+    timer: 30
+  - name: 
+    text: '[player], open your front door and howl like a wolf for 30 seconds.'
+    players: 
+    timer: 30
+  - name: 
+    text: '[player], let the person to your right put duct tape on any part of your
+      body they choose and rip it off.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], until the next round, talk super loud, like nobody can hear
+      you.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], call your crush.'
+    players: 
+    timer: 
+  - name: 
+    text: "[player], use a brush like you\u2019re talking into a microphone each
+      time you speak."
+    players: 
+    timer: 
+  - name: 
+    text: '[player], color one of your front teeth black. (Eyeliner works!)'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], talk without closing your mouth for next 5 minutes. Extra 3
+      sips for each violating.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], draw on your face with permanent marker.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], dip your sock-covered feet in the toilet, and don''t dry them
+      off for the rest of the game.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], eat a spoonful of mustard.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], lift up the couch cushions, and if there is anything under them,
+      you need to put it in your mouth for 10 seconds.'
+    players: 
+    timer: 10
+  - name: 
+    text: '[player], spin around 15 times and try to walk straight.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], eat a raw egg, eating it with shell will make you immune for
+      any next dare by your choice.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], let the group choose three random things from the refrigerator
+      and mix them together. Then you have to eat the mixture.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], stand up and do jumping jacks until your next turn.'
+    players: 
+    timer: 
+  - name: 
+    text: "[player], call a 7-Eleven and ask if they\u2019re open."
+    players: 
+    timer: 
+  - name: 
+    text: "[player], stand in the backyard and yell at the top of your lungs, \u201CNooooo!
+      I was adopted!\u201D"
+    players: 
+    timer: 
+  - name: 
+    text: '[player], go outside in the driveway and do the disco without music.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], call a car part store and tell them that you need a part for
+      your Model T.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], take a selfie with the toilet and post it online.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], go outside and pretend you''re cutting the grass with an invisible
+      mower.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], call a pizza place and ask if they use cruelty-free wheat in
+      their dough.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], call the library and ask if they carry a dictionary that translates
+      British to American.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], go outside and try to summon the rain.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], call target and ask them if they deliver popcorn.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], call mcDonald''s and ask if they sell Whoppers.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], call a pizza shop and ask if you can return a pizza.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], call a car dealership and ask if they have any horse buggies
+      in stock.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], change your relationship status on Facebook to "it''s complicated."'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], sing instead of speaking for the next two rounds of the game.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], call a Chinese restaurant and ask if they have sushi.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], dump a bunch of LEGOs on the floor and walk over them with your
+      bare feet.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], go outside and hug a mailbox until at least three passersby
+      have seen you.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], stop a car that is going down the street and tell them that
+      their wheels are turning.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], open facebook, go to the account of the first person you see,
+      and Like every post on their wall going back a full month.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], let everyone look through your search history for two minutes.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], call a drugstore and ask them which laxative is the most effective.
+      After they answer, ask how many they have.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], give your phone to another player to send a text message to
+      their contact of choice.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], let each player choose one word, then attempt to form a sentence
+      with them and post it to Facebook.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], have the person to your right do 10 squats while you lie underneath
+      them.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], hand your phone to the person across from you and let them post
+      whatever they want to your twitter.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], post a comment on every single post on the first page of your
+      Facebook feed.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], start twerking in the middle of the room.'
+    players: 
+    timer: 
+  - name: 
+    text: '[player], play air guitar for 20 seconds, let us heard this music by your
+      mouth.'
+    players: 20
+    timer: 
+  - name: 
+    text: '[player], pretend to be a ballerina.'
+    players: 
+    timer: 
+  isOpen: 0

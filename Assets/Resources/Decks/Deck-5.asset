@@ -1,0 +1,383 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 720195d612531fe4c818f9aa95ed4840, type: 3}
+  m_Name: Deck-5
+  m_EditorClassIdentifier: 
+  deckTitle: Never have I ever
+  deckDescription: Playing all together! Make a sip for 'yes', skip for 'no', easy
+    peasy lemon squeezy!
+  icon: {fileID: 21300000, guid: 03e4754d36f8f4cb194e4d7b42c33342, type: 3}
+  questions:
+  - name: 
+    text: Never have I ever wanted to be famous
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever gone on vacation for more than 1 month
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever drunk-texted a coworker or an ex
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever peed my pants in public
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever cried during a vacation
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever been outside of the country
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever fought with a family member
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever dined and dashed
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever stood someone up
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever been in a fistfight
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever smoked a cigarette
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever been jealous of an ex
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever used a fake ID to get into a bar or to buy alcohol
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever been rejected for a date
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever lost my voice from singing so much
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever cheated on a test
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever talked badly about a friend behind their back
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever climbed a mountain
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever had a pregnancy scare
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever bought something inside a sex shop
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever snitched on someone
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever used Tinder, Bumble or any other dating app
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever caught feelings for a close friend
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever spent over $100 on a concert ticket
+    players: A
+    timer: 
+  - name: 
+    text: "Never have I ever didn\u2019t give a two weeks notice"
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever eaten something that fell on the floor
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever gone more than 7 days without a shower
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever gotten COVID-19
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever over-exaggerated (or blatantly lied) on my resume
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever been cheated on by an ex or current partner
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever gotten blackout drunk
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever had relations (kissing counts!) with someone of the same
+      sex
+    players: A
+    timer: 
+  - name: 
+    text: "Never have I ever forgotten my mother or father\u2019s birthday"
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever gotten sick after riding a roller coaster
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever asked for the manager
+    players: A
+    timer: 
+  - name: 
+    text: "Never have I ever slept in my \u201Cbirthday suit\u201D"
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever gone on a 2+ day road trip
+    players: A
+    timer: 
+  - name: 
+    text: "Never have I ever broken something in someone\u2019s house and didn\u2019t
+      tell them"
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever used the same pair of underwear for more than a day
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever run from the police
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever been to an island
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever cheated on someone
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever run a marathon
+    players: A
+    timer: 
+  - name: 
+    text: "Never have I ever rummaged through someone\u2019s medicine cabinet"
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever been married and then divorced
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever flipped someone off during a road rage incident
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever pooped the bed
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever been to a strip club
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever had an STD
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever called in sick to spend time with friends
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever gotten back together with an ex
+    players: A
+    timer: 
+  - name: 
+    text: "Never have I ever gotten together (or kissed) a friend\u2019s ex"
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever been to jail
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever been homeless for the night
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever stolen items from a hotel room
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever run over an animal while driving
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever eaten something that fell on the floor (or from the trash)
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever used Tinder for a one-night fling
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever had a one-night stand
+    players: A
+    timer: 
+  - name: 
+    text: "Never have I ever said \u201CI love you\u201D in the first two weeks of
+      knowing someone"
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever ghosted someone for a trivial reason
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever been catfished
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever thrown up in an Uber
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever had a threesome
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever met a famous person
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever said the wrong name while having sex
+    players: A
+    timer: 
+  - name: 
+    text: "Never have I ever spent time stalking someone\u2019s social media"
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever shot a gun
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever lost more than $100 when gambling
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever spent more than $200 on a single piece of clothing
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever hit my partner (or ex)
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever been stood up for a date
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever drunk alcohol alone
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever spent the night sleeping in my car
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever been high (or drunk) at work
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever broken a bone
+    players: A
+    timer: 
+  - name: 
+    text: "Never have I ever had food delivered and didn\u2019t leave a tip"
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever gone skinny dipping
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever used the self-checkout to steal an item
+    players: A
+    timer: 
+  - name: 
+    text: "Never have I ever slept at a stranger\u2019s house"
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever gotten a matching tattoo with someone
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever sent a nude
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever been hungover at work
+    players: A
+    timer: 
+  - name: 
+    text: "Never have I ever been jealous of a close friend\u2019s relationship"
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever seen something other-worldly (UFO, ghost, demon)
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever been to a nude beach
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever stayed awake for more than 48 hours
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever peed in a public area
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever hitchhiked
+    players: A
+    timer: 
+  - name: 
+    text: Never have I ever sent the same nude to multiple people
+    players: A
+    timer: 
+  isOpen: 0

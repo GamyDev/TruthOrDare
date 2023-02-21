@@ -1,0 +1,230 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 720195d612531fe4c818f9aa95ed4840, type: 3}
+  m_Name: Deck-8
+  m_EditorClassIdentifier: 
+  deckTitle: Queens Convention
+  deckDescription: Girls Night Out! Do dare or answer truth to make everybody else
+    sip once, or sip 4 times to skip.
+  icon: {fileID: 21300000, guid: f000d6a816b504b40802a5782e647117, type: 3}
+  questions:
+  - name: 
+    text: '[player], if you were a man for one hour, what would you do?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s the one thing you hope your parents never find out
+      about?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], what happened on your most awkward date?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s the biggest lie you\u2019ve ever told?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], who do you think is the best-looking person here?'
+    players: 1
+    timer: 
+  - name: 
+    text: "Dare! [player], change your Facebook status to \u201CFeeling horny . .
+      .\u201D"
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s the weirdest thing your parents have ever caught
+      you doing?"
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s the first thing you would do if you were invisible?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], if you farted in the elevator, would you say excuse me or pretend
+      like it was someone else?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], who is the last person that you stalked on social media?'
+    players: 1
+    timer: 
+  - name: 
+    text: Dare! [player], stuff ice inside your bra and leave it there for 60 seconds.
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], what are some things you think about when sitting on the toilet?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what would be in your web history that you\u2019d be embarrassed
+      if someone saw?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], what is the most illegal thing you have ever done?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], what is the most childish thing that you still do?'
+    players: 1
+    timer: 
+  - name: 
+    text: Dare! [player], go up to a stranger and ask for their autograph.
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], what is the song that you get it on to the most?'
+    players: 1
+    timer: 
+  - name: 
+    text: Dare! [player], ask a stranger to take a photo of you but to use their
+      own camera.
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], what''s the grossest thing that''s ever happened to you during
+      sex?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], who''s the worst sexual partner you''ve ever had?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], do you have a crazy one-night stand story? What happened?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s the most unusual place you made love?"
+    players: 1
+    timer: 
+  - name: 
+    text: Dare! [player], go up to someone and pretend to be their long lost friend.
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], what is the first dirty thing you would do if you woke up as
+      the opposite sex?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], if you could have sex with one of your friends, who would it
+      be?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], when was your last sex dream, and who was it about?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], when was the last time you faked an orgasm?'
+    players: 1
+    timer: 
+  - name: 
+    text: Dare! [player], for next 5 minutes, you need to speak in a Indian accent.
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever had sex with someone much younger or older than
+      you?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s the biggest age difference?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever made a sex tape?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], does size matter to you?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], do you like your partner to be silent or loud'
+    players: 1
+    timer: 
+  - name: 
+    text: Dare! [player], prank call a random number.
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], what are your guilty pleasures?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what is the wildest thing you\u2019ve ever done?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], if you only had 24 hours left to live what would you do?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], what is your worst fear?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], what is the best thing you have ever gotten away with?'
+    players: 1
+    timer: 
+  - name: 
+    text: "Dare! [player], serenade someone you don\u2019t know."
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], who was your strangest crush?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever gone a whole day without wearing underwear?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what is your fianc\xE9\u2019s best and worst quality?"
+    players: 1
+    timer: 
+  - name: 
+    text: Dare! [player], take a selfie with a police officer.
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], what was the last lie you told?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], if you were the opposite sex for an hour, what would you do?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], what is the worst rumour that you have ever started?'
+    players: 1
+    timer: 
+  - name: 
+    text: Dare! [player], kiss a bald man on the head.
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], which girl in the room would you date if you were a guy?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], what is your weirdest habit?'
+    players: 1
+    timer: 
+  isOpen: 0

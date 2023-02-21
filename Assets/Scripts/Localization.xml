@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Keys xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Key Name="Add a new player_key">
+		<Translates>
+			<en-us>Add a new player</en-us>
+			<ru>Добавить нового игрока</ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="Players List_key">
+		<Translates>
+			<en-us>Players List</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+		<Key Name="Next_key">
+		<Translates>
+			<en-us>Next</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="Tap to continue_key">
+		<Translates>
+			<en-us>Tap to continue</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="Welcome_key">
+		<Translates>
+			<en-us>Welcome</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="Classic_key">
+		<Translates>
+			<en-us>Classic</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="Perfect pick for warming up. Are you ready to rumble?_key">
+		<Translates>
+			<en-us>Perfect pick for warming up. Are you ready to rumble?</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="Sexy Dirty Truth or Drink_key">
+		<Translates>
+			<en-us>Sexy Dirty Truth or Drink</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="Simple rules: tell the truth to make everyone a sip, or sip 4 times to keep silence!_key">
+		<Translates>
+			<en-us>Simple rules: tell the truth to make everyone a sip, or sip 4 times to keep silence!</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="Most likely_key">
+		<Translates>
+			<en-us>Most likely</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+		<Key Name="Selected player choose who is most likely to... And then they both sips twice without hard feelings._key">
+		<Translates>
+			<en-us>Selected player choose who is most likely to... And then they both sips twice without hard feelings.</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="Drink or Dare_key">
+		<Translates>
+			<en-us>Drink or Dare</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="Time for action! Do the dare to make everyone else sip 1 time, or sip 6 times to skip it._key">
+		<Translates>
+			<en-us>Time for action! Do the dare to make everyone else sip 1 time, or sip 6 times to skip it.</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="Never have I ever_key">
+		<Translates>
+			<en-us>Never have I ever</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="Playing all together! Make a sip for 'yes', skip for 'no', easy peasy lemon squeezy!_key">
+		<Translates>
+			<en-us>Playing all together! Make a sip for 'yes', skip for 'no', easy peasy lemon squeezy!</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="Cursed questions_key">
+		<Translates>
+			<en-us>Cursed questions</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="Its getting hotter. Everyone will need a sip to forget the answers you heard. No answer - 5 sips._key">
+		<Translates>
+			<en-us>Its getting hotter. Everyone will need a sip to forget the answers you heard. No answer - 5 sips.</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+<Key Name="Night of Knights!_key">
+		<Translates>
+			<en-us>Night of Knights!</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="No fears, no regrets! Do dare or answer truth to make everybody else sip once, or sip 4 times to skip._key">
+		<Translates>
+			<en-us>No fears, no regrets! Do dare or answer truth to make everybody else sip once, or sip 4 times to skip.</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="Queens Convention_key">
+		<Translates>
+			<en-us>Queens Convention</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+		<Key Name="Girls Night Out! Do dare or answer truth to make everybody else sip once, or sip 4 times to skip._key">
+		<Translates>
+			<en-us>Girls Night Out! Do dare or answer truth to make everybody else sip once, or sip 4 times to skip.</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+		<Key Name="Met a pet_key">
+		<Translates>
+			<en-us>Met a pet</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+		<Key Name="Woof or meow? Crazy questions about pets, spin and drink!_key">
+		<Translates>
+			<en-us>Woof or meow? Crazy questions about pets, spin and drink!</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+		<Key Name="Drinking Wizards_key">
+		<Translates>
+			<en-us>Drinking Wizards</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="Dares for persistent ones! Don't wake up in police station! 5 sips to skip or do to make everybody sip once._key">
+		<Translates>
+			<en-us>Dares for persistent ones! Don't wake up in police station! 5 sips to skip or do to make everybody sip once.</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+		<Key Name="Spin_key">
+		<Translates>
+			<en-us>Spin</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="3 days free!_key">
+		<Translates>
+			<en-us>3 days free!</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet_key">
+		<Translates>
+			<en-us>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="Try now_key">
+		<Translates>
+			<en-us>Try now</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="Decks_key">
+		<Translates>
+			<en-us>Decks</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="Menu_key">
+		<Translates>
+			<en-us>Menu</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="Players_key">
+		<Translates>
+			<en-us>Players</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+		<Key Name="Settings_key">
+		<Translates>
+			<en-us>Settings</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+		<Key Name="Sound: On_key">
+		<Translates>
+			<en-us>Sound: On</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+		<Key Name="Sound: Off_key">
+		<Translates>
+			<en-us>Sound: Off</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+		<Key Name="Music: On_key">
+		<Translates>
+			<en-us>Music: On</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+		<Key Name="Music: Off_key">
+		<Translates>
+			<en-us>Music: Off</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+		<Key Name="Settings_key">
+		<Translates>
+			<en-us>Settings</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+		<Key Name="Language: English_key">
+		<Translates>
+			<en-us>Language: English</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+		<Key Name="Restore purchases_key">
+		<Translates>
+			<en-us>Restore purchases</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+			<Key Name="Contact Us_key">
+		<Translates>
+			<en-us>Contact Us</en-us>
+			<ru></ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+		
+
+	
+	
+
+	
+
+
+	
+</Keys>

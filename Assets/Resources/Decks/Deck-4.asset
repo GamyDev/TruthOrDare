@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 720195d612531fe4c818f9aa95ed4840, type: 3}
+  m_Name: Deck-4
+  m_EditorClassIdentifier: 
+  deckTitle: Drink or Dare
+  deckDescription: Time for action! Do the dare to make everyone else sip 1 time,
+    or sip 6 times to skip it.
+  icon: {fileID: 21300000, guid: 8f282547e6b6643a9a350d5b13ae677c, type: 3}
+  questions:
+  - name: 
+    text: '[player], let another person post a status on your behalf.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], let the other players go through your phone for one minute.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], get an item from the bathroom and sell it to the group for 3
+      minutes.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], drink a mystery drink created by the rest of the group.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], show your search history on your phone.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], let the rest of the group dm someone from your instagram.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], keep 3 ice cubes in your mouth until they melt.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], yell out the first word that comes to your mind.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], pretend to be the person on your left for 10 minutes.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], whisper a secret to the person on your left.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], eat something of the groups choice without using your hands.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], talk in an indian or australian accent for the next 10 minutes.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], scroll through your instagram followers until someone says stop
+      and you have to like all their pics.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], let someone shave a part of your body.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], reply to the first five instagram stories on your timeline'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], send your ex a message saying you miss them.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], make eye contact with the person to your right and moan for
+      10 seconds.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], make your orgasm face at the next stranger you see until they
+      make eye contact with you.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], pass your phone to the person on your left and let them post
+      a sexual status to your facebook.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], perform a seductive dance in front of the group.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], pick up the nearest object to you and demonstrate how to put
+      on protection.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], close your eyes, pick a random phone contact and leave them
+      a dirty voicemail.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], drop an ice cube in your pants.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], google the dirtiest thing you can think of and show it to the
+      person next to you.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], facetime your most recent contact, burp, then hang up.'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], smell everyone\u2019s armpits and rank them from best to worst."
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], tell us the one bedtime secret no one knows about you.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], pull a moonie.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], attempt to break dance for 30 seconds.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], serenade the person to your right.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], dance like your life depends on it with no music for 2 whole
+      minutes.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], give a personalised insult to everyone in the room.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], tell everyone your most embarrassing story about yourself.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], show the most embarrassing photo on your phone.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], quack like a duck until your next turn.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], call a random phone number and talk to them for as long as you
+      can.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], using only your elbows, upload a facebook status.'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], close your eyes, sit on someone\u2019s lap and guess who it
+      is."
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], attempt the first tiktok dance that appears on your for you
+      page.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], eat one teaspoon of the spiciest thing you can find.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], drink a shot of vinegar.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], send a weird gif to the 10th person on your contacts list.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], use a voice changing filter and send a funny voice message to
+      your ex.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], go live on any social media account and declare your love for
+      me.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], twerk along to a boring song until the music stops.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], let your partner give you a makeover'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], put two drops of the spiciest sauce you have on your tongue.'
+    players: 1
+    timer: 
+  isOpen: 0

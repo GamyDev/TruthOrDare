@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 720195d612531fe4c818f9aa95ed4840, type: 3}
+  m_Name: Deck-1
+  m_EditorClassIdentifier: 
+  deckTitle: Classic
+  deckDescription: Perfect pick for warming up. Are you ready to rumble?
+  icon: {fileID: 21300000, guid: 62d453143d50a49288603d60c2670b2a, type: 3}
+  questions:
+  - name: 
+    text: Anyone who googled their ex's new BF/GF more than once drink 2 sips
+    players: A
+    timer: 
+  - name: 
+    text: Anyone who slept on street being drunk - drink 3 sips.
+    players: A
+    timer: 
+  - name: 
+    text: Anyone checking phone right now should drink 5 sips.
+    players: A
+    timer: 
+  - name: 
+    text: Vapers should sip 2 times and additional sip for every flavour you have.
+    players: A
+    timer: 
+  - name: 
+    text: Anyone who have black or white underwear should make 3 sips.
+    players: A
+    timer: 
+  - name: 
+    text: Everyone who call searching in facebook as "googling" - sips 2 times.
+    players: A
+    timer: 
+  - name: 
+    text: Anyone who was seen extremely drunk by parents - sips 3 times.
+    players: A
+    timer: 
+  - name: 
+    text: Anyone who ever watched an erotic movie scene with parents by accident,
+      sips 3 times.
+    players: A
+    timer: 
+  - name: 
+    text: Anyone who ever felt in love with friend's sibling sips 5 times.
+    players: A
+    timer: 
+  - name: 
+    text: Anyone who ever took a number but was too shy to call - finish your drink.
+    players: A
+    timer: 
+  - name: 
+    text: Anyone who had successful one night stand last 30 days - sip 3 times.
+    players: A
+    timer: 
+  - name: 
+    text: Anyone who ever caught a sibling or roommate jerking off drink 5 sips to
+      reset your memory.
+    players: A
+    timer: 
+  - name: 
+    text: Anyone who slept with someone you don't remember name - sip 5 times.
+    players: A
+    timer: 
+  - name: 
+    text: Name best drunk food, [player] starts! 2 full circles - who have weird
+      variants have to drink 3 sips.
+    players: A
+    timer: 
+  - name: 
+    text: 2 seconds to name an animal with horns. 2 full circles, who failed to name
+      in time sips 2 times.
+    players: A
+    timer: 
+  - name: 
+    text: How much time it took to getting ready for tonight? The quickest and slowest
+      ones sip 4 times.
+    players: A
+    timer: 
+  - name: 
+    text: Have you ever fall from a bicycle or skate being drunk or high? If yes,
+      sip 3 times.
+    players: A
+    timer: 
+  - name: 
+    text: Everyone name the age when you lost your virginity, the owner of biggest
+      number sips 5 times.
+    players: A
+    timer: 
+  - name: 
+    text: Laughing ban for 3 rounds. Anyone who laughs takes 3 sips.
+    players: A
+    timer: 
+  - name: 
+    text: Anyone who has raided parents liquor cabinet being younger than 16, drink
+      3 sips
+    players: A
+    timer: 
+  - name: 
+    text: '[player], sip 3 times if you have ever sent nudes.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], sip 2 times if you have ever received nudes (and 2 more times
+      if sender in this room)'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], if you''ve ever cried during a movie, sip 2 times, additional
+      sip if you did it in cinema.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], everyone older than you sips 3 times.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], sip 3 times if you just can''t be silent during a movie.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], you are booze cop for now. You can give up to 20 sips to anyone,
+      don''t waste it in a time.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player] if you''re embarrassed about the age you lost your virginity,
+      drink 4 sips.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player] first take 5 sips, then do 15 squats.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player] like 3 photos of person you secretly like, 5 sips if refuse.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player] post your most embarassing photo right now, 5 sips if refuse.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], for the next 10 moves, use a dirty word in every sentence and
+      sip 3 times for every fail.'
+    players: 1
+    timer: 
+  - name: 
+    text: Bomb defuse! [player] call your mom right now, don't let her know you are
+      drunk, 5 sips if refuse.
+    players: 1
+    timer: 
+  - name: 
+    text: High stakes! [player], pick an opponent to play heads or tails. The loser
+      should sip 10 times!
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], sing your favorite drinking song for 30 seconds or drink 3 sips'
+    players: 1
+    timer: 30
+  - name: 
+    text: '[player], you have 25 seconds to name 7 Olympic sports.'
+    players: 1
+    timer: 25
+  - name: 
+    text: '[player], you have 20 seconds to name 5 video game consoles.'
+    players: 1
+    timer: 20
+  - name: 
+    text: '[player], you have 10 seconds to name 4 things you shouldn''t take to
+      a plane.'
+    players: 1
+    timer: 10
+  - name: 
+    text: '[player] vs [player2]! Name the worst thing to say in bed? All voting,
+      loser should finish his drink.'
+    players: 2
+    timer: 
+  - name: 
+    text: '[player] vs [player2]! In what age you had your first kiss? Who was younger
+      sips 3 times.'
+    players: 2
+    timer: 
+  - name: 
+    text: '[player] vs [player2]! Say "cheers" on different languages. Loser should
+      sip 3 times, liar sips 5 times.'
+    players: 2
+    timer: 
+  - name: 
+    text: '[player] vs [player2]! Speed drinking of 200ml beer, loser should finish
+      his drink.'
+    players: 2
+    timer: 
+  - name: 
+    text: Teamwork! [player] and [player2] name 10 whisky brands in 20 seconds or
+      sip 5 times each
+    players: 2
+    timer: 20
+  isOpen: 1

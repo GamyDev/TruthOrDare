@@ -1,0 +1,332 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 720195d612531fe4c818f9aa95ed4840, type: 3}
+  m_Name: Deck-6
+  m_EditorClassIdentifier: 
+  deckTitle: Cursed questions
+  deckDescription: Its getting hotter. Everyone will need a sip to forget the answers
+    you heard. No answer - 5 sips.
+  icon: {fileID: 21300000, guid: 7823e0e03e80046edbb8ed2659f61ef7, type: 3}
+  questions:
+  - name: 
+    text: '[player], when was your first time losing your virginity?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever been arrested?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], would you marry a sugar daddy even was much older than you?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever pretended to orgasm?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], who would you call to help bury a dead body?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever cheated on your partner?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], has anyone ever walked in while you are peeing?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s the meanest thing you\u2019ve ever said about someone
+      else?"
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s something you love to do with your friends that
+      you\u2019d never do in front of your partner?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], who are you most jealous of?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s your spiciest fantasy in bed?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], what was your biggest childhood fear?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever accidentally hit something with your car?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], would you date your first love today?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s one movie is your guilty pleasure?"
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s your most embarrassing habit?"
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], when\u2019s the last time you had a hangover?"
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], do you have ever done it in your parent\u2019s house?"
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s the last time you threw up from drinking too much?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], if you were guaranteed to never get caught, who would you murder?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], what is a secret you had as a child that you never told your
+      parents?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s the weirdest thing you\u2019ve done at a party?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever been naked in public?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever been fired because you have done something inappropriate?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what is the worst food you\u2019ve ever tasted?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever broken an expensive item in a store and then leave?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever lied about your age? and why?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s the longest you\u2019ve gone without sex?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever used a fake id?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever smoked mary jay?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s the first thing you would do if you woke up one
+      day as the opposite gender?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], what is your greatest fear in a relationship?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s the most embarrassing text on your dms right now?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], what position do you think is overrated?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s the longest you\u2019ve gone without brushing your
+      teeth?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], do you ever talk to yourself in the mirror?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], describe the weirdest thing you\u2019ve ever done while you
+      were drunk."
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever sent a sexting message to the wrong person?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], would you break up with your partner for $1 million?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever taken a sexy picture of yourself?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], have you ever regretted something you did to get a crush orpartner\u2019s
+      attention?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever farted loudly in a public space?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s the most scandalous photo in your cloud?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], if could you be your partner what would you do better?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], who is the sexiest person in this room?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever switched underwear with your partner?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], who do you like the least in this room and why?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], when\u2019s the last time you got dumped?"
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s the worst habit you have?"
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], when\u2019s the last time you texted your ex?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], if you had to pick another place to live, which is the place?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], would you date someone shorter than you?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever catfished?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], name one thing you\u2019d change about your partner."
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], when\u2019s the last time you made someone else cry?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], if you could have a day you can do whatever you want, name the
+      first three things that you do.'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever eaten something from the floor?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever been caught up doing it in public?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], if you could date two people at once, would you do it? if so,
+      who?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s the sexiest thing about the opposite gender?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever kissed someone who is the same gender as you?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], if i went through your cupboard, what\u2019s the weirdest thing
+      i\u2019d find?"
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s your biggest turn-on?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever had a really bad kiss?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s your biggest fear in your everyday life?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever gotten mad at a friend for posting an unflattering
+      picture of you?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever broken something really expensive in a store and
+      then run away?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever stolen a book from the school library?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], have you ever called your 'current' with your ex\u2019s name?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever bullied someone in your life?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever lied about liking someone?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever touched an exhibit in a museum?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever drove without your license?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever been to a party uninvited?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever destroyed a surprise party?'
+    players: 1
+    timer: 
+  isOpen: 0

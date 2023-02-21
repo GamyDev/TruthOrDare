@@ -1,0 +1,285 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 720195d612531fe4c818f9aa95ed4840, type: 3}
+  m_Name: Deck-2
+  m_EditorClassIdentifier: 
+  deckTitle: Sexy Dirty Truth or Drink
+  deckDescription: 'Simple rules: tell the truth to make everyone a sip, or sip 4
+    times to keep silence!'
+  icon: {fileID: 21300000, guid: e73eb4390a8d24edabce327a57c2a93d, type: 3}
+  questions:
+  - name: 
+    text: "[player], what\u2019s the soonest after meeting someone you\u2019ve slept
+      with them?"
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s the strangest adult film category you\u2019ve ever
+      searched for?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever had sex in a public place? What was the most crowded?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever been in a threesome with a partner?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s an \u201Cimperfection\u201D on my body you find
+      sexy?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever used an embarrassing novelty condom (for example,
+      that glows in the dark or has a picture of Darth Vader on it)?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever incorporated food in your lovemaking?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever accidentally injured yourself trying something
+      new in bed?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], have you ever had sex in costume? If you haven\u2019t before,
+      who or what would you dress up as?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever been to a sex club? Would you go if you were invited?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever touched yourself at work?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], do you own any toys? What\u2019s your favorite?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever had sex outside in nature?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], what about my body first turned you on?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s one thing your ideal partner knows how to do in
+      bed?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], did you ever fantasize about me in your bed? Tell me about it.'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s something most people consider a turn-off, but that
+      turns you on?"
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s the strangest sexy dream you\u2019ve ever had?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], how often do you think couples should have sex to keep the relationship
+      strong?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], who is the most surprising person you\u2019ve ever had sex with
+      (maybe someone much older or not your usual type)?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], what was our best kiss like?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever been a sugar daddy/mommy? How about a sugar baby?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], which one of my friends would you like to have a fling with?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], did you ever ghost someone because you embarrassed yourself
+      in bed?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], did you ever get any noise complaints while between the sheets?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], how often do you touch yourself if you don\u2019t have a partner?
+      If you do have a partner?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever had a one night stand?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], what is the hottest thing someone has ever done with you in
+      bed?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s something that turns you on, but you\u2019re a bit
+      embarrassed by?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever had a fling with a coworker? A boss?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s something about me, besides my body, that turns
+      you on every time?"
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], who\u2019s the most inappropriate person you\u2019ve ever had
+      a fantasy about?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever run into an ex while out with your new partner?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s the sexiest gift you\u2019ve ever received? Given?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], if you could only have one romantic night every year, what would
+      you do?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], if you walked in on me watching a sexy movie, what would you
+      do?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], when was the last time you pleasured yourself?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], do you prefer being dominant or submissive?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s an embarrassing way you tried to impress someone
+      you were interested in?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever forgotten the name of someone you had a fling
+      with? Never known their name at all?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], do you believe in soulmates? Or do people have many potential
+      partners?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever been to a strip or burlesque club?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], do you think most people are monogamous?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever been in a threesome with two strangers?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever written a love letter?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], what was your first kiss like?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever had an affair?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], what would you do if I had an affair with someone you were attracted
+      to?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever been caught making love?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], are you a good wingman? Are any of your friends with their partner
+      because of you?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], do you think it\u2019s true that \u201Copposites attract?\u201D"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever dated someone after a one night stand?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], do you prefer tongue or fingers?'
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s your favorite position in bed? Out of bed?"
+    players: 1
+    timer: 
+  - name: 
+    text: "[player], what\u2019s the weirdest thing a partner has ever wanted to
+      do in bed?"
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever been handcuffed or tied up?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], would you ever consider starring in an adult webcam show?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever had a relationship you kept secret? Why?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], what kind of energy do you like when you make love? Fast and
+      rough, hot and passionate, gentle and sentimental?'
+    players: 1
+    timer: 
+  - name: 
+    text: '[player], have you ever accidentally sent sexy pictures to the wrong person?'
+    players: 1
+    timer: 
+  isOpen: 0
