@@ -117,9 +117,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
   m_Name: SFRegular
   m_EditorClassIdentifier: 
-  hashCode: 1280170307
+  hashCode: -60458513
   material: {fileID: -5954604169111539989}
-  materialHashCode: 1911752323
+  materialHashCode: 1136934639
   m_Version: 1.1.0
   m_SourceFontFileGUID: ab89d8b9257d142219e32dc31a2c507d
   m_SourceFontFile_EditorRef: {fileID: 12800000, guid: ab89d8b9257d142219e32dc31a2c507d, type: 3}
