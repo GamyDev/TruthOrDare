@@ -28,7 +28,7 @@ public class QuestionWindow : MonoBehaviour
     public int timerValue;
     public int currentTimer;
 
-    public Slider questionNumSlider;
+    public Image questionNumSlider;
     public TMP_Text questionNumText;
     
     public void SetQuestions(string title, bool refreshTruth = true, bool refreshDare = true)

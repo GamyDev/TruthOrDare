@@ -15,9 +15,8 @@ public class TruthDareWindow : MonoBehaviour
     public TMP_Text title;
     public Image playerAvatar;
     public TMP_Text playerName;
-    public Slider questionNum;
-    public TMP_Text questions;
-    public GameObject winWindow;
+    public Image questionNum;
+    public TMP_Text questions; 
 
     public Button truthBtn;
     public Button dareBtn;
@@ -30,39 +29,39 @@ public class TruthDareWindow : MonoBehaviour
     public void ResetQuestion()
     {
         currentQuestionNum = 0;
-        questionNum.value = currentQuestionNum;
+        questionNum.fillAmount = (float)currentQuestionNum / (float)GameManager.instance.questionsPerRound;
         questions.text = $"{currentQuestionNum + 1}/{GameManager.instance.questionsPerRound}";
 
-        GameManager.instance.questionWindow.questionNumSlider.value = currentQuestionNum;
+        GameManager.instance.questionWindow.questionNumSlider.fillAmount = (float)currentQuestionNum / (float)GameManager.instance.questionsPerRound;
         GameManager.instance.questionWindow.questionNumText.text = $"{currentQuestionNum + 1}/{GameManager.instance.questionsPerRound}";
     }
 
     public void NextQuestion()
     {
         currentQuestionNum++;
-        questionNum.value = currentQuestionNum;
+        questionNum.fillAmount = (float)currentQuestionNum / (float)GameManager.instance.questionsPerRound;
         questions.text = $"{currentQuestionNum + 1}/{GameManager.instance.questionsPerRound}";
 
-        GameManager.instance.questionWindow.questionNumSlider.value = currentQuestionNum;
+        GameManager.instance.questionWindow.questionNumSlider.fillAmount = (float)currentQuestionNum / (float)GameManager.instance.questionsPerRound;
         GameManager.instance.questionWindow.questionNumText.text = $"{currentQuestionNum + 1}/{GameManager.instance.questionsPerRound}";
 
         if (currentQuestionNum == GameManager.instance.questionsPerRound - 1)
         {
             gameObject.SetActive(false);
             GameManager.instance.questionWindow.gameObject.SetActive(false);
-            winWindow.SetActive(true);
+            GameManager.instance.winPanel.SetActive(true);
         }
     }
 
     private void OnEnable()
     {
-        questionNum.maxValue = GameManager.instance.questionsPerRound - 1;
+        questionNum.fillAmount = 1;
 
-        questionNum.value = currentQuestionNum; 
+        questionNum.fillAmount = (float)currentQuestionNum / (float)GameManager.instance.questionsPerRound; 
         questions.text = $"{currentQuestionNum + 1}/{GameManager.instance.questionsPerRound}";
 
-        GameManager.instance.questionWindow.questionNumSlider.maxValue = GameManager.instance.questionsPerRound - 1;
-        GameManager.instance.questionWindow.questionNumSlider.value = currentQuestionNum;
+        GameManager.instance.questionWindow.questionNumSlider.fillAmount = 1;
+        GameManager.instance.questionWindow.questionNumSlider.fillAmount = (float)currentQuestionNum / (float)GameManager.instance.questionsPerRound;
         GameManager.instance.questionWindow.questionNumText.text = $"{currentQuestionNum + 1}/{GameManager.instance.questionsPerRound}";
 
         if (GameManager.instance.gameMode == DeckType.ForFriends)

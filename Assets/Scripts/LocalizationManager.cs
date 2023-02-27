@@ -4,10 +4,7 @@ using System.Xml;
 
 public class LocalizationManager : MonoBehaviour
 {
-    [SerializeField] private GameObject engIcon;
-    [SerializeField] private GameObject rusIcon;
-
-
+  
     public static int SelectedLanguage
     {
         get => PlayerPrefs.GetInt("SelectedLanguage", 0);
@@ -25,8 +22,7 @@ public class LocalizationManager : MonoBehaviour
     private void Awake()
     {
         if (localization == null)
-            LoadLocalization();
-        //CheckIcon();
+            LoadLocalization(); 
 
     }
 
@@ -35,24 +31,9 @@ public class LocalizationManager : MonoBehaviour
         SelectedLanguage = id;
         
 
-        OnLanguageChange?.Invoke();
-       // CheckIcon();
+        OnLanguageChange?.Invoke(); 
     }
-
-    void CheckIcon()
-    {
-        if (SelectedLanguage == 0)
-        {
-            engIcon.SetActive(true);
-            rusIcon.SetActive(false);
-        }
-
-        if (SelectedLanguage == 1)
-        {
-            engIcon.SetActive(false);
-            rusIcon.SetActive(true);
-        }
-    }
+ 
 
     private void LoadLocalization()
     {

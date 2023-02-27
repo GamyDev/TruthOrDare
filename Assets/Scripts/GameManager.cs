@@ -14,6 +14,7 @@ public class GameManager : MonoBehaviour
     public GameObject selectModeWindow;
     public GameObject adultCheckbox;
     public LocalizationManager localizationManager;
+    public GameObject winPanel;
 
     public DeckType gameMode;
     
