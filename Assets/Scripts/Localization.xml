@@ -37,28 +37,28 @@
 		</Translates>
 	</Key>
 
-	<Key Name="Access to all dares and truths_key">
+	<Key Name="   • Access to all dares and truths _key">
 		<Translates>
-			<en-us>Access to all dares and truths</en-us>
-			<ru>Доступ ко всем играм</ru>
+			<en-us>   • Access to all dares and truths</en-us>
+			<ru>   • Доступ ко всем играм</ru>
 			<es></es>
 			<de></de>
 		</Translates>
 	</Key>
 
-	<Key Name="Remove ads_key">
+	<Key Name="   • Remove ads_key">
 		<Translates>
-			<en-us>Remove ads</en-us>
-			<ru>Без рекламы</ru>
+			<en-us>   • Remove ads_key</en-us>
+			<ru>   • Без рекламы</ru>
 			<es></es>
 			<de></de>
 		</Translates>
 	</Key>
 
-	<Key Name="Regular updates and new content_key">
+	<Key Name="   • Regular updates and new content_key">
 		<Translates>
-			<en-us>Regular updates and new content</en-us>
-			<ru>Регулярные обновления контент</ru>
+			<en-us>   • Regular updates and new content</en-us>
+			<ru>   • Регулярные обновления контент</ru>
 			<es></es>
 			<de></de>
 		</Translates>
@@ -127,9 +127,9 @@
 		</Translates>
 	</Key>
 
-	<Key Name="Add player_key">
+	<Key Name="Add Player_key">
 		<Translates>
-			<en-us>Add player</en-us>
+			<en-us>Add Player</en-us>
 			<ru>Добавить игрока</ru>
 			<es></es>
 			<de></de>
@@ -338,6 +338,24 @@
 		<Translates>
 			<en-us>Language: English</en-us>
 			<ru>Язык: Русский</ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="English_key">
+		<Translates>
+			<en-us>English</en-us>
+			<ru>Русский</ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="Russian_key">
+		<Translates>
+			<en-us>Russian</en-us>
+			<ru>Русский</ru>
 			<es></es>
 			<de></de>
 		</Translates>

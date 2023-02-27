@@ -12,9 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 720195d612531fe4c818f9aa95ed4840, type: 3}
   m_Name: Deck-1
   m_EditorClassIdentifier: 
-  deckTitle: 'Embarrassing moments '
+  deckTitle: Embarrassing moments_key
   type: 0
   free: 1
+  adult: 0
   questions:
   - theme: Truth
     text: Have you ever lied to your best friend?

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 720195d612531fe4c818f9aa95ed4840, type: 3}
   m_Name: Deck-6
   m_EditorClassIdentifier: 
-  deckTitle: For Married Couples
+  deckTitle: For Married Couples_key
   type: 1
   free: 0
   adult: 1

@@ -12,9 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 720195d612531fe4c818f9aa95ed4840, type: 3}
   m_Name: Deck-4
   m_EditorClassIdentifier: 
-  deckTitle: 'Love and romance '
+  deckTitle: Love and romance_key
   type: 1
   free: 1
+  adult: 0
   questions:
   - theme: Truth
     text: What's the most embarrassing thing you've ever done in front of someone
