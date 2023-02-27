@@ -5,25 +5,24 @@ using UnityEngine.UI;
 
 public class DeletePlayer : MonoBehaviour
 {
-    [SerializeField] private VerticalLayoutGroup verticalLayoutGroup;
     [SerializeField] private Animator animator;
-    [SerializeField] private Scrollbar scrollbar;
-
 
     public void InputClose()
     {
-        verticalLayoutGroup.enabled = false;
+        GameManager.instance.players.verticalLayoutGroup.enabled = false;
         animator.enabled = true;
-        scrollbar.value += 0.1428f;
+        GameManager.instance.players.scrollbar.value += 0.1428f;
         animator.Play("DeletePlayer");
         Invoke("DeleteObject", 0.5f);
+        GameManager.instance.players.RemovePlayer(transform.GetSiblingIndex());
     }
 
 
     void DeleteObject()
     {
-       verticalLayoutGroup.enabled = true;
+        GameManager.instance.players.verticalLayoutGroup.enabled = true;
         Destroy(gameObject);
+     
     }
 
 

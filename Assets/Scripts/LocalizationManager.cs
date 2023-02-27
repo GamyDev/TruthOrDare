@@ -26,7 +26,7 @@ public class LocalizationManager : MonoBehaviour
     {
         if (localization == null)
             LoadLocalization();
-        CheckIcon();
+        //CheckIcon();
 
     }
 
@@ -36,7 +36,7 @@ public class LocalizationManager : MonoBehaviour
         
 
         OnLanguageChange?.Invoke();
-        CheckIcon();
+       // CheckIcon();
     }
 
     void CheckIcon()

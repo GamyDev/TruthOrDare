@@ -12,197 +12,825 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 720195d612531fe4c818f9aa95ed4840, type: 3}
   m_Name: Deck-1
   m_EditorClassIdentifier: 
-  deckTitle: Classic
-  deckDescription: Perfect pick for warming up. Are you ready to rumble?
-  icon: {fileID: 21300000, guid: 62d453143d50a49288603d60c2670b2a, type: 3}
+  deckTitle: 'Embarrassing moments '
+  type: 0
+  free: 1
   questions:
-  - name: 
-    text: Anyone who googled their ex's new BF/GF more than once drink 2 sips
-    players: A
+  - theme: Truth
+    text: Have you ever lied to your best friend?
     timer: 
-  - name: 
-    text: Anyone who slept on street being drunk - drink 3 sips.
-    players: A
+  - theme: Truth
+    text: "What is the biggest secret you\u2019ve kept from your family?"
     timer: 
-  - name: 
-    text: Anyone checking phone right now should drink 5 sips.
-    players: A
+  - theme: Truth
+    text: Who is the last person you stalked on social media?
     timer: 
-  - name: 
-    text: Vapers should sip 2 times and additional sip for every flavour you have.
-    players: A
+  - theme: Truth
+    text: Have you ever cheated on a test or exam?
     timer: 
-  - name: 
-    text: Anyone who have black or white underwear should make 3 sips.
-    players: A
+  - theme: Truth
+    text: Have you ever stolen something, no matter how small?
     timer: 
-  - name: 
-    text: Everyone who call searching in facebook as "googling" - sips 2 times.
-    players: A
+  - theme: Truth
+    text: "What is the worst thing you\u2019ve done when you were drunk?"
     timer: 
-  - name: 
-    text: Anyone who was seen extremely drunk by parents - sips 3 times.
-    players: A
+  - theme: Truth
+    text: Have you ever cheated on a significant other?
     timer: 
-  - name: 
-    text: Anyone who ever watched an erotic movie scene with parents by accident,
-      sips 3 times.
-    players: A
+  - theme: Truth
+    text: What was the last lie you told?
     timer: 
-  - name: 
-    text: Anyone who ever felt in love with friend's sibling sips 5 times.
-    players: A
+  - theme: Truth
+    text: Have you ever vandalized anything?
     timer: 
-  - name: 
-    text: Anyone who ever took a number but was too shy to call - finish your drink.
-    players: A
+  - theme: Truth
+    text: "What is the most embarrassing thing that\u2019s happened to you in public?"
     timer: 
-  - name: 
-    text: Anyone who had successful one night stand last 30 days - sip 3 times.
-    players: A
+  - theme: Truth
+    text: Have you ever lied to get out of trouble?
     timer: 
-  - name: 
-    text: Anyone who ever caught a sibling or roommate jerking off drink 5 sips to
-      reset your memory.
-    players: A
+  - theme: Truth
+    text: "What is the most embarrassing thing you\u2019ve said to someone?"
     timer: 
-  - name: 
-    text: Anyone who slept with someone you don't remember name - sip 5 times.
-    players: A
+  - theme: Truth
+    text: Have you ever cheated in a game with friends or family?
     timer: 
-  - name: 
-    text: Name best drunk food, [player] starts! 2 full circles - who have weird
-      variants have to drink 3 sips.
-    players: A
+  - theme: Truth
+    text: What was the last thing you Googled?
     timer: 
-  - name: 
-    text: 2 seconds to name an animal with horns. 2 full circles, who failed to name
-      in time sips 2 times.
-    players: A
+  - theme: Truth
+    text: "Have you ever stolen someone\u2019s significant other?"
     timer: 
-  - name: 
-    text: How much time it took to getting ready for tonight? The quickest and slowest
-      ones sip 4 times.
-    players: A
+  - theme: Truth
+    text: "What is the most illegal thing you\u2019ve done?"
     timer: 
-  - name: 
-    text: Have you ever fall from a bicycle or skate being drunk or high? If yes,
-      sip 3 times.
-    players: A
+  - theme: Truth
+    text: "Have you ever had a crush on a friend\u2019s significant other?"
     timer: 
-  - name: 
-    text: Everyone name the age when you lost your virginity, the owner of biggest
-      number sips 5 times.
-    players: A
+  - theme: Truth
+    text: What is the most embarrassing thing in your room right now?
     timer: 
-  - name: 
-    text: Laughing ban for 3 rounds. Anyone who laughs takes 3 sips.
-    players: A
+  - theme: Truth
+    text: Have you ever sent a text or email to the wrong person?
     timer: 
-  - name: 
-    text: Anyone who has raided parents liquor cabinet being younger than 16, drink
-      3 sips
-    players: A
+  - theme: Truth
+    text: What was the last thing you said that you regret saying?
     timer: 
-  - name: 
-    text: '[player], sip 3 times if you have ever sent nudes.'
-    players: 1
+  - theme: Truth
+    text: Have you ever spread a rumor about someone?
     timer: 
-  - name: 
-    text: '[player], sip 2 times if you have ever received nudes (and 2 more times
-      if sender in this room)'
-    players: 1
+  - theme: Truth
+    text: "What is the most awkward moment you\u2019ve had with a crush?"
     timer: 
-  - name: 
-    text: '[player], if you''ve ever cried during a movie, sip 2 times, additional
-      sip if you did it in cinema.'
-    players: 1
+  - theme: Truth
+    text: Have you ever lied on a job application?
     timer: 
-  - name: 
-    text: '[player], everyone older than you sips 3 times.'
-    players: 1
+  - theme: Truth
+    text: "What is the most embarrassing thing in your phone\u2019s camera roll?"
     timer: 
-  - name: 
-    text: '[player], sip 3 times if you just can''t be silent during a movie.'
-    players: 1
+  - theme: Truth
+    text: Have you ever had a dream about someone you know?
     timer: 
-  - name: 
-    text: '[player], you are booze cop for now. You can give up to 20 sips to anyone,
-      don''t waste it in a time.'
-    players: 1
+  - theme: Truth
+    text: What was the last mistake you made that made you feel silly?
     timer: 
-  - name: 
-    text: '[player] if you''re embarrassed about the age you lost your virginity,
-      drink 4 sips.'
-    players: 1
+  - theme: Truth
+    text: Have you ever cheated on a diet?
     timer: 
-  - name: 
-    text: '[player] first take 5 sips, then do 15 squats.'
-    players: 1
+  - theme: Truth
+    text: What is the most embarrassing thing in your search history?
     timer: 
-  - name: 
-    text: '[player] like 3 photos of person you secretly like, 5 sips if refuse.'
-    players: 1
+  - theme: Truth
+    text: "Have you ever stolen someone\u2019s idea?"
     timer: 
-  - name: 
-    text: '[player] post your most embarassing photo right now, 5 sips if refuse.'
-    players: 1
+  - theme: Truth
+    text: What was the last embarrassing thing you posted on social media?
     timer: 
-  - name: 
-    text: '[player], for the next 10 moves, use a dirty word in every sentence and
-      sip 3 times for every fail.'
-    players: 1
+  - theme: Truth
+    text: Have you ever cheated on a workout?
     timer: 
-  - name: 
-    text: Bomb defuse! [player] call your mom right now, don't let her know you are
-      drunk, 5 sips if refuse.
-    players: 1
+  - theme: Truth
+    text: What is the most embarrassing thing in your browsing history?
     timer: 
-  - name: 
-    text: High stakes! [player], pick an opponent to play heads or tails. The loser
-      should sip 10 times!
-    players: 1
+  - theme: Truth
+    text: Have you ever lied to your boss or teacher?
     timer: 
-  - name: 
-    text: '[player], sing your favorite drinking song for 30 seconds or drink 3 sips'
-    players: 1
-    timer: 30
-  - name: 
-    text: '[player], you have 25 seconds to name 7 Olympic sports.'
-    players: 1
-    timer: 25
-  - name: 
-    text: '[player], you have 20 seconds to name 5 video game consoles.'
-    players: 1
-    timer: 20
-  - name: 
-    text: '[player], you have 10 seconds to name 4 things you shouldn''t take to
-      a plane.'
-    players: 1
+  - theme: Truth
+    text: What was the last thing you said that made someone upset?
+    timer: 
+  - theme: Truth
+    text: Have you ever cheated on a challenge?
+    timer: 
+  - theme: Truth
+    text: "What is the most embarrassing thing you\u2019ve worn in public?"
+    timer: 
+  - theme: Truth
+    text: Have you ever lied to get something you wanted?
+    timer: 
+  - theme: Truth
+    text: What was the last time you made a fool of yourself in front of someone?
+    timer: 
+  - theme: Truth
+    text: Have you ever cheated on a promise?
+    timer: 
+  - theme: Truth
+    text: "What is the most embarrassing thing you\u2019ve said to your crush?"
+    timer: 
+  - theme: Truth
+    text: "Have you ever stolen someone\u2019s food or drink?"
+    timer: 
+  - theme: Truth
+    text: What was the last thing you did that made you feel guilty?
+    timer: 
+  - theme: Truth
+    text: Have you ever lied to your parents about something significant?
+    timer: 
+  - theme: Truth
+    text: What is the most embarrassing thing in your closet?
+    timer: 
+  - theme: Truth
+    text: Have you ever cheated on a game with someone online?
+    timer: 
+  - theme: Truth
+    text: What was the last time you were caught in a lie?
+    timer: 
+  - theme: Truth
+    text: "Have you ever stolen someone\u2019s seat?"
+    timer: 
+  - theme: Truth
+    text: "What is the most embarrassing thing you\u2019ve ever sung in public?"
+    timer: 
+  - theme: Truth
+    text: "Have you ever lied to get out of doing something you didn\u2019t want
+      to do?"
+    timer: 
+  - theme: Truth
+    text: What was the last time you made a fool of yourself in front of a large
+      group of people?
+    timer: 
+  - theme: Truth
+    text: Have you ever cheated on
+    timer: 
+  - theme: Truth
+    text: "What is the most embarrassing thing you\u2019ve ever put on social media?"
+    timer: 
+  - theme: Truth
+    text: Have you ever lied to get a date?
+    timer: 
+  - theme: Truth
+    text: What was the last time you were caught in a embarrassing situation?
+    timer: 
+  - theme: Truth
+    text: "Have you ever stolen someone\u2019s parking spot?"
+    timer: 
+  - theme: Truth
+    text: "What is the most embarrassing thing you\u2019ve ever said to your boss?"
+    timer: 
+  - theme: Truth
+    text: Have you ever lied to get out of going to a party or event?
+    timer: 
+  - theme: Truth
+    text: What was the last time you said something that you wish you could take
+      back?
+    timer: 
+  - theme: Truth
+    text: Have you ever cheated in a competition?
+    timer: 
+  - theme: Truth
+    text: "What is the most embarrassing thing you\u2019ve ever done in front of
+      a crush?"
+    timer: 
+  - theme: Truth
+    text: "Have you ever stolen someone\u2019s significant other and then broke up
+      with them?"
+    timer: 
+  - theme: Truth
+    text: What was the last time you made a fool of yourself in front of someone
+      you admire?
+    timer: 
+  - theme: Truth
+    text: Have you ever lied to get a raise or promotion?
+    timer: 
+  - theme: Truth
+    text: "What is the most embarrassing thing you\u2019ve ever said to your teacher?"
+    timer: 
+  - theme: Truth
+    text: Have you ever cheated on a weight loss program?
+    timer: 
+  - theme: Truth
+    text: What was the last time you said something in a group that made everyone
+      fall silent?
+    timer: 
+  - theme: Truth
+    text: Have you ever lied to your friends about your relationship status?
+    timer: 
+  - theme: Truth
+    text: "What is the most embarrassing thing you\u2019ve ever said to your parents?"
+    timer: 
+  - theme: Truth
+    text: Have you ever cheated on a cleanse or detox program?
+    timer: 
+  - theme: Truth
+    text: What was the last time you made a fool of yourself in front of your crush?
+    timer: 
+  - theme: Truth
+    text: "Have you ever stolen someone\u2019s food or drink without asking?"
+    timer: 
+  - theme: Truth
+    text: What was the last time you made a fool of yourself in front of your boss
+      or coworkers?
+    timer: 
+  - theme: Truth
+    text: Have you ever lied to get a job?
+    timer: 
+  - theme: Truth
+    text: "What is the most embarrassing thing you\u2019ve ever said to your significant
+      other?"
+    timer: 
+  - theme: Truth
+    text: Have you ever cheated on a diet or weight loss plan?
+    timer: 
+  - theme: Truth
+    text: What was the last time you made a fool of yourself in front of your friends?
+    timer: 
+  - theme: Truth
+    text: Have you ever lied to your spouse or partner?
+    timer: 
+  - theme: Truth
+    text: "What is the most embarrassing thing you\u2019ve ever said to your grandparents?"
+    timer: 
+  - theme: Truth
+    text: Have you ever cheated on a fitness program or challenge?
+    timer: 
+  - theme: Truth
+    text: What was the last time you made a fool of yourself in front of a stranger?
+    timer: 
+  - theme: Truth
+    text: "Have you ever stolen someone\u2019s parking space without asking?"
+    timer: 
+  - theme: Truth
+    text: "What is the most embarrassing thing you\u2019ve ever said in front of
+      a large group of people?"
+    timer: 
+  - theme: Truth
+    text: Have you ever lied to get out of a traffic ticket or fine?
+    timer: 
+  - theme: Truth
+    text: What was the last time you made a fool of yourself in front of your siblings?
+    timer: 
+  - theme: Truth
+    text: Have you ever cheated on a health program or regimen?
+    timer: 
+  - theme: Truth
+    text: "What is the most embarrassing thing you\u2019ve ever said in front of
+      your classmates?"
+    timer: 
+  - theme: Truth
+    text: "Have you ever stolen someone\u2019s seat on a plane or bus?"
+    timer: 
+  - theme: Truth
+    text: What was the last time you made a fool of yourself in front of your aunts
+      and uncles?
+    timer: 
+  - theme: Truth
+    text: Have you ever lied to your in-laws?
+    timer: 
+  - theme: Truth
+    text: "What is the most embarrassing thing you\u2019ve ever said in front of
+      your friends\u2019 parents?"
+    timer: 
+  - theme: Truth
+    text: Have you ever cheated on a sleep or nap schedule?
+    timer: 
+  - theme: Truth
+    text: "What was the last time you made a fool of yourself in front of your boss\u2019s
+      boss?"
+    timer: 
+  - theme: Truth
+    text: "Have you ever stolen someone\u2019s idea or creative work without giving
+      credit?"
+    timer: 
+  - theme: Truth
+    text: Have you ever walked into a door or wall in public?
+    timer: 
+  - theme: Truth
+    text: "What is the most embarrassing thing you\u2019ve ever worn in public?"
+    timer: 
+  - theme: Truth
+    text: Have you ever tripped or fallen in public?
+    timer: 
+  - theme: Truth
+    text: What was the last time you were caught in a lie?
+    timer: 
+  - theme: Truth
+    text: Have you ever sent a text to the wrong person?
+    timer: 
+  - theme: Truth
+    text: "What is the most embarrassing thing you\u2019ve ever said in a group?"
+    timer: 
+  - theme: Truth
+    text: Have you ever had bad body odor in public?
+    timer: 
+  - theme: Truth
+    text: What was the last time you were caught in a embarrassing situation at school
+      or work?
+    timer: 
+  - theme: Truth
+    text: Have you ever stumbled over your words in public?
+    timer: 
+  - theme: Truth
+    text: "What is the most embarrassing thing you\u2019ve ever said to a crush?"
+    timer: 
+  - theme: Truth
+    text: Have you ever had food stuck in your teeth in public?
+    timer: 
+  - theme: Truth
+    text: What was the last time you were caught in a embarrassing situation with
+      your family?
+    timer: 
+  - theme: Truth
+    text: Have you ever said someone else's name when trying to hit on someone?
+    timer: 
+  - theme: Truth
+    text: "What is the most embarrassing thing you\u2019ve ever said to your friends?"
+    timer: 
+  - theme: Truth
+    text: Have you ever had a wardrobe malfunction in public?
+    timer: 
+  - theme: Truth
+    text: What was the last time you were caught in a embarrassing situation with
+      your significant other?
+    timer: 
+  - theme: Truth
+    text: Have you ever misspelled a word in a text message or email to someone important?
+    timer: 
+  - theme: Truth
+    text: "What is the most embarrassing thing you\u2019ve ever said to a stranger?"
+    timer: 
+  - theme: Truth
+    text: Have you ever farted or burped loudly in public?
+    timer: 
+  - theme: Truth
+    text: What was the last time you were caught in a embarrassing situation in front
+      of a crush?
+    timer: 
+  - theme: Truth
+    text: Have you ever had bad breath in a close conversation with someone?
+    timer: 
+  - theme: Truth
+    text: "What is the most embarrassing thing you\u2019ve ever said to a boss or
+      coworker?"
+    timer: 
+  - theme: Truth
+    text: Have you ever had a run in your stocking or pantyhose in public?
+    timer: 
+  - theme: Truth
+    text: What was the last time you were caught in a embarrassing situation in front
+      of a large group of people?
+    timer: 
+  - theme: Truth
+    text: Have you ever spilled a drink on yourself in public?
+    timer: 
+  - theme: Truth
+    text: "What is the most embarrassing thing you\u2019ve ever said in front of
+      a teacher or professor?"
+    timer: 
+  - theme: Truth
+    text: Have you ever had a zit or pimple pop up in a noticeable place before a
+      big event?
+    timer: 
+  - theme: Truth
+    text: What was the last time you were caught in a embarrassing situation in front
+      of a stranger?
+    timer: 
+  - theme: Truth
+    text: Have you ever accidentally sent a text meant for someone else to the wrong
+      person?
+    timer: 
+  - theme: Truth
+    text: "What is the most embarrassing thing you\u2019ve ever said in front of
+      your parents?"
+    timer: 
+  - theme: Truth
+    text: Have you ever had your pants or skirt fall down in public?
+    timer: 
+  - theme: Truth
+    text: What was the last time you were caught in a embarrassing situation in front
+      of a crush's parents?
+    timer: 
+  - theme: Truth
+    text: Have you ever said something hurtful to someone without realizing it?
+    timer: 
+  - theme: Truth
+    text: "What is the most embarrassing thing you\u2019ve ever said in front of
+      your siblings?"
+    timer: 
+  - theme: Truth
+    text: Have you ever had a toilet paper or tissue stuck to your shoe in public?
+    timer: 
+  - theme: Truth
+    text: What was the last time you were caught in a embarrassing situation in front
+      of your boss's boss?
+    timer: 
+  - theme: Truth
+    text: Have you ever been caught singing loudly and off-key in public?
+    timer: 
+  - theme: Dare
+    text: Do the chicken dance in front of everyone for 10 sec
     timer: 10
-  - name: 
-    text: '[player] vs [player2]! Name the worst thing to say in bed? All voting,
-      loser should finish his drink.'
-    players: 2
+  - theme: Dare
+    text: Call your crush and tell them how you feel about them.
     timer: 
-  - name: 
-    text: '[player] vs [player2]! In what age you had your first kiss? Who was younger
-      sips 3 times.'
-    players: 2
+  - theme: Dare
+    text: Eat a spoonful of mustard or hot sauce.
     timer: 
-  - name: 
-    text: '[player] vs [player2]! Say "cheers" on different languages. Loser should
-      sip 3 times, liar sips 5 times.'
-    players: 2
+  - theme: Dare
+    text: Sing a love song to a random object.
     timer: 
-  - name: 
-    text: '[player] vs [player2]! Speed drinking of 200ml beer, loser should finish
-      his drink.'
-    players: 2
+  - theme: Dare
+    text: Do an impression of someone in the room.
     timer: 
-  - name: 
-    text: Teamwork! [player] and [player2] name 10 whisky brands in 20 seconds or
-      sip 5 times each
-    players: 2
-    timer: 20
-  isOpen: 1
+  - theme: Dare
+    text: Text your ex and tell them you miss them.
+    timer: 
+  - theme: Dare
+    text: Wear your clothes inside out for the rest of the game.
+    timer: 
+  - theme: Dare
+    text: Ask for a stranger's number and call them
+    timer: 
+  - theme: Dare
+    text: Do 20 jumping jacks.
+    timer: 10
+  - theme: Dare
+    text: Imitate a baby and cry for 10 seconds.
+    timer: 
+  - theme: Dare
+    text: Put makeup on someone in the room.
+    timer: 
+  - theme: Dare
+    text: Do a cartwheel or somersault.
+    timer: 
+  - theme: Dare
+    text: Put on a blindfold and try to guess what object someone is holding.
+    timer: 
+  - theme: Dare
+    text: Do a silly dance to a song of the group's choice.
+    timer: 
+  - theme: Dare
+    text: Give someone a spontaneous hug.
+    timer: 
+  - theme: Dare
+    text: Try to touch your nose with your tongue.
+    timer: 
+  - theme: Dare
+    text: Try to balance an egg on your forehead for 5 seconds.
+    timer: 5
+  - theme: Dare
+    text: Make a funny face and hold it for a minute.
+    timer: 
+  - theme: Dare
+    text: Tell a joke in front of the group.
+    timer: 
+  - theme: Dare
+    text: Do 10 push-ups.
+    timer: 
+  - theme: Dare
+    text: 'Put a condiment of your choice on your head and leave it there for 30
+      sec '
+    timer: 30
+  - theme: Dare
+    text: Do a handstand or headstand.
+    timer: 
+  - theme: Dare
+    text: Tell the group your most embarrassing story.
+    timer: 
+  - theme: Dare
+    text: Try to do 10 sit-ups.
+    timer: 
+  - theme: Dare
+    text: Wear someone else's shoes for the rest of the game.
+    timer: 
+  - theme: Dare
+    text: Try to touch your toes without bending your knees.
+    timer: 
+  - theme: Dare
+    text: Do a "mannequin challenge" with a group of people.
+    timer: 
+  - theme: Dare
+    text: Try to make everyone in the room laugh.
+    timer: 
+  - theme: Dare
+    text: Do a rap or sing a song.
+    timer: 
+  - theme: Dare
+    text: Eat a piece of fruit in the most ridiculous way possible.
+    timer: 
+  - theme: Dare
+    text: Try to break dance or do a hip hop dance.
+    timer: 
+  - theme: Dare
+    text: Try to walk on your hands and feet like a crab.
+    timer: 
+  - theme: Dare
+    text: Give someone a belly rub.
+    timer: 
+  - theme: Dare
+    text: Do the worm or the sprinkler dance.
+    timer: 
+  - theme: Dare
+    text: Try to hula hoop for 30 seconds.
+    timer: 30
+  - theme: Dare
+    text: Do a backbend.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by the group.
+    timer: 
+  - theme: Dare
+    text: Try to balance a book on your head while walking across the room.
+    timer: 
+  - theme: Dare
+    text: Do a handstand against a wall.
+    timer: 
+  - theme: Dare
+    text: Do the cha-cha slide or the Macarena.
+    timer: 
+  - theme: Dare
+    text: Try to walk like a duck.
+    timer: 
+  - theme: Dare
+    text: Do 10 squats.
+    timer: 
+  - theme: Dare
+    text: Tell a story in a funny accent.
+    timer: 
+  - theme: Dare
+    text: Try to do a forward roll.
+    timer: 
+  - theme: Dare
+    text: Do a interpretive dance to a song of your choice.
+    timer: 
+  - theme: Dare
+    text: Do a flip or a tumble.
+    timer: 
+  - theme: Dare
+    text: Try to balance a broom on your chin.
+    timer: 
+  - theme: Dare
+    text: Do the robot dance.
+    timer: 
+  - theme: Dare
+    text: Do the worm or the sprinkler dance with someone else.
+    timer: 
+  - theme: Dare
+    text: Try to do a one-handed cartwheel.
+    timer: 
+  - theme: Dare
+    text: Call a random number and tell them a joke.
+    timer: 
+  - theme: Dare
+    text: Put on a silly costume and parade around the room.
+    timer: 
+  - theme: Dare
+    text: Do a dramatic reading of a children's book.
+    timer: 
+  - theme: Dare
+    text: Try to balance a pencil on your nose.
+    timer: 
+  - theme: Dare
+    text: Do the electric slide or the Cupid shuffle.
+    timer: 
+  - theme: Dare
+    text: Try to make a balloon animal.
+    timer: 
+  - theme: Dare
+    text: Do a magic trick for the group.
+    timer: 
+  - theme: Dare
+    text: Put on a blindfold and try to identify objects by touch.
+    timer: 
+  - theme: Dare
+    text: Do a daring stunt chosen by the group.
+    timer: 
+  - theme: Dare
+    text: Try to balance a spoon on your nose.
+    timer: 
+  - theme: Dare
+    text: Do the twister dance with someone else.
+    timer: 
+  - theme: Dare
+    text: Tell a story while making exaggerated hand gestures.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by the youngest person in the room.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by the oldest person in the room.
+    timer: 
+  - theme: Dare
+    text: Try to fit as many marshmallows in your mouth as you can.
+    timer: 
+  - theme: Dare
+    text: Do the twist or the mashed potato.
+    timer: 
+  - theme: Dare
+    text: Try to make a human pyramid with the group.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by someone with the same first initial as you.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by someone with a different first initial as you.
+    timer: 
+  - theme: Dare
+    text: Try to balance a coin on your elbow for as long as you can.
+    timer: 
+  - theme: Dare
+    text: Do a silly walk around the room.
+    timer: 
+  - theme: Dare
+    text: Try to hula hoop while sitting down.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by the person to your left.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by the person to your right.
+    timer: 
+  - theme: Dare
+    text: Try to balance a pencil on your chin.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by the person in the room with the longest hair.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by the person in the room with the shortest hair.
+    timer: 
+  - theme: Dare
+    text: Try to balance a pencil on your forehead.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by the person in the room with the most piercings.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by the person in the room with the least piercings.
+    timer: 
+  - theme: Dare
+    text: Try to balance a pencil on your nose while standing on one foot.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by the person in the room with the most tattoos.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by the person in the room with the least tattoos.
+    timer: 
+  - theme: Dare
+    text: Try to balance a pencil on your chin while standing on one foot.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by the person wearing the brightest clothing.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by the person wearing the dullest clothing.
+    timer: 
+  - theme: Dare
+    text: Try to balance a pencil on your forehead while standing on one foot.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by the person with the longest fingernails.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by the person with the shortest fingernails.
+    timer: 
+  - theme: Dare
+    text: Try to balance a pencil on your nose while standing on one foot and closing
+      your eyes.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by the person with the most unique shoes.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by the person with the most basic shoes.
+    timer: 
+  - theme: Dare
+    text: Try to balance a pencil on your chin while standing on one foot and closing
+      your eyes.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by the person with the wildest haircut.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by the person with the most conventional haircut.
+    timer: 
+  - theme: Dare
+    text: Try to balance a pencil on your forehead while standing on one foot and
+      closing your eyes.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by the person who has traveled the farthest from home.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by the person who has traveled the least from home.
+    timer: 
+  - theme: Dare
+    text: Try to balance a pencil on your
+    timer: 
+  - theme: Dare
+    text: Sing a karaoke song of your choice in front of everyone.
+    timer: 
+  - theme: Dare
+    text: Attempt to breakdance or perform a hip hop dance.
+    timer: 
+  - theme: Dare
+    text: Do an impression of a famous person or character.
+    timer: 
+  - theme: Dare
+    text: Wear a tutu and perform a dance in front of everyone.
+    timer: 
+  - theme: Dare
+    text: Do a cartwheel or a handstand.
+    timer: 
+  - theme: Dare
+    text: Wear a funny hat and make silly faces for 30 sec
+    timer: 30
+  - theme: Dare
+    text: Do a dare chosen by someone with a different birthday month than you.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by someone with the same birthday month as you.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by someone with the same astrological sign as you.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by someone with a different astrological sign than you.
+    timer: 
+  - theme: Dare
+    text: Drink a cup of juice or soda with a crazy straw.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by someone who has a different favorite color than you.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by someone who has the same favorite color as you.
+    timer: 
+  - theme: Dare
+    text: Try to balance a book on your head and walk across the room.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by someone who has a different favorite animal than you.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by someone who has the same favorite animal as you.
+    timer: 
+  - theme: Dare
+    text: Try to balance a spoon on your nose while hopping on one foot.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by someone who has a different favorite food than you.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by someone who has the same favorite food as you.
+    timer: 
+  - theme: Dare
+    text: Try to balance a pencil on your chin while hopping on one foot.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by someone who has a different favorite movie than you.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by someone who has the same favorite movie as you.
+    timer: 
+  - theme: Dare
+    text: Try to balance a pencil on your nose while hopping on one foot and closing
+      your eyes.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by someone who has a different favorite TV show than you.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by someone who has the same favorite TV show as you.
+    timer: 
+  - theme: Dare
+    text: Try to balance a pencil on your chin while hopping on one foot and closing
+      your eyes.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by someone who has a different favorite music genre than
+      you.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by someone who has the same favorite music genre as you.
+    timer: 
+  - theme: Dare
+    text: Try to balance a pencil on your forehead while hopping on one foot and
+      closing your eyes.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by someone who has a different favorite sports team than
+      you.
+    timer: 
+  - theme: Dare
+    text: Do a dare chosen by someone who has the same favorite sports team as you.
+    timer: 

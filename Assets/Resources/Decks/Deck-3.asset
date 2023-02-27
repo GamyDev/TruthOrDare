@@ -12,427 +12,732 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 720195d612531fe4c818f9aa95ed4840, type: 3}
   m_Name: Deck-3
   m_EditorClassIdentifier: 
-  deckTitle: Most Likely
-  deckDescription: Selected player choose who is most likely to... And then they
-    both sips twice without hard feelings.
-  icon: {fileID: 21300000, guid: d23eec8c16cc649a68b3cf9b0cab27c6, type: 3}
+  deckTitle: Personal fears
+  type: 0
+  free: 0
   questions:
-  - name: 
-    text: '[player], who would most likely become a CEO at a big successful company?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to get recognized by the Guinness World Record?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to get away with murder?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to sneak out on a girls trip to flirt with
-      a total stranger?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to get upset for the most stupid reasons?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to jump off a moving train?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to join the secret service?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who would most likely win a Grammy?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to get detained for harassing a policeman?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to get a divorce less than a week into her
-      marriage?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to call in sick at work just to travel for
-      a concert in another state?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to be an alcoholic?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to be a gambling addict?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to rob a bank?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to be conferred with the most prestigious
-      national award in the country?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to establish a scientific law?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to become a nun?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to get a heart attack from watching a horror
-      movie?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to be the first to get a car?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to be very sensitive?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to be a perfectionist?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who would most likely get the most tattoos?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to date two guys at a time?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who would most likely dye her hair red?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to become a stripper?'
-    players: 1
+  - theme: Truth
+    text: What is your biggest fear and how has it affected your life?
     timer: 
-  - name: 
-    text: '[player], who is most likely to embarrass a friend in public?'
-    players: 1
+  - theme: Truth
+    text: Have you ever had a panic attack and what triggered it?
     timer: 
-  - name: 
-    text: '[player], who would most likely be a philanthropist?'
-    players: 1
+  - theme: Truth
+    text: What is something that scares you that most people find silly or irrational?
     timer: 
-  - name: 
-    text: '[player], who would most likely try a 3some?'
-    players: 1
+  - theme: Truth
+    text: Have you ever had a phobia or intense fear that you had to seek professional
+      help for?
     timer: 
-  - name: 
-    text: '[player], who would most likely get hauled by a bear?'
-    players: 1
+  - theme: Truth
+    text: What is a fear you have that you wish you could overcome?
     timer: 
-  - name: 
-    text: '[player], who is most likely to be the most sarcastic?'
-    players: 1
+  - theme: Truth
+    text: Have you ever experienced a traumatic event that has left you with lasting
+      fear or anxiety?
     timer: 
-  - name: 
-    text: '[player], who would most likely love to spread rumors?'
-    players: 1
+  - theme: Truth
+    text: What is a fear you have that you have never told anyone about?
     timer: 
-  - name: 
-    text: '[player], who is most likely to be a nerd?'
-    players: 1
+  - theme: Truth
+    text: How do you cope with fear and anxiety when you feel overwhelmed?
     timer: 
-  - name: 
-    text: '[player], who would most likely never be invited to the birthday party?'
-    players: 1
+  - theme: Truth
+    text: Have you ever had a nightmare that has stuck with you and why did it scare
+      you?
     timer: 
-  - name: 
-    text: '[player], who would most likely be awkward on her first date?'
-    players: 1
+  - theme: Truth
+    text: Do you believe in ghosts or supernatural entities and if so, what is your
+      biggest fear related to them?
     timer: 
-  - name: 
-    text: '[player], who would most likely be admitted into a psychiatric hospital?'
-    players: 1
+  - theme: Truth
+    text: What is something that you are afraid of happening in the future?
     timer: 
-  - name: 
-    text: '[player], who is most likely to join a gang?'
-    players: 1
+  - theme: Truth
+    text: What is a fear that you had as a child that you still have today?
     timer: 
-  - name: 
-    text: '[player], who would most likely sleepwalk?'
-    players: 1
+  - theme: Truth
+    text: Have you ever had a close call with death that has left you with a lasting
+      fear?
     timer: 
-  - name: 
-    text: '[player], who would most likely never go to college?'
-    players: 1
+  - theme: Truth
+    text: Do you have any social fears or anxieties and if so, what are they?
     timer: 
-  - name: 
-    text: '[player], who is most likely to be the best baker?'
-    players: 1
+  - theme: Truth
+    text: What is the scariest experience you have ever had and how did you overcome
+      it?
     timer: 
-  - name: 
-    text: '[player], who is most likely to become a wrestler?'
-    players: 1
+  - theme: Truth
+    text: Have you ever had a fear of failure and how has it impacted your life?
     timer: 
-  - name: 
-    text: '[player], who is most likely to have never been to the movies?'
-    players: 1
+  - theme: Truth
+    text: What is something that you know you should do but are too afraid to try?
     timer: 
-  - name: 
-    text: '[player], who is most likely to be paranoid?'
-    players: 1
+  - theme: Truth
+    text: Do you have any fears related to your health or mortality?
     timer: 
-  - name: 
-    text: '[player], who is most likely to be the most creative?'
-    players: 1
+  - theme: Truth
+    text: What is a fear that you have conquered and how did you do it?
     timer: 
-  - name: 
-    text: '[player], who is most likely to be the most caring?'
-    players: 1
+  - theme: Truth
+    text: Have you ever been in a dangerous situation and how did you react to it?
     timer: 
-  - name: 
-    text: '[player], who would most likely never want to have a baby?'
-    players: 1
+  - theme: Truth
+    text: What is the scariest movie you have ever watched and why did it scare you
+      so much?
     timer: 
-  - name: 
-    text: '[player], who would most likely get a snake as a pet?'
-    players: 1
+  - theme: Truth
+    text: Have you ever had a fear of abandonment and how has it affected your relationships?
     timer: 
-  - name: 
-    text: '[player], who is most likely to be the most athletic?'
-    players: 1
+  - theme: Truth
+    text: What is a fear that you have developed as an adult that you didn't have
+      as a child?
     timer: 
-  - name: 
-    text: '[player], who is most likely the best punster?'
-    players: 1
+  - theme: Truth
+    text: Have you ever had a fear of the dark and what caused it?
     timer: 
-  - name: 
-    text: '[player], who is most likely to be the best liar?'
-    players: 1
+  - theme: Truth
+    text: What is a fear that you have that you know is irrational but still can't
+      shake off?
     timer: 
-  - name: 
-    text: '[player], who is most likely to find it easy winning an election?'
-    players: 1
+  - theme: Truth
+    text: Have you ever had a fear of public speaking and how have you dealt with
+      it?
     timer: 
-  - name: 
-    text: '[player], who will most likely be unable to keep a secret for just 30
-      minutes?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who would most likely live the longest?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to have a lot of brothers and sisters?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to listen to classical music?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to go to the museum very often?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to smoke weed?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to have always been the heartbreaker?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to live in a big city?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to watch romantic movies?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to be in a choir?'
-    players: 1
-    timer: 
-  - name: 
-    text: "[player], who is most likely to be a secret Justin Bieber\u2019s fan?"
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to be the best at math?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to give most of their money to charity?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to be a drama queen?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to marry a celebrity?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely always to be happy?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to hold their breath the longest as possible?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to have the most piercings?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to do weird things in public?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to have weird phobias?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to win a Nobel prize?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to kill someone accidentally?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to die of something stupid?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to get in a fight?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to fail a simple test?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to become a multi-millionaire?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to get arrested for walking around naked?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to talk to animals?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is most likely to fall asleep in class?'
-    players: 1
+  - theme: Truth
+    text: What is a fear that you have that you think is shared by most people?
     timer: 
-  - name: 
-    text: '[player], who is most likely to cry because of a sad movie?'
-    players: 1
+  - theme: Truth
+    text: Have you ever had a fear of flying and how did you overcome it?
     timer: 
-  - name: 
-    text: '[player], who is most likely to have two girlfriends at one time?'
-    players: 1
+  - theme: Truth
+    text: What is a fear that you have that is related to a past trauma?
     timer: 
-  - name: 
-    text: '[player], who is most likely to be the first one to die in a zombie apocalypse?'
-    players: 1
+  - theme: Truth
+    text: Have you ever had a fear of heights and what caused it?
     timer: 
-  - name: 
-    text: '[player], who is most likely to do the bungee jump?'
-    players: 1
+  - theme: Truth
+    text: What is a fear that you have that you are ashamed of?
     timer: 
-  - name: 
-    text: '[player], who is most likely to have never been in love?'
-    players: 1
+  - theme: Truth
+    text: Have you ever had a fear of being alone and how did you overcome it?
     timer: 
-  - name: 
-    text: '[player], who is most likely to be a stand-up comedian?'
-    players: 1
+  - theme: Truth
+    text: What is a fear that you have that you think is unique to you?
     timer: 
-  - name: 
-    text: '[player], who is most likely to join the military?'
-    players: 1
+  - theme: Truth
+    text: Have you ever had a fear of intimacy and how has it affected your relationships?
     timer: 
-  - name: 
-    text: '[player], who is most likely to be a world traveller?'
-    players: 1
+  - theme: Truth
+    text: What is a fear that you have that is related to your career or future prospects?
     timer: 
-  - name: 
-    text: '[player], who is most likely to be a supermodel?'
-    players: 1
+  - theme: Truth
+    text: Have you ever had a fear of water and what caused it?
     timer: 
-  - name: 
-    text: '[player], who is most likely to win the lottery?'
-    players: 1
+  - theme: Truth
+    text: What is a fear that you have that you think is related to your upbringing
+      or childhood experiences?
     timer: 
-  - name: 
-    text: '[player], who is most likely to go on a world tour?'
-    players: 1
+  - theme: Truth
+    text: Have you ever had a fear of commitment and how has it affected your relationships?
     timer: 
-  - name: 
-    text: '[player], who is most likely to invent something useful?'
-    players: 1
+  - theme: Truth
+    text: What is a fear that you have that is related to social or cultural norms?
     timer: 
-  - name: 
-    text: '[player], who is most likely to be on a commercial?'
-    players: 1
+  - theme: Truth
+    text: Have you ever had a fear of failure and how has it affected your life choices?
     timer: 
-  - name: 
-    text: '[player], who is most likely to write a best seller?'
-    players: 1
+  - theme: Truth
+    text: What is a fear that you have that is related to your identity or sense
+      of self?
     timer: 
-  - name: 
-    text: '[player], who is most likely to cause a world war?'
-    players: 1
+  - theme: Truth
+    text: Have you ever had a fear of the unknown and how have you coped with it?
     timer: 
-  - name: 
-    text: '[player], who is most likely to move to a different country?'
-    players: 1
+  - theme: Truth
+    text: What is a fear that you have that is related to technology or the internet?
     timer: 
-  - name: 
-    text: '[player], who is most likely to make some change?'
-    players: 1
+  - theme: Truth
+    text: Have you ever had a fear of being judged or criticized and how has it affected
+      your behavior?
     timer: 
-  - name: 
-    text: '[player], who is most likely to laugh at the wrong moment?'
-    players: 1
+  - theme: Truth
+    text: What is a fear that you have that is related to your physical appearance?
     timer: 
-  - name: 
-    text: '[player], who is most likely to cry in a public place?'
-    players: 1
+  - theme: Truth
+    text: Have you ever had a fear of being vulnerable and how has it affected your
+      relationships?
     timer: 
-  - name: 
-    text: '[player], who is most likely to do plastic surgery?'
-    players: 1
+  - theme: Truth
+    text: What is a fear that you have that is related to aging or mortality?
     timer: 
-  - name: 
-    text: '[player], who is most likely to read every book in a school library?'
-    players: 1
+  - theme: Truth
+    text: Have you ever had a fear of success and how has it affected your life choices?
     timer: 
-  - name: 
-    text: '[player], who is most likely to run away to join the circus?'
-    players: 1
+  - theme: Truth
+    text: What is a fear that you have that is related to your personal beliefs or
+      values?
     timer: 
-  - name: 
-    text: '[player], who is most likely to spend all their money on something stupid?'
-    players: 1
+  - theme: Truth
+    text: Have you ever had a fear of being isolated or disconnected from others
+      and how have you coped with it?
     timer: 
-  - name: 
-    text: '[player], who is most likely to forget important birthdays?'
-    players: 1
+  - theme: Truth
+    text: What is a fear that you have that is related to the natural world or the
+      environment?
     timer: 
-  isOpen: 0
+  - theme: Truth
+    text: Have you ever had a fear of being inadequate or not good enough and how
+      has it affected your self-esteem?
+    timer: 
+  - theme: Truth
+    text: What is a fear that you have that is related to the future of society or
+      the world at large?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a fear of being rejected or abandoned by someone you
+      love and how has it affected your relationships?
+    timer: 
+  - theme: Truth
+    text: What is a fear that you have that is related to your financial situation
+      or career prospects?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a fear of losing control and how has it affected your
+      behavior?
+    timer: 
+  - theme: Truth
+    text: What is a fear that you have that is related to your health or well-being?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a fear of change and how has it affected your life choices?
+    timer: 
+  - theme: Truth
+    text: What is a fear that you have that is related to your personal relationships
+      with family or friends?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a fear of the supernatural or paranormal and how has
+      it affected your beliefs or behavior?
+    timer: 
+  - theme: Truth
+    text: What is a fear that you have that is related to your cultural or ethnic
+      background?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a fear of failure and how has it affected your personal
+      goals?
+    timer: 
+  - theme: Truth
+    text: What is a fear that you have that is related to your own mortality?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a fear of missing out (FOMO) and how has it affected
+      your behavior?
+    timer: 
+  - theme: Truth
+    text: What is a fear that you have that is related to your romantic relationships?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a fear of being alone and how has it affected your mental
+      health?
+    timer: 
+  - theme: Truth
+    text: What is a fear that you have that is related to your academic or professional
+      achievements?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a fear of rejection and how has it affected your relationships?
+    timer: 
+  - theme: Truth
+    text: What is a fear that you have that is related to your ability to communicate
+      effectively?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a fear of being misunderstood and how has it affected
+      your relationships?
+    timer: 
+  - theme: Truth
+    text: What is a fear that you have that is related to your personal safety or
+      security?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a fear of disappointing others and how has it affected
+      your behavior?
+    timer: 
+  - theme: Truth
+    text: What is a fear that you have that is related to your spirituality or religious
+      beliefs?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a fear of being vulnerable and how has it affected your
+      ability to connect with others?
+    timer: 
+  - theme: Truth
+    text: What is a fear that you have that is related to your family or personal
+      history?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a fear of speaking up and how has it affected your ability
+      to advocate for yourself?
+    timer: 
+  - theme: Truth
+    text: What is a fear that you have that is related to your ability to trust others?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a fear of not living up to your own expectations and
+      how has it affected your mental health?
+    timer: 
+  - theme: Truth
+    text: What is a fear that you have that is related to your ability to make decisions?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a fear of missing an opportunity and how has it affected
+      your behavior?
+    timer: 
+  - theme: Truth
+    text: What is a fear that you have that is related to your social status or reputation?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a fear of being alone in a public place and how has it
+      affected your behavior?
+    timer: 
+  - theme: Truth
+    text: What is a fear that you have that is related to your ability to express
+      yourself creatively?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a fear of being powerless and how has it affected your
+      relationships?
+    timer: 
+  - theme: Truth
+    text: What is a fear that you have that is related to your ability to set boundaries
+      with others?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a fear of being in a crowded or enclosed space and how
+      has it affected your behavior?
+    timer: 
+  - theme: Truth
+    text: What is a fear that you have that is related to your ability to forgive
+      others?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a fear of being in a natural disaster and how has it
+      affected your mental health?
+    timer: 
+  - theme: Truth
+    text: What is a fear that you have that is related to your personal image or
+      brand?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a fear of being dependent on others and how has it affected
+      your behavior?
+    timer: 
+  - theme: Truth
+    text: What is a fear that you have that is related to your ability to trust your
+      own instincts?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a fear of being abandoned by a group of friends and how
+      has it affected your relationships?
+    timer: 
+  - theme: Truth
+    text: What is a fear that you have that is related to your own success?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a fear of being vulnerable in front of a romantic partner
+      and how has it affected your relationships?
+    timer: 
+  - theme: Truth
+    text: What is a fear that you have that is related to your ability to cope with
+      stress or adversity?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a fear of being judged by others and how has it affected
+      your behavior?
+    timer: 
+  - theme: Truth
+    text: What is a fear that you have that is related to your ability to balance
+      work and personal life?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a fear of being in a situation that is out of your control
+      and how has it affected your behavior?
+    timer: 
+  - theme: Truth
+    text: What is a fear that you have that is related to your own expectations for
+      yourself?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a fear of losing a loved one and how has it affected
+      your relationships?
+    timer: 
+  - theme: Dare
+    text: Face your fear of heights by going to the highest floor of a nearby building
+      and looking down from the window for 30 seconds.
+    timer: 30
+  - theme: Dare
+    text: Confront your fear of spiders by holding a live spider in your hand for
+      one minute.
+    timer: 
+  - theme: Dare
+    text: Overcome your fear of darkness by spending 10 minutes alone in a dark room
+      without any light source.
+    timer: 
+  - theme: Dare
+    text: Face your fear of public speaking by giving a speech about a topic chosen
+      by the other players for 30 sec
+    timer: 30
+  - theme: Dare
+    text: Confront your fear of enclosed spaces by spending 5 minutes inside a small,
+      cramped space like a closet or a bathroom stall.
+    timer: 
+  - theme: Dare
+    text: Overcome your fear of being alone by spending a night without any human
+      contact or interaction.
+    timer: 
+  - theme: Dare
+    text: Face your fear of failure by attempting a task that you've always been
+      afraid to do, like attempting a difficult dance move or trying to play a musical
+      instrument.
+    timer: 
+  - theme: Dare
+    text: Confront your fear of rejection by asking out a crush or approaching a
+      stranger and striking up a conversation.
+    timer: 
+  - theme: Dare
+    text: Overcome your fear of heights by bungee jumping or skydiving if possible.
+    timer: 
+  - theme: Dare
+    text: Face your fear of public embarrassment by doing a silly dance or singing
+      a song in public.
+    timer: 
+  - theme: Dare
+    text: Confront your fear of water by swimming in deep water or jumping into a
+      pool from a high diving board.
+    timer: 
+  - theme: Dare
+    text: Overcome your fear of dogs by spending time with a friendly dog, petting
+      it and playing with it.
+    timer: 
+  - theme: Dare
+    text: Face your fear of the dark by spending a night in a dark forest or a cemetery.
+    timer: 
+  - theme: Dare
+    text: Confront your fear of failure by attempting to learn a new skill, like
+      juggling or skateboarding, in front of others.
+    timer: 
+  - theme: Dare
+    text: Overcome your fear of heights by climbing a tall tree or a rock climbing
+      wall.
+    timer: 
+  - theme: Dare
+    text: Face your fear of public speaking by participating in an impromptu debate
+      or giving a toast at a party.
+    timer: 
+  - theme: Dare
+    text: Confront your fear of snakes by holding a live snake for one minute.
+    timer: 
+  - theme: Dare
+    text: Overcome your fear of enclosed spaces by spending time in a sensory deprivation
+      tank.
+    timer: 
+  - theme: Dare
+    text: Face your fear of being alone in the dark by going on a night hike by yourself.
+    timer: 
+  - theme: Dare
+    text: Confront your fear of heights by walking across a suspension bridge or
+      a tightrope.
+    timer: 
+  - theme: Dare
+    text: Face your fear of fire by lighting a small fire and cooking a meal over
+      it.
+    timer: 
+  - theme: Dare
+    text: Confront your fear of needles by getting a small tattoo or piercing.
+    timer: 
+  - theme: Dare
+    text: Overcome your fear of clowns by watching a scary clown movie alone in the
+      dark.
+    timer: 
+  - theme: Dare
+    text: Face your fear of loud noises by attending a concert or music festival.
+    timer: 
+  - theme: Dare
+    text: Confront your fear of being lost by going on a solo hike without a map
+      or GPS.
+    timer: 
+  - theme: Dare
+    text: Overcome your fear of germs by eating a meal using only your hands, without
+      washing them first.
+    timer: 
+  - theme: Dare
+    text: Face your fear of heights by going on a hot air balloon ride.
+    timer: 
+  - theme: Dare
+    text: Confront your fear of ghosts by visiting a haunted house or cemetery at
+      night.
+    timer: 
+  - theme: Dare
+    text: Overcome your fear of failure by participating in a talent show or open
+      mic night.
+    timer: 
+  - theme: Dare
+    text: Face your fear of tight spaces by crawling through a small tunnel or cave.
+    timer: 
+  - theme: Dare
+    text: Confront your fear of rejection by asking for a raise or promotion at work.
+    timer: 
+  - theme: Dare
+    text: Overcome your fear of drowning by going scuba diving or snorkeling.
+    timer: 
+  - theme: Dare
+    text: Face your fear of public speaking by giving a speech in front of a large
+      crowd.
+    timer: 
+  - theme: Dare
+    text: Confront your fear of flying by taking a flight and sitting in the window
+      seat.
+    timer: 
+  - theme: Dare
+    text: Overcome your fear of the dark by spending a night alone in a pitch-black
+      room with no light.
+    timer: 
+  - theme: Dare
+    text: Face your fear of heights by taking a zip-lining tour.
+    timer: 
+  - theme: Dare
+    text: Confront your fear of enclosed spaces by spending time in an MRI machine
+      or an elevator.
+    timer: 
+  - theme: Dare
+    text: Overcome your fear of being alone by camping in the wilderness alone for
+      a night.
+    timer: 
+  - theme: Dare
+    text: Face your fear of spiders by holding a tarantula or other large spider
+      in your hands.
+    timer: 
+  - theme: Dare
+    text: Confront your fear of thunderstorms by spending time outside during a thunderstorm,
+      without seeking shelter.
+    timer: 
+  - theme: Dare
+    text: Face your fear of being buried alive by spending 1 minute inside a coffin
+      with the lid closed.
+    timer: 60
+  - theme: Dare
+    text: Confront your fear of heights by walking on a tightrope between two buildings.
+    timer: 
+  - theme: Dare
+    text: Overcome your fear of public speaking by performing a stand-up comedy routine.
+    timer: 
+  - theme: Dare
+    text: Face your fear of sharks by swimming with sharks in an enclosed tank.
+    timer: 
+  - theme: Dare
+    text: Confront your fear of the unknown by exploring a dark and abandoned place.
+    timer: 
+  - theme: Dare
+    text: Overcome your fear of darkness by watching a horror movie alone in the
+      dark.
+    timer: 
+  - theme: Dare
+    text: Face your fear of failure by trying an extreme sport like skydiving or
+      bungee jumping.
+    timer: 
+  - theme: Dare
+    text: Confront your fear of clowns by dressing up as a clown and performing for
+      others.
+    timer: 
+  - theme: Dare
+    text: Overcome your fear of being alone in the wilderness by spending a night
+      in a remote location without any technology or communication devices.
+    timer: 
+  - theme: Dare
+    text: Face your fear of heights by riding a roller coaster with a steep drop.
+    timer: 
+  - theme: Dare
+    text: Confront your fear of death by visiting a morgue or cemetery and spending
+      time there.
+    timer: 
+  - theme: Dare
+    text: Overcome your fear of public humiliation by performing a silly dance or
+      song in public.
+    timer: 
+  - theme: Dare
+    text: Face your fear of snakes by holding a venomous snake for one minute.
+    timer: 
+  - theme: Dare
+    text: Confront your fear of failure by attempting a difficult physical challenge
+      like a marathon or triathlon.
+    timer: 
+  - theme: Dare
+    text: Overcome your fear of heights by jumping off a high diving board or platform.
+    timer: 
+  - theme: Dare
+    text: Face your fear of failure by taking a big risk, like starting your own
+      business or pursuing a new career.
+    timer: 
+  - theme: Dare
+    text: Confront your fear of the unknown by exploring a haunted house or abandoned
+      building at night.
+    timer: 
+  - theme: Dare
+    text: Overcome your fear of being alone by going on a solo trip to a foreign
+      country.
+    timer: 
+  - theme: Dare
+    text: Face your fear of public speaking by giving a TED talk or keynote speech.
+    timer: 
+  - theme: Dare
+    text: Confront your fear of drowning by jumping off a high cliff into a deep
+      lake or ocean.
+    timer: 
+  - theme: Dare
+    text: Face your fear of the dark by spending an entire night in a completely
+      dark room with no light source.
+    timer: 
+  - theme: Dare
+    text: Confront your fear of heights by going skydiving or base jumping from a
+      tall building.
+    timer: 
+  - theme: Dare
+    text: Overcome your fear of enclosed spaces by spending an hour in a sensory
+      deprivation tank.
+    timer: 
+  - theme: Dare
+    text: Face your fear of failure by participating in a competition or contest
+      in front of a large audience.
+    timer: 
+  - theme: Dare
+    text: Confront your fear of spiders by spending an hour in a room filled with
+      spiders.
+    timer: 
+  - theme: Dare
+    text: Overcome your fear of public speaking by delivering a speech at a large
+      conference or convention.
+    timer: 
+  - theme: Dare
+    text: Face your fear of drowning by learning how to surf or scuba dive in the
+      ocean.
+    timer: 
+  - theme: Dare
+    text: Confront your fear of being alone by spending a week in complete isolation.
+    timer: 
+  - theme: Dare
+    text: Overcome your fear of heights by walking on a glass-bottomed bridge or
+      platform.
+    timer: 
+  - theme: Dare
+    text: Face your fear of the unknown by taking a spontaneous trip to a place you've
+      never been before.
+    timer: 
+  - theme: Dare
+    text: Confront your fear of failure by starting a new hobby or learning a new
+      skill that you've always been interested in.
+    timer: 
+  - theme: Dare
+    text: Overcome your fear of clowns by dressing up as a clown and performing at
+      a children's birthday party.
+    timer: 
+  - theme: Dare
+    text: Face your fear of snakes by going on a snake-handling tour or handling
+      a venomous snake.
+    timer: 
+  - theme: Dare
+    text: Confront your fear of death by participating in a near-death experience,
+      such as skydiving, bungee jumping, or cliff jumping.
+    timer: 
+  - theme: Dare
+    text: Overcome your fear of public speaking by hosting a webinar or online workshop.
+    timer: 
+  - theme: Dare
+    text: Face your fear of tight spaces by going spelunking in a cave or exploring
+      a narrow underground tunnel.
+    timer: 
+  - theme: Dare
+    text: Confront your fear of heights by going on a hot air balloon ride.
+    timer: 
+  - theme: Dare
+    text: Overcome your fear of failure by taking a challenging college course or
+      pursuing an advanced degree.
+    timer: 
+  - theme: Dare
+    text: Face your fear of the unknown by traveling to a foreign country where you
+      don't speak the language or know anyone.
+    timer: 
+  - theme: Dare
+    text: Confront your fear of drowning by taking a whitewater rafting trip on a
+      class V river.
+    timer: 
+  - theme: Dare
+    text: Face your fear of fire by learning how to juggle with fire torches.
+    timer: 
+  - theme: Dare
+    text: Confront your fear of dogs by spending an afternoon volunteering at an
+      animal shelter and playing with the dogs.
+    timer: 
+  - theme: Dare
+    text: Overcome your fear of needles by getting a tattoo or a piercing.
+    timer: 
+  - theme: Dare
+    text: Face your fear of heights by walking on a tightrope between two hot air
+      balloons.
+    timer: 
+  - theme: Dare
+    text: Confront your fear of failure by participating in a stand-up comedy open
+      mic night.
+    timer: 
+  - theme: Dare
+    text: Overcome your fear of being alone by going on a solo camping trip for a
+      week.
+    timer: 
+  - theme: Dare
+    text: Face your fear of drowning by going on a deep-sea fishing trip and jumping
+      into the water with sharks.
+    timer: 
+  - theme: Dare
+    text: Confront your fear of the unknown by participating in an ayahuasca ceremony.
+    timer: 
+  - theme: Dare
+    text: Overcome your fear of public speaking by participating in a debate competition.
+    timer: 
+  - theme: Dare
+    text: Face your fear of flying by going on a helicopter tour of a city.
+    timer: 
+  - theme: Dare
+    text: Confront your fear of failure by starting a business from scratch.
+    timer: 
+  - theme: Dare
+    text: Overcome your fear of heights by going on a zip-line adventure through
+      a forest.
+    timer: 
+  - theme: Dare
+    text: Face your fear of spiders by holding a tarantula or a scorpion for a minute.
+    timer: 
+  - theme: Dare
+    text: Confront your fear of rejection by asking someone out on a date in public.
+    timer: 
+  - theme: Dare
+    text: Overcome your fear of the unknown by trying a new cuisine you've never
+      tried before.
+    timer: 
+  - theme: Dare
+    text: Face your fear of the dark by spending a night in a haunted house with
+      no lights.
+    timer: 
+  - theme: Dare
+    text: Confront your fear of the ocean by going on a deep-sea diving excursion.
+    timer: 
+  - theme: Dare
+    text: Overcome your fear of public speaking by giving a speech in a foreign language.
+    timer: 
+  - theme: Dare
+    text: Face your fear of heights by doing a bungee jump from a hot air balloon.
+    timer: 
+  - theme: Dare
+    text: Confront your fear of enclosed spaces by spending a night in a small, dark,
+      windowless room.
+    timer: 

@@ -72,6 +72,7 @@ public class QuestionsParser : MonoBehaviour
 }
 
 
+
 [System.Serializable]
 public class CSVQuestionData
 {
@@ -83,9 +84,9 @@ public class CSVQuestionData
 public class CSVQuestion
 { 
     [Index(0)]
-    public string text { get; set; }
+    public string theme { get; set; }
     [Index(1)]
-    public string count { get; set; }
+    public string text { get; set; }
     [Index(2)]
     public string timer { get; set; }
 }

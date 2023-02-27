@@ -12,211 +12,712 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 720195d612531fe4c818f9aa95ed4840, type: 3}
   m_Name: Deck-4
   m_EditorClassIdentifier: 
-  deckTitle: Drink or Dare
-  deckDescription: Time for action! Do the dare to make everyone else sip 1 time,
-    or sip 6 times to skip it.
-  icon: {fileID: 21300000, guid: 8f282547e6b6643a9a350d5b13ae677c, type: 3}
+  deckTitle: 'Love and romance '
+  type: 1
+  free: 1
   questions:
-  - name: 
-    text: '[player], let another person post a status on your behalf.'
-    players: 1
+  - theme: Truth
+    text: What's the most embarrassing thing you've ever done in front of someone
+      you were attracted to?
     timer: 
-  - name: 
-    text: '[player], let the other players go through your phone for one minute.'
-    players: 1
+  - theme: Truth
+    text: Have you ever had a crush on someone who was already in a relationship?
     timer: 
-  - name: 
-    text: '[player], get an item from the bathroom and sell it to the group for 3
-      minutes.'
-    players: 1
+  - theme: Truth
+    text: What's the most romantic thing you've ever done for someone else?
     timer: 
-  - name: 
-    text: '[player], drink a mystery drink created by the rest of the group.'
-    players: 1
+  - theme: Truth
+    text: Have you ever cheated on a partner?
     timer: 
-  - name: 
-    text: '[player], show your search history on your phone.'
-    players: 1
+  - theme: Truth
+    text: What's your biggest turn-off when it comes to dating?
     timer: 
-  - name: 
-    text: '[player], let the rest of the group dm someone from your instagram.'
-    players: 1
+  - theme: Truth
+    text: Have you ever stalked someone's social media profile before going on a
+      date with them?
     timer: 
-  - name: 
-    text: '[player], keep 3 ice cubes in your mouth until they melt.'
-    players: 1
+  - theme: Truth
+    text: What's the most embarrassing thing that's ever happened to you on a date?
     timer: 
-  - name: 
-    text: '[player], yell out the first word that comes to your mind.'
-    players: 1
+  - theme: Truth
+    text: Have you ever been in love with someone who didn't love you back?
     timer: 
-  - name: 
-    text: '[player], pretend to be the person on your left for 10 minutes.'
-    players: 1
+  - theme: Truth
+    text: What's your biggest fear when it comes to relationships?
     timer: 
-  - name: 
-    text: '[player], whisper a secret to the person on your left.'
-    players: 1
+  - theme: Truth
+    text: Have you ever ghosted someone after a date or a few dates?
     timer: 
-  - name: 
-    text: '[player], eat something of the groups choice without using your hands.'
-    players: 1
+  - theme: Truth
+    text: What's the most important quality you look for in a partner?
     timer: 
-  - name: 
-    text: '[player], talk in an indian or australian accent for the next 10 minutes.'
-    players: 1
+  - theme: Truth
+    text: Have you ever had a one-night stand?
     timer: 
-  - name: 
-    text: '[player], scroll through your instagram followers until someone says stop
-      and you have to like all their pics.'
-    players: 1
+  - theme: Truth
+    text: What's the most romantic gesture someone has ever done for you?
     timer: 
-  - name: 
-    text: '[player], let someone shave a part of your body.'
-    players: 1
+  - theme: Truth
+    text: Have you ever been in a love triangle?
     timer: 
-  - name: 
-    text: '[player], reply to the first five instagram stories on your timeline'
-    players: 1
+  - theme: Truth
+    text: What's the craziest thing you've ever done for love?
     timer: 
-  - name: 
-    text: '[player], send your ex a message saying you miss them.'
-    players: 1
+  - theme: Truth
+    text: Have you ever fallen for someone you met online?
     timer: 
-  - name: 
-    text: '[player], make eye contact with the person to your right and moan for
-      10 seconds.'
-    players: 1
+  - theme: Truth
+    text: What's the biggest lie you've ever told in a relationship?
     timer: 
-  - name: 
-    text: '[player], make your orgasm face at the next stranger you see until they
-      make eye contact with you.'
-    players: 1
+  - theme: Truth
+    text: Have you ever had a crush on someone of the same gender?
     timer: 
-  - name: 
-    text: '[player], pass your phone to the person on your left and let them post
-      a sexual status to your facebook.'
-    players: 1
+  - theme: Truth
+    text: What's the longest you've ever gone without being in a relationship?
     timer: 
-  - name: 
-    text: '[player], perform a seductive dance in front of the group.'
-    players: 1
+  - theme: Truth
+    text: Have you ever regretted breaking up with someone?
     timer: 
-  - name: 
-    text: '[player], pick up the nearest object to you and demonstrate how to put
-      on protection.'
-    players: 1
+  - theme: Truth
+    text: Have you ever had a crush on someone you knew you couldn't have?
     timer: 
-  - name: 
-    text: '[player], close your eyes, pick a random phone contact and leave them
-      a dirty voicemail.'
-    players: 1
+  - theme: Truth
+    text: What's the most romantic date you've ever been on?
     timer: 
-  - name: 
-    text: '[player], drop an ice cube in your pants.'
-    players: 1
+  - theme: Truth
+    text: Have you ever been caught cheating on a partner?
     timer: 
-  - name: 
-    text: '[player], google the dirtiest thing you can think of and show it to the
-      person next to you.'
-    players: 1
+  - theme: Truth
+    text: What's the most embarrassing thing you've ever said to someone you were
+      attracted to?
     timer: 
-  - name: 
-    text: '[player], facetime your most recent contact, burp, then hang up.'
-    players: 1
+  - theme: Truth
+    text: Have you ever been in a long-distance relationship?
     timer: 
-  - name: 
-    text: "[player], smell everyone\u2019s armpits and rank them from best to worst."
-    players: 1
+  - theme: Truth
+    text: What's your idea of a perfect date?
     timer: 
-  - name: 
-    text: '[player], tell us the one bedtime secret no one knows about you.'
-    players: 1
+  - theme: Truth
+    text: Have you ever been on a blind date?
     timer: 
-  - name: 
-    text: '[player], pull a moonie.'
-    players: 1
+  - theme: Truth
+    text: What's the most cringe-worthy pick-up line you've ever used or heard?
     timer: 
-  - name: 
-    text: '[player], attempt to break dance for 30 seconds.'
-    players: 1
+  - theme: Truth
+    text: Have you ever pretended to be someone else on a dating app or website?
     timer: 
-  - name: 
-    text: '[player], serenade the person to your right.'
-    players: 1
+  - theme: Truth
+    text: What's the most important lesson you've learned from a past relationship?
     timer: 
-  - name: 
-    text: '[player], dance like your life depends on it with no music for 2 whole
-      minutes.'
-    players: 1
+  - theme: Truth
+    text: Have you ever dated someone just to make someone else jealous?
     timer: 
-  - name: 
-    text: '[player], give a personalised insult to everyone in the room.'
-    players: 1
+  - theme: Truth
+    text: What's your biggest dating pet peeve?
     timer: 
-  - name: 
-    text: '[player], tell everyone your most embarrassing story about yourself.'
-    players: 1
+  - theme: Truth
+    text: Have you ever dated someone significantly older or younger than you?
     timer: 
-  - name: 
-    text: '[player], show the most embarrassing photo on your phone.'
-    players: 1
+  - theme: Truth
+    text: What's the most romantic thing someone has ever said to you?
     timer: 
-  - name: 
-    text: '[player], quack like a duck until your next turn.'
-    players: 1
+  - theme: Truth
+    text: Have you ever been in a friends-with-benefits relationship?
     timer: 
-  - name: 
-    text: '[player], call a random phone number and talk to them for as long as you
-      can.'
-    players: 1
+  - theme: Truth
+    text: What's the most important thing you've learned about yourself from a past
+      relationship?
     timer: 
-  - name: 
-    text: '[player], using only your elbows, upload a facebook status.'
-    players: 1
+  - theme: Truth
+    text: Have you ever had a rebound relationship?
     timer: 
-  - name: 
-    text: "[player], close your eyes, sit on someone\u2019s lap and guess who it
-      is."
-    players: 1
+  - theme: Truth
+    text: What's the most embarrassing thing you've ever done to impress someone
+      you were attracted to?
     timer: 
-  - name: 
-    text: '[player], attempt the first tiktok dance that appears on your for you
-      page.'
-    players: 1
+  - theme: Truth
+    text: Have you ever gotten back together with an ex and regretted it?
     timer: 
-  - name: 
-    text: '[player], eat one teaspoon of the spiciest thing you can find.'
-    players: 1
+  - theme: Truth
+    text: What's your opinion on public displays of affection (PDA)?
     timer: 
-  - name: 
-    text: '[player], drink a shot of vinegar.'
-    players: 1
+  - theme: Truth
+    text: What's the most romantic song that you've ever listened to?
     timer: 
-  - name: 
-    text: '[player], send a weird gif to the 10th person on your contacts list.'
-    players: 1
+  - theme: Truth
+    text: Have you ever cried because of a breakup?
     timer: 
-  - name: 
-    text: '[player], use a voice changing filter and send a funny voice message to
-      your ex.'
-    players: 1
+  - theme: Truth
+    text: What's your favorite romantic movie or TV show?
     timer: 
-  - name: 
-    text: '[player], go live on any social media account and declare your love for
-      me.'
-    players: 1
+  - theme: Truth
+    text: Have you ever been in a relationship that your friends or family disapproved
+      of?
     timer: 
-  - name: 
-    text: '[player], twerk along to a boring song until the music stops.'
-    players: 1
+  - theme: Truth
+    text: What's the most expensive gift you've ever given to someone you were dating?
     timer: 
-  - name: 
-    text: '[player], let your partner give you a makeover'
-    players: 1
+  - theme: Truth
+    text: Have you ever fallen in love at first sight?
     timer: 
-  - name: 
-    text: '[player], put two drops of the spiciest sauce you have on your tongue.'
-    players: 1
+  - theme: Truth
+    text: What's your favorite love quote?
     timer: 
-  isOpen: 0
+  - theme: Truth
+    text: Have you ever been on a date that you regretted going on?
+    timer: 
+  - theme: Truth
+    text: What's your opinion on online dating?
+    timer: 
+  - theme: Truth
+    text: Have you ever lied to your partner to spare their feelings?
+    timer: 
+  - theme: Truth
+    text: What's the most embarrassing nickname you've ever given to a crush or partner?
+    timer: 
+  - theme: Truth
+    text: Have you ever been in a love triangle that you initiated?
+    timer: 
+  - theme: Truth
+    text: What's the most romantic place you've ever been to?
+    timer: 
+  - theme: Truth
+    text: Have you ever dated someone who was significantly wealthier or poorer than
+      you?
+    timer: 
+  - theme: Truth
+    text: What's your opinion on Valentine's Day?
+    timer: 
+  - theme: Truth
+    text: Have you ever been in a long-term relationship without saying "I love you"?
+    timer: 
+  - theme: Truth
+    text: What's your idea of a perfect proposal?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a secret crush on a friend's significant other?
+    timer: 
+  - theme: Truth
+    text: What's the biggest mistake you've ever made in a relationship?
+    timer: 
+  - theme: Truth
+    text: Have you ever been in a relationship with someone you met through a dating
+      app or website?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a crush on a celebrity?
+    timer: 
+  - theme: Truth
+    text: What's the most embarrassing thing you've ever done to get someone's attention?
+    timer: 
+  - theme: Truth
+    text: Have you ever been on a date with someone you met through a dating app
+      or website and had a terrible experience?
+    timer: 
+  - theme: Truth
+    text: What's your opinion on open relationships?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a crush on someone who was already taken but you pursued
+      them anyway?
+    timer: 
+  - theme: Truth
+    text: What's the most romantic thing someone has ever done for you on a holiday
+      or special occasion?
+    timer: 
+  - theme: Truth
+    text: Have you ever been in a long-term relationship that you kept secret from
+      your friends or family?
+    timer: 
+  - theme: Truth
+    text: What's your biggest relationship deal-breaker?
+    timer: 
+  - theme: Truth
+    text: Have you ever been in love with someone who was emotionally unavailable?
+    timer: 
+  - theme: Truth
+    text: What's the most embarrassing thing that's ever happened to you while you
+      were flirting with someone?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a crush on a coworker or boss?
+    timer: 
+  - theme: Truth
+    text: What's the most important thing you've learned about communication in a
+      relationship?
+    timer: 
+  - theme: Truth
+    text: Have you ever been in a relationship where you felt like you were settling?
+    timer: 
+  - theme: Truth
+    text: What's the most romantic thing you've ever done for yourself?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a crush on someone who was significantly older or younger
+      than you?
+    timer: 
+  - theme: Truth
+    text: What's the most awkward conversation you've ever had with a crush or partner?
+    timer: 
+  - theme: Truth
+    text: Have you ever been in a relationship with someone who was jealous or possessive?
+    timer: 
+  - theme: Truth
+    text: What's your opinion on getting back together with an ex?
+    timer: 
+  - theme: Truth
+    text: Have you ever been in a situation where you had to choose between love
+      and your career or personal goals?
+    timer: 
+  - theme: Truth
+    text: What's the most important lesson you've learned about self-love and self-care
+      in a relationship?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a crush on someone you met on social media?
+    timer: 
+  - theme: Truth
+    text: What's the most romantic thing someone has ever said to you in a text or
+      message?
+    timer: 
+  - theme: Truth
+    text: Have you ever been in a relationship where you felt like you were not getting
+      enough attention or affection?
+    timer: 
+  - theme: Truth
+    text: What's the most embarrassing thing that's ever happened to you on a date?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a crush on someone who was in a completely different
+      social circle or community than you?
+    timer: 
+  - theme: Truth
+    text: What's your opinion on long-distance relationships?
+    timer: 
+  - theme: Truth
+    text: Have you ever been in a relationship where you felt like you were constantly
+      fighting or arguing?
+    timer: 
+  - theme: Truth
+    text: What's the most romantic gesture someone has ever done for you out of the
+      blue?
+    timer: 
+  - theme: Truth
+    text: Have you ever been in a relationship where you felt like you were being
+      used for something other than love?
+    timer: 
+  - theme: Truth
+    text: What's the most embarrassing thing you've ever said or done in front of
+      a crush or partner's family?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a crush on someone who was already your friend?
+    timer: 
+  - theme: Truth
+    text: What's your opinion on staying friends with an ex?
+    timer: 
+  - theme: Truth
+    text: Have you ever been in a relationship where you felt like you were losing
+      yourself or your identity?
+    timer: 
+  - theme: Truth
+    text: What's the most romantic thing someone has ever done for you without spending
+      any money?
+    timer: 
+  - theme: Truth
+    text: Have you ever been in a relationship where you felt like you were settling
+      for less than you deserved?
+    timer: 
+  - theme: Truth
+    text: What's the most embarrassing thing you've ever said or done during a first
+      date?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a crush on someone who was already in a committed relationship?
+    timer: 
+  - theme: Truth
+    text: What's your opinion on couples therapy?
+    timer: 
+  - theme: Truth
+    text: Have you ever been in a relationship where you felt like you were doing
+      all the work?
+    timer: 
+  - theme: Truth
+    text: What's the most important lesson you've learned about forgiveness in a
+      relationship?
+    timer: 
+  - theme: Dare
+    text: Choose a random contact in your phone and send them a love confession text.
+    timer: 
+  - theme: Dare
+    text: Take a photo with your crush or partner and make it your profile picture
+      on all your social media accounts.
+    timer: 
+  - theme: Dare
+    text: Write a love letter to someone you've never met and share it on social
+      media.
+    timer: 
+  - theme: Dare
+    text: Sing a love song to your crush or partner in a public place.
+    timer: 
+  - theme: Dare
+    text: Create a romantic gesture for your partner, like a homemade dinner or a
+      surprise date night.
+    timer: 
+  - theme: Dare
+    text: Write a poem about your crush or partner and share it on social media.
+    timer: 
+  - theme: Dare
+    text: Create a TikTok dance with your crush or partner and post it on your account.
+    timer: 
+  - theme: Dare
+    text: Ask your crush or partner to be your valentine in a creative way, like
+      a scavenger hunt or a surprise gift.
+    timer: 
+  - theme: Dare
+    text: Write a love song or rap about your crush or partner and perform it for
+      them.
+    timer: 
+  - theme: Dare
+    text: Send a message to a random person on social media and ask them on a virtual
+      date.
+    timer: 
+  - theme: Dare
+    text: Create a romantic scavenger hunt for your partner with clues that lead
+      to different romantic locations.
+    timer: 
+  - theme: Dare
+    text: Take a dance class with your crush or partner and perform a routine in
+      public.
+    timer: 
+  - theme: Dare
+    text: Write a love letter to your future self and share it on social media.
+    timer: 
+  - theme: Dare
+    text: Ask your crush or partner to recreate a romantic movie scene with you and
+      film it.
+    timer: 
+  - theme: Dare
+    text: Plan a surprise romantic getaway for your partner and whisk them away for
+      the weekend.
+    timer: 
+  - theme: Dare
+    text: Take a selfie with a stranger in a romantic location and post it on social
+      media.
+    timer: 
+  - theme: Dare
+    text: Send your crush or partner a bouquet of flowers or a box of chocolates.
+    timer: 
+  - theme: Dare
+    text: Write a love story about you and your crush or partner and share it on
+      social media.
+    timer: 
+  - theme: Dare
+    text: Ask a stranger to take a photo of you and your crush or partner in a romantic
+      pose in a public place.
+    timer: 
+  - theme: Dare
+    text: Make a list of 100 things you love about your crush or partner and share
+      it with them.
+    timer: 
+  - theme: Dare
+    text: Write a love letter to yourself and read it out loud in front of your crush
+      or partner.
+    timer: 
+  - theme: Dare
+    text: Create a romantic painting or drawing of your crush or partner and share
+      it on social media.
+    timer: 
+  - theme: Dare
+    text: Write a romantic poem or story about a fictional character and read it
+      out loud to your crush or partner.
+    timer: 
+  - theme: Dare
+    text: Take your crush or partner on a surprise picnic and serenade them with
+      a love song.
+    timer: 
+  - theme: Dare
+    text: Ask your crush or partner to go on a spontaneous road trip with you and
+      see where the journey takes you.
+    timer: 
+  - theme: Dare
+    text: Create a romantic short film or video with your crush or partner and share
+      it on social media.
+    timer: 
+  - theme: Dare
+    text: Recreate a romantic scene from a movie or TV show with your crush or partner
+      and post it on social media.
+    timer: 
+  - theme: Dare
+    text: Write a love letter to a celebrity crush and share it on social media.
+    timer: 
+  - theme: Dare
+    text: Create a romantic mixtape or playlist for your crush or partner and share
+      it on a music streaming platform.
+    timer: 
+  - theme: Dare
+    text: Write a romantic love letter using only emojis and send it to your crush
+      or partner.
+    timer: 
+  - theme: Dare
+    text: Dress up in a romantic outfit and take your crush or partner on a surprise
+      date.
+    timer: 
+  - theme: Dare
+    text: Create a romantic dessert together with your crush or partner and share
+      it on social media.
+    timer: 
+  - theme: Dare
+    text: Write a love letter to a future partner you haven't met yet and share it
+      on social media.
+    timer: 
+  - theme: Dare
+    text: Plan a surprise proposal for your crush or partner and record their reaction.
+    timer: 
+  - theme: Dare
+    text: Create a romantic playlist for your future wedding and share it on social
+      media.
+    timer: 
+  - theme: Dare
+    text: Write a love letter to a pet and share it on social media.
+    timer: 
+  - theme: Dare
+    text: Create a romantic photo album or scrapbook with your crush or partner and
+      share it on social media.
+    timer: 
+  - theme: Dare
+    text: Write a love letter to a fictional character and read it out loud to your
+      crush or partner.
+    timer: 
+  - theme: Dare
+    text: Take your crush or partner on a surprise weekend getaway to a romantic
+      location.
+    timer: 
+  - theme: Dare
+    text: Create a romantic treasure hunt for your crush or partner with clues that
+      lead to different romantic surprises.
+    timer: 
+  - theme: Dare
+    text: Take a photo with a stranger who is wearing a shirt with a heart on it
+      and post it on social media with a romantic caption.
+    timer: 
+  - theme: Dare
+    text: Plan a surprise date for your crush or partner and take them to a place
+      that holds special meaning for both of you.
+    timer: 
+  - theme: Dare
+    text: Write a love letter to your crush or partner using your non-dominant hand
+      and share it on social media.
+    timer: 
+  - theme: Dare
+    text: Give your crush or partner a sensual massage for at least five minutes.
+    timer: 
+  - theme: Dare
+    text: Create a romantic video message for your crush or partner and share it
+      on social media.
+    timer: 
+  - theme: Dare
+    text: Write a love letter to a celebrity crush and share it on social media.
+    timer: 
+  - theme: Dare
+    text: Take a dance class with your crush or partner and perform a routine in
+      a public place.
+    timer: 
+  - theme: Dare
+    text: Write a romantic poem or story about your crush or partner and post it
+      on social media.
+    timer: 
+  - theme: Dare
+    text: Take your crush or partner on a surprise weekend trip to a romantic location
+      and propose to them.
+    timer: 
+  - theme: Dare
+    text: Write a love letter to a pet and share it on social media.
+    timer: 
+  - theme: Dare
+    text: Create a romantic photo album or scrapbook with your crush or partner and
+      share it on social media.
+    timer: 
+  - theme: Dare
+    text: Plan a surprise date for your crush or partner and take them to a hot spring.
+    timer: 
+  - theme: Dare
+    text: Write a love letter to a friend and share it on social media.
+    timer: 
+  - theme: Dare
+    text: Take your crush or partner on a surprise date to a stargazing event.
+    timer: 
+  - theme: Dare
+    text: Write a romantic message on a piece of fruit with edible markers and give
+      it to your crush or partner.
+    timer: 
+  - theme: Dare
+    text: Create a romantic playlist for your crush or partner and share it on a
+      music streaming platform.
+    timer: 
+  - theme: Dare
+    text: Write a love letter to a fictional character and read it out loud to your
+      crush or partner.
+    timer: 
+  - theme: Dare
+    text: Plan a surprise proposal for your crush or partner and record their reaction.
+    timer: 
+  - theme: Dare
+    text: Write a romantic short story or fan fiction about your favorite celebrity
+      couple and share it on social media.
+    timer: 
+  - theme: Dare
+    text: Take your crush or partner on a surprise date to a botanical garden.
+    timer: 
+  - theme: Dare
+    text: Write a love letter to your crush or partner in a different language and
+      share it on social media.
+    timer: 
+  - theme: Dare
+    text: Plan a surprise date for your crush or partner and take them on a hot air
+      balloon ride at sunrise.
+    timer: 
+  - theme: Dare
+    text: Give your crush or partner a romantic massage using only your feet.
+    timer: 
+  - theme: Dare
+    text: Write a love letter to a historical figure and read it out loud to your
+      crush or partner.
+    timer: 
+  - theme: Dare
+    text: Create a romantic picnic for your crush or partner in a public place and
+      share pictures on social media.
+    timer: 
+  - theme: Dare
+    text: Plan a surprise date for your crush or partner and take them on a sunset
+      cruise.
+    timer: 
+  - theme: Dare
+    text: Write a love letter to a favorite character from a book or movie and share
+      it on social media.
+    timer: 
+  - theme: Dare
+    text: Take a cooking class with your crush or partner and prepare a romantic
+      meal together.
+    timer: 
+  - theme: Dare
+    text: Plan a surprise date for your crush or partner and take them to a winery
+      or vineyard.
+    timer: 
+  - theme: Dare
+    text: Write a love letter to your future self and share it on social media.
+    timer: 
+  - theme: Dare
+    text: Take your crush or partner on a surprise date to a museum or art gallery.
+    timer: 
+  - theme: Dare
+    text: Plan a surprise date for your crush or partner and take them on a helicopter
+      tour.
+    timer: 
+  - theme: Dare
+    text: Write a love letter to a family member and share it on social media.
+    timer: 
+  - theme: Dare
+    text: Take a pottery class with your crush or partner and create a romantic gift
+      for each other.
+    timer: 
+  - theme: Dare
+    text: Plan a surprise date for your crush or partner and take them to a beach
+      bonfire.
+    timer: 
+  - theme: Dare
+    text: Write a love letter to a fictional character and share it on social media.
+    timer: 
+  - theme: Dare
+    text: Take your crush or partner on a surprise date to a romantic bed and breakfast.
+    timer: 
+  - theme: Dare
+    text: Plan a surprise date for your crush or partner and take them on a horse-drawn
+      carriage ride.
+    timer: 
+  - theme: Dare
+    text: Write a love letter to your favorite musician or band and share it on social
+      media.
+    timer: 
+  - theme: Dare
+    text: Take your crush or partner on a surprise date to a hot springs resort.
+    timer: 
+  - theme: Dare
+    text: Write a love letter to your crush or partner using only emojis and share
+      it on social media.
+    timer: 
+  - theme: Dare
+    text: Plan a surprise date for your crush or partner and take them to a fancy
+      restaurant for a romantic dinner.
+    timer: 
+  - theme: Dare
+    text: Give your crush or partner a foot massage using a romantic essential oil
+      blend.
+    timer: 
+  - theme: Dare
+    text: Write a love letter to a fictional character and perform a dramatic reading
+      for your crush or partner.
+    timer: 
+  - theme: Dare
+    text: Create a romantic scavenger hunt for your crush or partner and post clues
+      on social media.
+    timer: 
+  - theme: Dare
+    text: Plan a surprise date for your crush or partner and take them on a hot air
+      balloon ride at sunset.
+    timer: 
+  - theme: Dare
+    text: Write a love letter to your favorite fictional couple and share it on social
+      media.
+    timer: 
+  - theme: Dare
+    text: Take a dance class with your crush or partner and perform a slow dance
+      in a public place.
+    timer: 
+  - theme: Dare
+    text: Plan a surprise date for your crush or partner and take them on a romantic
+      picnic in a park.
+    timer: 
+  - theme: Dare
+    text: Write a love letter to a parent or grandparent and share it on social media.
+    timer: 
+  - theme: Dare
+    text: Take your crush or partner on a surprise date to a luxury spa for a couples
+      massage.
+    timer: 
+  - theme: Dare
+    text: Plan a surprise date for your crush or partner and take them to a rooftop
+      bar for drinks and city views.
+    timer: 
+  - theme: Dare
+    text: Write a love letter to a historical landmark or monument and share it on
+      social media.
+    timer: 
+  - theme: Dare
+    text: Take a cooking class with your crush or partner and make a romantic dessert
+      together.
+    timer: 
+  - theme: Dare
+    text: Plan a surprise date for your crush or partner and take them to a wine
+      and painting night.
+    timer: 
+  - theme: Dare
+    text: Write a love letter to a childhood crush or first love and share it on
+      social media.
+    timer: 
+  - theme: Dare
+    text: Take your crush or partner on a surprise date to a jazz club or live music
+      venue.
+    timer: 
+  - theme: Dare
+    text: Plan a surprise date for your crush or partner and take them on a scenic
+      drive to a nearby town or city.
+    timer: 
+  - theme: Dare
+    text: Write a love letter to your favorite romantic movie or TV show and share
+      it on social media.
+    timer: 
+  - theme: Dare
+    text: Take your crush or partner on a surprise date to a rooftop or outdoor movie
+      screening.
+    timer: 

@@ -1,252 +1,73 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Keys xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<Key Name="Add a new player_key">
+	<Key Name="Play with friends or partner!_key">
 		<Translates>
-			<en-us>Add a new player</en-us>
-			<ru>Добавить нового игрока</ru>
+			<en-us>Play with friends or partner!</en-us>
+			<ru>Играйте с друзьями и любимыми!</ru>
 			<es></es>
 			<de></de>
 		</Translates>
 	</Key>
 
-	<Key Name="Players List_key">
-		<Translates>
-			<en-us>Players List</en-us>
-			<ru></ru>
-			<es></es>
-			<de></de>
-		</Translates>
-	</Key>
 
 		<Key Name="Next_key">
 		<Translates>
 			<en-us>Next</en-us>
-			<ru></ru>
+			<ru>Далее</ru>
 			<es></es>
 			<de></de>
 		</Translates>
 	</Key>
 
-	<Key Name="Tap to continue_key">
+	<Key Name="Swipe to choose truth or action_key">
 		<Translates>
-			<en-us>Tap to continue</en-us>
-			<ru></ru>
+			<en-us>Swipe to choose truth or action</en-us>
+			<ru>Свайпай, чтобы выбрать правду или действие</ru>
 			<es></es>
 			<de></de>
 		</Translates>
 	</Key>
 
-	<Key Name="Welcome_key">
+	<Key Name="Have fun!_key">
 		<Translates>
-			<en-us>Welcome</en-us>
-			<ru></ru>
+			<en-us>Have fun!</en-us>
+			<ru>Веселитесь!</ru>
 			<es></es>
 			<de></de>
 		</Translates>
 	</Key>
 
-	<Key Name="Classic_key">
+	<Key Name="Access to all dares and truths_key">
 		<Translates>
-			<en-us>Classic</en-us>
-			<ru></ru>
+			<en-us>Access to all dares and truths</en-us>
+			<ru>Доступ ко всем играм</ru>
 			<es></es>
 			<de></de>
 		</Translates>
 	</Key>
 
-	<Key Name="Perfect pick for warming up. Are you ready to rumble?_key">
+	<Key Name="Remove ads_key">
 		<Translates>
-			<en-us>Perfect pick for warming up. Are you ready to rumble?</en-us>
-			<ru></ru>
+			<en-us>Remove ads</en-us>
+			<ru>Без рекламы</ru>
 			<es></es>
 			<de></de>
 		</Translates>
 	</Key>
 
-	<Key Name="Sexy Dirty Truth or Drink_key">
+	<Key Name="Regular updates and new content_key">
 		<Translates>
-			<en-us>Sexy Dirty Truth or Drink</en-us>
-			<ru></ru>
+			<en-us>Regular updates and new content</en-us>
+			<ru>Регулярные обновления контент</ru>
 			<es></es>
 			<de></de>
 		</Translates>
 	</Key>
 
-	<Key Name="Simple rules: tell the truth to make everyone a sip, or sip 4 times to keep silence!_key">
+	<Key Name="3 days for free, then 2.00 $ per week_key">
 		<Translates>
-			<en-us>Simple rules: tell the truth to make everyone a sip, or sip 4 times to keep silence!</en-us>
-			<ru></ru>
-			<es></es>
-			<de></de>
-		</Translates>
-	</Key>
-
-	<Key Name="Most likely_key">
-		<Translates>
-			<en-us>Most likely</en-us>
-			<ru></ru>
-			<es></es>
-			<de></de>
-		</Translates>
-	</Key>
-
-		<Key Name="Selected player choose who is most likely to... And then they both sips twice without hard feelings._key">
-		<Translates>
-			<en-us>Selected player choose who is most likely to... And then they both sips twice without hard feelings.</en-us>
-			<ru></ru>
-			<es></es>
-			<de></de>
-		</Translates>
-	</Key>
-
-	<Key Name="Drink or Dare_key">
-		<Translates>
-			<en-us>Drink or Dare</en-us>
-			<ru></ru>
-			<es></es>
-			<de></de>
-		</Translates>
-	</Key>
-
-	<Key Name="Time for action! Do the dare to make everyone else sip 1 time, or sip 6 times to skip it._key">
-		<Translates>
-			<en-us>Time for action! Do the dare to make everyone else sip 1 time, or sip 6 times to skip it.</en-us>
-			<ru></ru>
-			<es></es>
-			<de></de>
-		</Translates>
-	</Key>
-
-	<Key Name="Never have I ever_key">
-		<Translates>
-			<en-us>Never have I ever</en-us>
-			<ru></ru>
-			<es></es>
-			<de></de>
-		</Translates>
-	</Key>
-
-	<Key Name="Playing all together! Make a sip for 'yes', skip for 'no', easy peasy lemon squeezy!_key">
-		<Translates>
-			<en-us>Playing all together! Make a sip for 'yes', skip for 'no', easy peasy lemon squeezy!</en-us>
-			<ru></ru>
-			<es></es>
-			<de></de>
-		</Translates>
-	</Key>
-
-	<Key Name="Cursed questions_key">
-		<Translates>
-			<en-us>Cursed questions</en-us>
-			<ru></ru>
-			<es></es>
-			<de></de>
-		</Translates>
-	</Key>
-
-	<Key Name="Its getting hotter. Everyone will need a sip to forget the answers you heard. No answer - 5 sips._key">
-		<Translates>
-			<en-us>Its getting hotter. Everyone will need a sip to forget the answers you heard. No answer - 5 sips.</en-us>
-			<ru></ru>
-			<es></es>
-			<de></de>
-		</Translates>
-	</Key>
-
-<Key Name="Night of Knights!_key">
-		<Translates>
-			<en-us>Night of Knights!</en-us>
-			<ru></ru>
-			<es></es>
-			<de></de>
-		</Translates>
-	</Key>
-
-	<Key Name="No fears, no regrets! Do dare or answer truth to make everybody else sip once, or sip 4 times to skip._key">
-		<Translates>
-			<en-us>No fears, no regrets! Do dare or answer truth to make everybody else sip once, or sip 4 times to skip.</en-us>
-			<ru></ru>
-			<es></es>
-			<de></de>
-		</Translates>
-	</Key>
-
-	<Key Name="Queens Convention_key">
-		<Translates>
-			<en-us>Queens Convention</en-us>
-			<ru></ru>
-			<es></es>
-			<de></de>
-		</Translates>
-	</Key>
-
-		<Key Name="Girls Night Out! Do dare or answer truth to make everybody else sip once, or sip 4 times to skip._key">
-		<Translates>
-			<en-us>Girls Night Out! Do dare or answer truth to make everybody else sip once, or sip 4 times to skip.</en-us>
-			<ru></ru>
-			<es></es>
-			<de></de>
-		</Translates>
-	</Key>
-
-		<Key Name="Met a pet_key">
-		<Translates>
-			<en-us>Met a pet</en-us>
-			<ru></ru>
-			<es></es>
-			<de></de>
-		</Translates>
-	</Key>
-
-		<Key Name="Woof or meow? Crazy questions about pets, spin and drink!_key">
-		<Translates>
-			<en-us>Woof or meow? Crazy questions about pets, spin and drink!</en-us>
-			<ru></ru>
-			<es></es>
-			<de></de>
-		</Translates>
-	</Key>
-
-		<Key Name="Drinking Wizards_key">
-		<Translates>
-			<en-us>Drinking Wizards</en-us>
-			<ru></ru>
-			<es></es>
-			<de></de>
-		</Translates>
-	</Key>
-
-	<Key Name="Dares for persistent ones! Don't wake up in police station! 5 sips to skip or do to make everybody sip once._key">
-		<Translates>
-			<en-us>Dares for persistent ones! Don't wake up in police station! 5 sips to skip or do to make everybody sip once.</en-us>
-			<ru></ru>
-			<es></es>
-			<de></de>
-		</Translates>
-	</Key>
-
-		<Key Name="Spin_key">
-		<Translates>
-			<en-us>Spin</en-us>
-			<ru></ru>
-			<es></es>
-			<de></de>
-		</Translates>
-	</Key>
-
-	<Key Name="3 days free!_key">
-		<Translates>
-			<en-us>3 days free!</en-us>
-			<ru></ru>
-			<es></es>
-			<de></de>
-		</Translates>
-	</Key>
-
-	<Key Name="Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet_key">
-		<Translates>
-			<en-us>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet</en-us>
-			<ru></ru>
+			<en-us>3 days for free, then 2.00 $ per week_key</en-us>
+			<ru>3 дня бесплатно, затем 2$ в неделю</ru>
 			<es></es>
 			<de></de>
 		</Translates>
@@ -255,52 +76,223 @@
 	<Key Name="Try now_key">
 		<Translates>
 			<en-us>Try now</en-us>
-			<ru></ru>
+			<ru>Попробовать</ru>
 			<es></es>
 			<de></de>
 		</Translates>
 	</Key>
 
-	<Key Name="Decks_key">
+		<Key Name="Congrats!_key">
 		<Translates>
-			<en-us>Decks</en-us>
-			<ru></ru>
+			<en-us>Congrats!</en-us>
+			<ru>Поздравляем!</ru>
 			<es></es>
 			<de></de>
 		</Translates>
 	</Key>
 
-	<Key Name="Menu_key">
+	<Key Name="Welcome to Premium, enjoy the benefits_key">
 		<Translates>
-			<en-us>Menu</en-us>
-			<ru></ru>
+			<en-us>Welcome to Premium, enjoy the benefits</en-us>
+			<ru>Добро пожаловать в премиум, наслаждайтесь преимуществами</ru>
 			<es></es>
 			<de></de>
 		</Translates>
 	</Key>
 
-	<Key Name="Players_key">
+	<Key Name="Enjoy game_key">
 		<Translates>
-			<en-us>Players</en-us>
-			<ru></ru>
+			<en-us>Enjoy game</en-us>
+			<ru>Играть</ru>
 			<es></es>
 			<de></de>
 		</Translates>
 	</Key>
 
-		<Key Name="Settings_key">
+	<Key Name="Add friends to start game!_key">
 		<Translates>
-			<en-us>Settings</en-us>
-			<ru></ru>
+			<en-us>Add friends to start game!</en-us>
+			<ru>Добавь друзей, чтобы начать играть</ru>
 			<es></es>
 			<de></de>
 		</Translates>
 	</Key>
 
-		<Key Name="Sound: On_key">
+	<Key Name="Create team_key">
 		<Translates>
-			<en-us>Sound: On</en-us>
-			<ru></ru>
+			<en-us>Create team</en-us>
+			<ru>Создать команду</ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="Add player_key">
+		<Translates>
+			<en-us>Add player</en-us>
+			<ru>Добавить игрока</ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="Play_key">
+		<Translates>
+			<en-us>Play</en-us>
+			<ru>Играть</ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+<Key Name="For Friends_key">
+		<Translates>
+			<en-us>For Friends</en-us>
+			<ru>Для друзей</ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="For Couples_key">
+		<Translates>
+			<en-us>For Couples</en-us>
+			<ru>Для пар</ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="Truth_key">
+		<Translates>
+			<en-us>Truth</en-us>
+			<ru>Правда</ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+		<Key Name="Dare_key">
+		<Translates>
+			<en-us>Dare</en-us>
+			<ru>Действие</ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+		<Key Name="Lie_key">
+		<Translates>
+			<en-us>Lie</en-us>
+			<ru>Ложь</ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+		<Key Name="Are you 18+ years old?_key">
+		<Translates>
+			<en-us>Are you 18+ years old?</en-us>
+			<ru>Тебе 18+?</ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+		<Key Name="No_key">
+		<Translates>
+			<en-us>No</en-us>
+			<ru>Нет</ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="Yes_key">
+		<Translates>
+			<en-us>Yes</en-us>
+			<ru>Да</ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+		<Key Name="Congratulations, you have completed all challenges!_key">
+		<Translates>
+			<en-us>Congratulations, you have completed all challenges!</en-us>
+			<ru>Поздравляем! Вы прошли все задания!</ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="To main screen_key">
+		<Translates>
+			<en-us>To main screen</en-us>
+			<ru>На главную</ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="Start new game_key">
+		<Translates>
+			<en-us>Start new game</en-us>
+			<ru>Начать заново</ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="We hope you're enjoying our app!_key">
+		<Translates>
+			<en-us>We hope you're enjoying our app!</en-us>
+			<ru>Мы надеемся, вам понравилось приложение</ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="Not now_key">
+		<Translates>
+			<en-us>Not now</en-us>
+			<ru>Не сейчас</ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="Rate_key">
+		<Translates>
+			<en-us>Rate</en-us>
+			<ru>Оценить</ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+	<Key Name="Privacy_key">
+		<Translates>
+			<en-us>Privacy</en-us>
+			<ru>Конфиденциальность</ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+		<Key Name="Terms of use_key">
+		<Translates>
+			<en-us>Terms of use</en-us>
+			<ru>Условия использования</ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+		<Key Name="Language_key">
+		<Translates>
+			<en-us>Language</en-us>
+			<ru>Язык</ru>
 			<es></es>
 			<de></de>
 		</Translates>
@@ -309,25 +301,25 @@
 		<Key Name="Sound: Off_key">
 		<Translates>
 			<en-us>Sound: Off</en-us>
-			<ru></ru>
+			<ru>Звук: Выкл</ru>
 			<es></es>
 			<de></de>
 		</Translates>
 	</Key>
 
-		<Key Name="Music: On_key">
+		<Key Name="Restore purchase_key">
 		<Translates>
-			<en-us>Music: On</en-us>
-			<ru></ru>
+			<en-us>Restore purchase</en-us>
+			<ru>Восстановить покупки</ru>
 			<es></es>
 			<de></de>
 		</Translates>
 	</Key>
 
-		<Key Name="Music: Off_key">
+		<Key Name="I’m 18+_key">
 		<Translates>
-			<en-us>Music: Off</en-us>
-			<ru></ru>
+			<en-us>I’m 18+</en-us>
+			<ru>Мне 18+</ru>
 			<es></es>
 			<de></de>
 		</Translates>
@@ -336,7 +328,7 @@
 		<Key Name="Settings_key">
 		<Translates>
 			<en-us>Settings</en-us>
-			<ru></ru>
+			<ru>Настройки</ru>
 			<es></es>
 			<de></de>
 		</Translates>
@@ -345,31 +337,116 @@
 		<Key Name="Language: English_key">
 		<Translates>
 			<en-us>Language: English</en-us>
-			<ru></ru>
-			<es></es>
-			<de></de>
-		</Translates>
-	</Key>
-
-		<Key Name="Restore purchases_key">
-		<Translates>
-			<en-us>Restore purchases</en-us>
-			<ru></ru>
-			<es></es>
-			<de></de>
-		</Translates>
-	</Key>
-
-			<Key Name="Contact Us_key">
-		<Translates>
-			<en-us>Contact Us</en-us>
-			<ru></ru>
+			<ru>Язык: Русский</ru>
 			<es></es>
 			<de></de>
 		</Translates>
 	</Key>
 
 		
+                <Key Name="Embarrassing moments_key">
+		<Translates>
+			<en-us>Embarrassing moments</en-us>
+			<ru>Неловкие моменты</ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+                
+
+                <Key Name="Hobbies and interests_key">
+		<Translates>
+			<en-us>Hobbies and interests</en-us>
+			<ru>Хобби и интересы</ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+
+                <Key Name="Personal fears_key">
+		<Translates>
+			<en-us>Personal fears</en-us>
+			<ru>Личные страхи</ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+
+                <Key Name="Love and romance_key">
+		<Translates>
+			<en-us>Love and romance</en-us>
+			<ru>Любовь и романтика</ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+
+                <Key Name="Intimacy_key">
+		<Translates>
+			<en-us>Intimacy</en-us>
+			<ru>Интим</ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+
+
+                <Key Name="For Married Couples_key">
+		<Translates>
+			<en-us>For Married Couples</en-us>
+			<ru>Для женатых</ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+		
+
+                <Key Name="Music: On_key">
+		<Translates>
+			<en-us>Music: On</en-us>
+			<ru>Музыка: Вкл</ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+
+
+                <Key Name="Music: Off_key">
+		<Translates>
+			<en-us>Music: Of</en-us>
+			<ru>Музыка: Выкл</ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+
+                <Key Name="Sound: On_key">
+		<Translates>
+			<en-us>Sound: On</en-us>
+			<ru>Звуки: Вкл</ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+
+
+                <Key Name="Sound: Off_key">
+		<Translates>
+			<en-us>Sound: Of</en-us>
+			<ru>Звуки: Выкл</ru>
+			<es></es>
+			<de></de>
+		</Translates>
+	</Key>
+
+ 
 
 	
 	

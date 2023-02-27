@@ -46,9 +46,8 @@ public class QuestionsParserEditor : Editor
         {
             deckSettings.questions.Add(new Question()
             {
-                name = "",
+                theme = item.theme,
                 text = item.text,
-                players = item.count,
                 timer = item.timer
             });
         }

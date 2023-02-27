@@ -12,372 +12,688 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 720195d612531fe4c818f9aa95ed4840, type: 3}
   m_Name: Deck-5
   m_EditorClassIdentifier: 
-  deckTitle: Never have I ever
-  deckDescription: Playing all together! Make a sip for 'yes', skip for 'no', easy
-    peasy lemon squeezy!
-  icon: {fileID: 21300000, guid: 03e4754d36f8f4cb194e4d7b42c33342, type: 3}
+  deckTitle: 'Intimacy '
+  type: 1
+  free: 0
+  adult: 1
   questions:
-  - name: 
-    text: Never have I ever wanted to be famous
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever gone on vacation for more than 1 month
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever drunk-texted a coworker or an ex
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever peed my pants in public
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever cried during a vacation
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever been outside of the country
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever fought with a family member
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever dined and dashed
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever stood someone up
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever been in a fistfight
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever smoked a cigarette
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever been jealous of an ex
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever used a fake ID to get into a bar or to buy alcohol
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever been rejected for a date
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever lost my voice from singing so much
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever cheated on a test
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever talked badly about a friend behind their back
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever climbed a mountain
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever had a pregnancy scare
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever bought something inside a sex shop
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever snitched on someone
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever used Tinder, Bumble or any other dating app
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever caught feelings for a close friend
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever spent over $100 on a concert ticket
-    players: A
-    timer: 
-  - name: 
-    text: "Never have I ever didn\u2019t give a two weeks notice"
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever eaten something that fell on the floor
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever gone more than 7 days without a shower
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever gotten COVID-19
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever over-exaggerated (or blatantly lied) on my resume
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever been cheated on by an ex or current partner
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever gotten blackout drunk
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever had relations (kissing counts!) with someone of the same
-      sex
-    players: A
-    timer: 
-  - name: 
-    text: "Never have I ever forgotten my mother or father\u2019s birthday"
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever gotten sick after riding a roller coaster
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever asked for the manager
-    players: A
-    timer: 
-  - name: 
-    text: "Never have I ever slept in my \u201Cbirthday suit\u201D"
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever gone on a 2+ day road trip
-    players: A
-    timer: 
-  - name: 
-    text: "Never have I ever broken something in someone\u2019s house and didn\u2019t
-      tell them"
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever used the same pair of underwear for more than a day
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever run from the police
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever been to an island
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever cheated on someone
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever run a marathon
-    players: A
-    timer: 
-  - name: 
-    text: "Never have I ever rummaged through someone\u2019s medicine cabinet"
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever been married and then divorced
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever flipped someone off during a road rage incident
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever pooped the bed
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever been to a strip club
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever had an STD
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever called in sick to spend time with friends
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever gotten back together with an ex
-    players: A
-    timer: 
-  - name: 
-    text: "Never have I ever gotten together (or kissed) a friend\u2019s ex"
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever been to jail
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever been homeless for the night
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever stolen items from a hotel room
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever run over an animal while driving
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever eaten something that fell on the floor (or from the trash)
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever used Tinder for a one-night fling
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever had a one-night stand
-    players: A
-    timer: 
-  - name: 
-    text: "Never have I ever said \u201CI love you\u201D in the first two weeks of
-      knowing someone"
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever ghosted someone for a trivial reason
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever been catfished
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever thrown up in an Uber
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever had a threesome
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever met a famous person
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever said the wrong name while having sex
-    players: A
-    timer: 
-  - name: 
-    text: "Never have I ever spent time stalking someone\u2019s social media"
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever shot a gun
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever lost more than $100 when gambling
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever spent more than $200 on a single piece of clothing
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever hit my partner (or ex)
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever been stood up for a date
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever drunk alcohol alone
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever spent the night sleeping in my car
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever been high (or drunk) at work
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever broken a bone
-    players: A
-    timer: 
-  - name: 
-    text: "Never have I ever had food delivered and didn\u2019t leave a tip"
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever gone skinny dipping
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever used the self-checkout to steal an item
-    players: A
-    timer: 
-  - name: 
-    text: "Never have I ever slept at a stranger\u2019s house"
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever gotten a matching tattoo with someone
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever sent a nude
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever been hungover at work
-    players: A
-    timer: 
-  - name: 
-    text: "Never have I ever been jealous of a close friend\u2019s relationship"
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever seen something other-worldly (UFO, ghost, demon)
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever been to a nude beach
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever stayed awake for more than 48 hours
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever peed in a public area
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever hitchhiked
-    players: A
-    timer: 
-  - name: 
-    text: Never have I ever sent the same nude to multiple people
-    players: A
-    timer: 
-  isOpen: 0
+  - theme: Truth
+    text: What is your favorite thing about your partner's body?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a one-night stand? If so, how did it make you feel afterward?
+    timer: 
+  - theme: Truth
+    text: What is your biggest sexual fantasy?
+    timer: 
+  - theme: Truth
+    text: What is something you've always wanted to try in bed but haven't yet?
+    timer: 
+  - theme: Truth
+    text: Have you ever faked an orgasm? Why?
+    timer: 
+  - theme: Truth
+    text: What is your favorite type of foreplay?
+    timer: 
+  - theme: Truth
+    text: What is the most unusual place you've ever had sex?
+    timer: 
+  - theme: Truth
+    text: Have you ever been caught masturbating or having sex?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a threesome? Would you ever consider it?
+    timer: 
+  - theme: Truth
+    text: What is the longest period of time you've gone without sex?
+    timer: 
+  - theme: Truth
+    text: Have you ever cheated on a partner?
+    timer: 
+  - theme: Truth
+    text: Have you ever used sex toys during sex? Which ones?
+    timer: 
+  - theme: Truth
+    text: What is your favorite type of porn?
+    timer: 
+  - theme: Truth
+    text: Have you ever watched porn with a partner? How did it make you feel?
+    timer: 
+  - theme: Truth
+    text: Have you ever had sex in public?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a crush on someone of the same gender?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience with someone much older or younger
+      than you?
+    timer: 
+  - theme: Truth
+    text: What is the most embarrassing thing that has ever happened to you during
+      sex?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual encounter with a stranger?
+    timer: 
+  - theme: Truth
+    text: What is the wildest sexual experience you've ever had?
+    timer: 
+  - theme: Truth
+    text: What is your favorite position during sex?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a threesome with two people of the same gender as you?
+    timer: 
+  - theme: Truth
+    text: Have you ever had sex with someone you didn't really like, just for the
+      physical pleasure?
+    timer: 
+  - theme: Truth
+    text: What is the most romantic thing someone has ever done for you?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a friend with benefits? How did that work out?
+    timer: 
+  - theme: Truth
+    text: What is your favorite type of kissing?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience with someone who was in a committed
+      relationship with someone else?
+    timer: 
+  - theme: Truth
+    text: What is your opinion on open relationships?
+    timer: 
+  - theme: Truth
+    text: Have you ever had sex while under the influence of drugs or alcohol? How
+      did that affect the experience?
+    timer: 
+  - theme: Truth
+    text: What is your favorite type of lingerie to wear or see on a partner?
+    timer: 
+  - theme: Truth
+    text: Have you ever had an orgasm from oral sex? How often does that happen for
+      you?
+    timer: 
+  - theme: Truth
+    text: What is your favorite type of sex toy?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience with someone you regretted afterward?
+      Why?
+    timer: 
+  - theme: Truth
+    text: What is the kinkiest thing you've ever done in bed?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience in which you or your partner role-played
+      a specific character or scenario?
+    timer: 
+  - theme: Truth
+    text: What is the most sexually adventurous thing you've ever done?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience with someone who you later found
+      out was cheating on their partner with you?
+    timer: 
+  - theme: Truth
+    text: What is your opinion on casual sex?
+    timer: 
+  - theme: Truth
+    text: Have you ever had sex with someone who you knew had feelings for you, but
+      you didn't have feelings for them?
+    timer: 
+  - theme: Truth
+    text: What is your opinion on pornography and its impact on relationships?
+    timer: 
+  - theme: Truth
+    text: What is your favorite way to initiate sex with your partner?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience in which you or your partner wore
+      a costume or outfit?
+    timer: 
+  - theme: Truth
+    text: What is your opinion on masturbation? How often do you do it?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience that you didn't enjoy but went along
+      with anyway?
+    timer: 
+  - theme: Truth
+    text: What is your opinion on anal sex?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience with someone who was much more experienced
+      than you? How did that affect the encounter?
+    timer: 
+  - theme: Truth
+    text: What is your favorite way to be touched during sex?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience in which you or your partner used
+      food or other objects during foreplay or sex?
+    timer: 
+  - theme: Truth
+    text: What is your opinion on public displays of affection?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience with someone who you later found
+      out had an STD?
+    timer: 
+  - theme: Truth
+    text: What is your opinion on sex before marriage?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience with someone who you knew was in
+      a committed relationship with someone else?
+    timer: 
+  - theme: Truth
+    text: What is your opinion on monogamy?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience in which you or your partner experimented
+      with BDSM?
+    timer: 
+  - theme: Truth
+    text: What is the most unusual request someone has ever made during sex?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience with someone who you knew was significantly
+      younger or older than you?
+    timer: 
+  - theme: Truth
+    text: What is your opinion on pornography addiction and its impact on relationships?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience with someone who you later found
+      out was married?
+    timer: 
+  - theme: Truth
+    text: What is the most romantic or intimate experience you've ever had with a
+      partner?
+    timer: 
+  - theme: Truth
+    text: What is your opinion on sexual fantasies and role-playing during sex?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience in which you or your partner used
+      dirty talk?
+    timer: 
+  - theme: Truth
+    text: What is your opinion on friends with benefits arrangements?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience that involved multiple rounds in
+      one session?
+    timer: 
+  - theme: Truth
+    text: What is the most embarrassing thing that has ever happened to you during
+      sex?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience with someone who you knew was using
+      you for physical pleasure only?
+    timer: 
+  - theme: Truth
+    text: What is your opinion on sexual experimentation with multiple partners?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience with someone who you later found
+      out was cheating on you?
+    timer: 
+  - theme: Truth
+    text: What is your favorite way to be touched or kissed during foreplay?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience with someone who you knew was emotionally
+      unavailable?
+    timer: 
+  - theme: Truth
+    text: What is the most spontaneous sexual experience you've ever had?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience in which you or your partner engaged
+      in voyeurism or exhibitionism?
+    timer: 
+  - theme: Truth
+    text: What is your opinion on sexual communication between partners?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience that involved watching or being watched
+      by others?
+    timer: 
+  - theme: Truth
+    text: What is your favorite way to be physically intimate with a partner outside
+      of sex?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience that involved role reversal, such
+      as your partner taking on a dominant role?
+    timer: 
+  - theme: Truth
+    text: What is your opinion on sexual compatibility in a relationship?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience that involved pain or discomfort,
+      such as BDSM or rough sex?
+    timer: 
+  - theme: Truth
+    text: What is your favorite type of sexual intimacy, such as cuddling or kissing?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience that involved learning something
+      new about yourself or your partner's desires?
+    timer: 
+  - theme: Truth
+    text: What is your opinion on sexual experimentation and exploration within a
+      committed relationship?
+    timer: 
+  - theme: Truth
+    text: What is your opinion on using sex toys during partnered sex?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience in which you or your partner used
+      a blindfold or restraints?
+    timer: 
+  - theme: Truth
+    text: What is the most romantic thing you've ever done for a partner in the bedroom?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience in which you or your partner used
+      role-playing to act out a specific scenario?
+    timer: 
+  - theme: Truth
+    text: What is your opinion on the importance of foreplay in sexual encounters?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience in which you or your partner engaged
+      in mutual masturbation?
+    timer: 
+  - theme: Truth
+    text: What is the most unusual place you've ever had sex?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience that involved a power dynamic, such
+      as a dominant/submissive relationship?
+    timer: 
+  - theme: Truth
+    text: What is your opinion on the use of pornography within a committed relationship?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience that involved exploring a new fetish
+      or kink?
+    timer: 
+  - theme: Truth
+    text: What is your favorite way to receive oral sex?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience in which you or your partner engaged
+      in edging or delaying orgasm?
+    timer: 
+  - theme: Truth
+    text: What is your opinion on using sex as a means of stress relief or coping
+      mechanism?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience that involved a threesome with two
+      people of different genders than yourself?
+    timer: 
+  - theme: Truth
+    text: What is your opinion on the importance of sexual chemistry in a relationship?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience in which you or your partner used
+      temperature play, such as ice or heat?
+    timer: 
+  - theme: Truth
+    text: What is your favorite way to give or receive a massage during a sexual
+      encounter?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience that involved dirty talk in a language
+      other than your first language?
+    timer: 
+  - theme: Truth
+    text: What is your opinion on the role of sex in a committed relationship, such
+      as frequency or importance?
+    timer: 
+  - theme: Truth
+    text: Have you ever had a sexual experience that involved incorporating food
+      into the encounter?
+    timer: 
+  - theme: Dare
+    text: Take a sexy selfie and send it to your partner.
+    timer: 
+  - theme: Dare
+    text: Kiss your partner on the lips for 10 seconds without breaking eye contact.
+    timer: 10
+  - theme: Dare
+    text: Perform a striptease for your partner.
+    timer: 
+  - theme: Dare
+    text: Send your partner a suggestive text message.
+    timer: 
+  - theme: Dare
+    text: Use a sex toy on yourself or your partner.
+    timer: 
+  - theme: Dare
+    text: Blindfold yourself and allow your partner to guide you through a sensual
+      experience.
+    timer: 
+  - theme: Dare
+    text: Write a steamy erotic story and share it with your partner.
+    timer: 
+  - theme: Dare
+    text: Give your partner a sensual massage using oil or lotion.
+    timer: 
+  - theme: Dare
+    text: Try a new position or sexual act that you've never tried before.
+    timer: 
+  - theme: Dare
+    text: Make a sex tape with your partner and watch it together.
+    timer: 
+  - theme: Dare
+    text: Use ice or another cool object to stimulate your partner's erogenous zones.
+    timer: 
+  - theme: Dare
+    text: Give your partner oral sex for at least 1 minute
+    timer: 
+  - theme: Dare
+    text: Have a shower or bath together and wash each other sensually.
+    timer: 
+  - theme: Dare
+    text: Go commando for the rest of the game.
+    timer: 
+  - theme: Dare
+    text: Whisper something dirty in your partner's ear in a public place.
+    timer: 
+  - theme: Dare
+    text: Share a personal secret or fear with your partner.
+    timer: 
+  - theme: Dare
+    text: Take a romantic walk together and hold hands the entire time.
+    timer: 
+  - theme: Dare
+    text: Write a love letter or poem to your partner and read it to them.
+    timer: 
+  - theme: Dare
+    text: Give your partner a long, passionate hug without saying a word.
+    timer: 
+  - theme: Dare
+    text: Plan a surprise date night for your partner and make all the arrangements.
+    timer: 
+  - theme: Dare
+    text: Make a scrapbook or photo album of your favorite memories together.
+    timer: 
+  - theme: Dare
+    text: Cook a romantic dinner for your partner and enjoy it by candlelight.
+    timer: 
+  - theme: Dare
+    text: Give your partner a foot massage or back rub.
+    timer: 
+  - theme: Dare
+    text: Write a list of things you appreciate about your partner and share it with
+      them.
+    timer: 
+  - theme: Dare
+    text: Give your partner a thoughtful gift, such as a piece of jewelry or a handwritten
+      card.
+    timer: 
+  - theme: Dare
+    text: Create a playlist of songs that remind you of your partner or your relationship.
+    timer: 
+  - theme: Dare
+    text: Take a dance class together and learn a new style of dance.
+    timer: 
+  - theme: Dare
+    text: Have a picnic in a scenic location and enjoy the view together.
+    timer: 
+  - theme: Dare
+    text: Take a romantic bath together with candles and rose petals.
+    timer: 
+  - theme: Dare
+    text: Plan a surprise weekend getaway for your partner and make all the arrangements.
+    timer: 
+  - theme: Dare
+    text: Go on a hike together and enjoy the beauty of nature.
+    timer: 
+  - theme: Dare
+    text: Take a yoga or meditation class together to relax and connect.
+    timer: 
+  - theme: Dare
+    text: Have a game night at home and play your favorite board games or video games
+      together.
+    timer: 
+  - theme: Dare
+    text: Volunteer together for a cause that you both care about.
+    timer: 
+  - theme: Dare
+    text: Plan a surprise date night for your partner that involves their favorite
+      activity or hobby.
+    timer: 
+  - theme: Dare
+    text: 
+    timer: 
+  - theme: Dare
+    text: Share a childhood memory or embarrassing moment with your partner.
+    timer: 
+  - theme: Dare
+    text: Have a technology-free day together and spend quality time without distractions.
+    timer: 
+  - theme: Dare
+    text: Take a couples' cooking class and learn how to prepare a new dish together.
+    timer: 
+  - theme: Dare
+    text: Plan a surprise outing to a place your partner has always wanted to go.
+    timer: 
+  - theme: Dare
+    text: Take turns giving each other a massage with scented oils or lotions.
+    timer: 
+  - theme: Dare
+    text: Share a personal goal or dream with your partner and support each other
+      in achieving it.
+    timer: 
+  - theme: Dare
+    text: Go stargazing together and share stories about what you see in the sky.
+    timer: 
+  - theme: Dare
+    text: Go for a bike ride or walk together and explore your neighborhood or city.
+    timer: 
+  - theme: Dare
+    text: Create a bucket list of things you want to do together and start planning
+      your adventures.
+    timer: 
+  - theme: Dare
+    text: Spend a day doing something new and exciting, such as trying a new sport
+      or hobby.
+    timer: 
+  - theme: Dare
+    text: Have a bonfire or cozy night in with blankets, hot cocoa, and a good movie.
+    timer: 
+  - theme: Dare
+    text: Plan a surprise date night that involves an activity you've never done
+      before, like indoor rock climbing or paintball.
+    timer: 
+  - theme: Dare
+    text: Take a dance class together and learn a new style of dance.
+    timer: 
+  - theme: Dare
+    text: Write a gratitude list together and share what you appreciate about each
+      other.
+    timer: 
+  - theme: Dare
+    text: Take a scenic drive together and enjoy the beauty of the landscape.
+    timer: 
+  - theme: Dare
+    text: Plan a romantic scavenger hunt for your partner and lead them on an adventure.
+    timer: 
+  - theme: Dare
+    text: Do a couples' workout together, like yoga or strength training.
+    timer: 
+  - theme: Dare
+    text: Spend a day volunteering at a local charity or organization.
+    timer: 
+  - theme: Dare
+    text: Plan a surprise activity that involves your partner's favorite hobby or
+      interest.
+    timer: 
+  - theme: Dare
+    text: Take a photography class together and learn how to take better pictures
+      of each other and your adventures.
+    timer: 
+  - theme: Dare
+    text: Spend a day giving compliments to each other and pointing out things you
+      admire in your partner.
+    timer: 
+  - theme: Dare
+    text: Have a board game night and play games that encourage teamwork and communication.
+    timer: 
+  - theme: Dare
+    text: Create a scrapbook together with memories of your relationship so far.
+    timer: 
+  - theme: Dare
+    text: Take turns planning surprise dates for each other for the next few weeks.
+    timer: 
+  - theme: Dare
+    text: Spend a day learning a new skill together, like pottery or painting.
+    timer: 
+  - theme: Dare
+    text: Take a personality quiz together and discuss how your different traits
+      complement each other.
+    timer: 
+  - theme: Dare
+    text: Plan a surprise picnic with your partner's favorite foods and drinks.
+    timer: 
+  - theme: Dare
+    text: Do a puzzle together and enjoy the challenge and teamwork.
+    timer: 
+  - theme: Dare
+    text: Write down five things that you want to do as a couple in the next year
+      and make a plan to accomplish them.
+    timer: 
+  - theme: Dare
+    text: Go on a hike and take turns leading the way.
+    timer: 
+  - theme: Dare
+    text: Cook a meal together using only ingredients that are already in your pantry.
+    timer: 
+  - theme: Dare
+    text: Spend a day doing a fun outdoor activity, like kayaking or rock climbing.
+    timer: 
+  - theme: Dare
+    text: Have a movie night with your partner's favorite films and snacks.
+    timer: 
+  - theme: Dare
+    text: Take a walk or run together and enjoy the fresh air and exercise.
+    timer: 
+  - theme: Dare
+    text: Take a virtual cooking class together and learn how to make a new dish.
+    timer: 
+  - theme: Dare
+    text: Spend a day exploring a nearby town or city that you've never been to before.
+    timer: 
+  - theme: Dare
+    text: Plan a surprise outing that involves an activity or place that your partner
+      has always wanted to visit.
+    timer: 
+  - theme: Dare
+    text: Have a game night with your friends and invite your partner to join in
+      on the fun.
+    timer: 
+  - theme: Dare
+    text: Take turns reading your favorite books to each other.
+    timer: 
+  - theme: Dare
+    text: Spend a day at a local museum or art gallery and discuss your favorite
+      exhibits.
+    timer: 
+  - theme: Dare
+    text: Write a love letter to your partner and read it aloud to them.
+    timer: 
+  - theme: Dare
+    text: Spend a day doing a home improvement project together, like painting a
+      room or reorganizing a closet.
+    timer: 
+  - theme: Dare
+    text: Take turns choosing a new restaurant to try and have a date night at each
+      one.
+    timer: 
+  - theme: Dare
+    text: Spend a day without your phones and focus on connecting with each other.
+    timer: 
+  - theme: Dare
+    text: Have a picnic in your backyard or a nearby park and enjoy the sunshine
+      and each other's company.
+    timer: 
+  - theme: Dare
+    text: Take a dance class together and learn a new style of dance.
+    timer: 
+  - theme: Dare
+    text: Spend a day volunteering at a local charity or organization that's important
+      to both of you.
+    timer: 
+  - theme: Dare
+    text: Plan a surprise outing to a nearby town or city and explore new sights
+      and experiences.
+    timer: 
+  - theme: Dare
+    text: Have a spa day at home and give each other facials, massages, and foot
+      soaks.
+    timer: 
+  - theme: Dare
+    text: Take a cooking class together and learn how to make a new cuisine.
+    timer: 
+  - theme: Dare
+    text: Go on a bike ride or hike and have a picnic lunch with a view.
+    timer: 
+  - theme: Dare
+    text: Spend a day doing a creative activity together, like painting or crafting.
+    timer: 
+  - theme: Dare
+    text: Plan a surprise date night that involves your partner's favorite activity
+      or hobby.
+    timer: 
+  - theme: Dare
+    text: Spend a day doing a self-care routine together, like yoga, meditation,
+      or journaling.
+    timer: 
+  - theme: Dare
+    text: Take turns choosing a new book to read and have a book club discussion
+      with just the two of you.
+    timer: 
+  - theme: Dare
+    text: Spend a day exploring a nearby beach or lake and enjoying the water together.
+    timer: 
+  - theme: Dare
+    text: Plan a surprise outing to a nearby museum or attraction that you've never
+      been to before.
+    timer: 
+  - theme: Dare
+    text: Take a photography class together and learn how to take better photos of
+      each other and your adventures.
+    timer: 
+  - theme: Dare
+    text: Have a game night with just the two of you and play games that encourage
+      laughter and fun.
+    timer: 
+  - theme: Dare
+    text: Spend a day doing a home workout or yoga session together and feel great
+      after your sweat session.
+    timer: 
+  - theme: Dare
+    text: Have a tech-free night and spend the evening talking, playing games, or
+      doing a shared activity.
+    timer: 
+  - theme: Dare
+    text: Take turns writing down a few things you appreciate about your partner
+      and put them in a jar. Read them together whenever you need a pick-me-up.
+    timer: 
+  - theme: Dare
+    text: Go on a spontaneous road trip to a nearby destination and explore a new
+      area together.
+    timer: 
+  - theme: Dare
+    text: Take turns giving each other a massage or foot rub.
+    timer: 

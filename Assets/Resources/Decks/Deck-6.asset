@@ -12,321 +12,475 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 720195d612531fe4c818f9aa95ed4840, type: 3}
   m_Name: Deck-6
   m_EditorClassIdentifier: 
-  deckTitle: Cursed questions
-  deckDescription: Its getting hotter. Everyone will need a sip to forget the answers
-    you heard. No answer - 5 sips.
-  icon: {fileID: 21300000, guid: 7823e0e03e80046edbb8ed2659f61ef7, type: 3}
+  deckTitle: For Married Couples
+  type: 1
+  free: 0
+  adult: 1
   questions:
-  - name: 
-    text: '[player], when was your first time losing your virginity?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], have you ever been arrested?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], would you marry a sugar daddy even was much older than you?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], have you ever pretended to orgasm?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who would you call to help bury a dead body?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], have you ever cheated on your partner?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], has anyone ever walked in while you are peeing?'
-    players: 1
-    timer: 
-  - name: 
-    text: "[player], what\u2019s the meanest thing you\u2019ve ever said about someone
-      else?"
-    players: 1
-    timer: 
-  - name: 
-    text: "[player], what\u2019s something you love to do with your friends that
-      you\u2019d never do in front of your partner?"
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who are you most jealous of?'
-    players: 1
-    timer: 
-  - name: 
-    text: "[player], what\u2019s your spiciest fantasy in bed?"
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], what was your biggest childhood fear?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], have you ever accidentally hit something with your car?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], would you date your first love today?'
-    players: 1
-    timer: 
-  - name: 
-    text: "[player], what\u2019s one movie is your guilty pleasure?"
-    players: 1
-    timer: 
-  - name: 
-    text: "[player], what\u2019s your most embarrassing habit?"
-    players: 1
-    timer: 
-  - name: 
-    text: "[player], when\u2019s the last time you had a hangover?"
-    players: 1
-    timer: 
-  - name: 
-    text: "[player], do you have ever done it in your parent\u2019s house?"
-    players: 1
-    timer: 
-  - name: 
-    text: "[player], what\u2019s the last time you threw up from drinking too much?"
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], if you were guaranteed to never get caught, who would you murder?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], what is a secret you had as a child that you never told your
-      parents?'
-    players: 1
-    timer: 
-  - name: 
-    text: "[player], what\u2019s the weirdest thing you\u2019ve done at a party?"
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], have you ever been naked in public?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], have you ever been fired because you have done something inappropriate?'
-    players: 1
-    timer: 
-  - name: 
-    text: "[player], what is the worst food you\u2019ve ever tasted?"
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], have you ever broken an expensive item in a store and then leave?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], have you ever lied about your age? and why?'
-    players: 1
-    timer: 
-  - name: 
-    text: "[player], what\u2019s the longest you\u2019ve gone without sex?"
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], have you ever used a fake id?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], have you ever smoked mary jay?'
-    players: 1
-    timer: 
-  - name: 
-    text: "[player], what\u2019s the first thing you would do if you woke up one
-      day as the opposite gender?"
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], what is your greatest fear in a relationship?'
-    players: 1
-    timer: 
-  - name: 
-    text: "[player], what\u2019s the most embarrassing text on your dms right now?"
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], what position do you think is overrated?'
-    players: 1
-    timer: 
-  - name: 
-    text: "[player], what\u2019s the longest you\u2019ve gone without brushing your
-      teeth?"
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], do you ever talk to yourself in the mirror?'
-    players: 1
-    timer: 
-  - name: 
-    text: "[player], describe the weirdest thing you\u2019ve ever done while you
-      were drunk."
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], have you ever sent a sexting message to the wrong person?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], would you break up with your partner for $1 million?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], have you ever taken a sexy picture of yourself?'
-    players: 1
-    timer: 
-  - name: 
-    text: "[player], have you ever regretted something you did to get a crush orpartner\u2019s
-      attention?"
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], have you ever farted loudly in a public space?'
-    players: 1
-    timer: 
-  - name: 
-    text: "[player], what\u2019s the most scandalous photo in your cloud?"
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], if could you be your partner what would you do better?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who is the sexiest person in this room?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], have you ever switched underwear with your partner?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], who do you like the least in this room and why?'
-    players: 1
-    timer: 
-  - name: 
-    text: "[player], when\u2019s the last time you got dumped?"
-    players: 1
-    timer: 
-  - name: 
-    text: "[player], what\u2019s the worst habit you have?"
-    players: 1
-    timer: 
-  - name: 
-    text: "[player], when\u2019s the last time you texted your ex?"
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], if you had to pick another place to live, which is the place?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], would you date someone shorter than you?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], have you ever catfished?'
-    players: 1
-    timer: 
-  - name: 
-    text: "[player], name one thing you\u2019d change about your partner."
-    players: 1
-    timer: 
-  - name: 
-    text: "[player], when\u2019s the last time you made someone else cry?"
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], if you could have a day you can do whatever you want, name the
-      first three things that you do.'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], have you ever eaten something from the floor?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], have you ever been caught up doing it in public?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], if you could date two people at once, would you do it? if so,
-      who?'
-    players: 1
-    timer: 
-  - name: 
-    text: "[player], what\u2019s the sexiest thing about the opposite gender?"
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], have you ever kissed someone who is the same gender as you?'
-    players: 1
-    timer: 
-  - name: 
-    text: "[player], if i went through your cupboard, what\u2019s the weirdest thing
-      i\u2019d find?"
-    players: 1
-    timer: 
-  - name: 
-    text: "[player], what\u2019s your biggest turn-on?"
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], have you ever had a really bad kiss?'
-    players: 1
-    timer: 
-  - name: 
-    text: "[player], what\u2019s your biggest fear in your everyday life?"
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], have you ever gotten mad at a friend for posting an unflattering
-      picture of you?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], have you ever broken something really expensive in a store and
-      then run away?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], have you ever stolen a book from the school library?'
-    players: 1
-    timer: 
-  - name: 
-    text: "[player], have you ever called your 'current' with your ex\u2019s name?"
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], have you ever bullied someone in your life?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], have you ever lied about liking someone?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], have you ever touched an exhibit in a museum?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], have you ever drove without your license?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], have you ever been to a party uninvited?'
-    players: 1
-    timer: 
-  - name: 
-    text: '[player], have you ever destroyed a surprise party?'
-    players: 1
-    timer: 
-  isOpen: 0
+  - theme: Truth
+    text: What is the worst gift you ever received and from whom?
+    timer: 
+  - theme: Truth
+    text: "Say any 4 items you purchased with your partner\u2019s money and never
+      used it?"
+    timer: 
+  - theme: Truth
+    text: Describe the weird dream you have ever got.
+    timer: 
+  - theme: Truth
+    text: Have you ever danced on a table inside the bar?
+    timer: 
+  - theme: Truth
+    text: If you had to give the most annoying award to someone in your family, who
+      would you select?
+    timer: 
+  - theme: Truth
+    text: Have you ever break up with someone before Christmas just because you can
+      avoid buying a gift?
+    timer: 
+  - theme: Truth
+    text: What is the job you hate the most and why?
+    timer: 
+  - theme: Truth
+    text: If you found $1 million on road, do you keep it for yourself or take it
+      to the police station?
+    timer: 
+  - theme: Truth
+    text: How many kids would you like to have?
+    timer: 
+  - theme: Truth
+    text: What is the most fun thing about you that no one knows till now?
+    timer: 
+  - theme: Truth
+    text: What is your deepest secret?
+    timer: 
+  - theme: Truth
+    text: "Tell me that one thing you always wanted to say but couldn\u2019t."
+    timer: 
+  - theme: Truth
+    text: What is exactly on your mind now?
+    timer: 
+  - theme: Truth
+    text: What do you think I should change in me?
+    timer: 
+  - theme: Truth
+    text: What are your likes and dislikes?
+    timer: 
+  - theme: Truth
+    text: What is the best thing you like when you are a teenager?
+    timer: 
+  - theme: Truth
+    text: What is your happiest moment in your life?
+    timer: 
+  - theme: Truth
+    text: When did you start taking alcohol?
+    timer: 
+  - theme: Truth
+    text: What was your nickname in childhood?
+    timer: 
+  - theme: Truth
+    text: Your two favorite colors and why?
+    timer: 
+  - theme: Truth
+    text: "Did someone break your heart? If yes, say the name of the person and I\u2019ll
+      break their bones"
+    timer: 
+  - theme: Truth
+    text: What are the two big things you have sacrificed for me?
+    timer: 
+  - theme: Truth
+    text: What is the best thing we did together?
+    timer: 
+  - theme: Truth
+    text: "Did you even say I\u2019m beautiful even though you think I\u2019m ugly?"
+    timer: 
+  - theme: Truth
+    text: "What is one biggest secret about you I\u2019m unaware of?"
+    timer: 
+  - theme: Truth
+    text: Do you think you deserve a better partner than me?
+    timer: 
+  - theme: Truth
+    text: What do you think that changed in me after marriage?
+    timer: 
+  - theme: Truth
+    text: What is the best gift you have received from your partner?
+    timer: 
+  - theme: Truth
+    text: How do you feel during our first night?
+    timer: 
+  - theme: Truth
+    text: What comes to your mind when you hear my name suddenly from someone?
+    timer: 
+  - theme: Truth
+    text: Have you ever experimented with opposite gender of you? Do you like to
+      do it now?
+    timer: 
+  - theme: Truth
+    text: What is the most romantic scene you have ever witnessed?
+    timer: 
+  - theme: Truth
+    text: Do you miss something on me?
+    timer: 
+  - theme: Truth
+    text: When were the craziest clothes you wore and for whom?
+    timer: 
+  - theme: Truth
+    text: Describe your first kiss with me after marriage.
+    timer: 
+  - theme: Truth
+    text: Do you feel possessive if I talk with other people of my gender?
+    timer: 
+  - theme: Truth
+    text: Do you know how cute you look when you smile?
+    timer: 
+  - theme: Truth
+    text: If we had to run away far from our life, where would you suggest us going?
+    timer: 
+  - theme: Truth
+    text: How many spoons of sugar did you add in coffee? It tastes too sweet like
+      you.
+    timer: 
+  - theme: Truth
+    text: "Why do I feel like I\u2019m seeing two moons at the same time today?"
+    timer: 
+  - theme: Truth
+    text: Tell me that one secret that you are hiding from me.
+    timer: 
+  - theme: Truth
+    text: Have you ever attracted to someone of the same gender?
+    timer: 
+  - theme: Truth
+    text: What was your most embarrassing date with your ex? Describe it.
+    timer: 
+  - theme: Truth
+    text: Do you ever have a serious relationship with someone from your family?
+    timer: 
+  - theme: Truth
+    text: Describe the most embarrassing thing you have done to your crush.
+    timer: 
+  - theme: Truth
+    text: What is your embarrassing thing happen to you during our wedding ceremony?
+    timer: 
+  - theme: Truth
+    text: How many people did you date before marrying me?
+    timer: 
+  - theme: Truth
+    text: "What is your embarrassing thing happen to you when we\u2019re making out?"
+    timer: 
+  - theme: Truth
+    text: What would have happened if we both are not married to each other?
+    timer: 
+  - theme: Truth
+    text: Do you have a crush on my sister?
+    timer: 
+  - theme: Truth
+    text: If you could pick one person to join us for a night, who would you pick?
+    timer: 
+  - theme: Truth
+    text: Describe your first night experience.
+    timer: 
+  - theme: Truth
+    text: What are the 4 body parts your partner likes to kiss in you?
+    timer: 
+  - theme: Truth
+    text: "Have you ever fallen in love with your partner\u2019s friends and he noticed
+      it?"
+    timer: 
+  - theme: Truth
+    text: "Have you ever lied to your partner to avoid making out just because you\u2019re
+      not in the mood?"
+    timer: 
+  - theme: Truth
+    text: "What is your partner\u2019s favorite position?"
+    timer: 
+  - theme: Truth
+    text: Are you satisfied when you are making out with your partner?
+    timer: 
+  - theme: Truth
+    text: How do you ask your partner when you are in good mood?
+    timer: 
+  - theme: Truth
+    text: What is the strangest place you make out with your husband?
+    timer: 
+  - theme: Truth
+    text: What is the most irritating thing your wife do when you were making out?
+    timer: 
+  - theme: Truth
+    text: If you could pick one person to join us for a night, who would you pick?
+    timer: 
+  - theme: Truth
+    text: Describe your first night experience.
+    timer: 
+  - theme: Truth
+    text: What are the 4 body parts your partner likes to kiss in you?
+    timer: 
+  - theme: Truth
+    text: "Have you ever fallen in love with your partner\u2019s friends and he noticed
+      it?"
+    timer: 
+  - theme: Truth
+    text: "Have you ever lied to your partner to avoid making out just because you\u2019re
+      not in the mood?"
+    timer: 
+  - theme: Truth
+    text: "What is your partner\u2019s favorite position?"
+    timer: 
+  - theme: Truth
+    text: Are you satisfied when you are making out with your partner?
+    timer: 
+  - theme: Truth
+    text: How do you ask your partner when you are in good mood?
+    timer: 
+  - theme: Truth
+    text: What is the strangest place you make out with your husband?
+    timer: 
+  - theme: Truth
+    text: What is the most irritating thing your wife do when you were making out
+    timer: 
+  - theme: Truth
+    text: What is the most embarrassing thing your boyfriend/girlfriend did to you?
+    timer: 
+  - theme: Truth
+    text: Tell me one secret about you, which you only wanted to share with me.
+    timer: 
+  - theme: Truth
+    text: Describe me in one word.
+    timer: 
+  - theme: Truth
+    text: With whom you feel more comfortable with naked and why?
+    timer: 
+  - theme: Truth
+    text: Have you ever feel bad about your vagina/penis?
+    timer: 
+  - theme: Truth
+    text: How do you when you masturbated for the first/last time?
+    timer: 
+  - theme: Truth
+    text: What is your favorite thing about family gatherings?
+    timer: 
+  - theme: Truth
+    text: What are your favorite vegetarian and non-vegetarian food?
+    timer: 
+  - theme: Truth
+    text: When was the first time you have fallen in love with me?
+    timer: 
+  - theme: Truth
+    text: What is the most embarrassing punishment you faced at college?
+    timer: 
+  - theme: Dare
+    text: Acting like your favorite family member and send that video to the same
+      person.
+    timer: 
+  - theme: Dare
+    text: Lift someone and spin together for 15 seconds.
+    timer: 
+  - theme: Dare
+    text: Place a lemon on the spoon, put it in your mouth and do a back walk.
+    timer: 
+  - theme: Dare
+    text: Take a selfie with your family with a funny face and publish it on Facebook.
+    timer: 
+  - theme: Dare
+    text: Do a funny dance to your favorite song like a kid.
+    timer: 
+  - theme: Dare
+    text: Sing your favorite song by turning upside down with devil voice.
+    timer: 
+  - theme: Dare
+    text: Act like your wife/husband in front of your parents.
+    timer: 
+  - theme: Dare
+    text: Tell a joke to your family members until they laugh loudly.
+    timer: 
+  - theme: Dare
+    text: Do sounds like cat, donkey, duck, dog etc..,
+    timer: 
+  - theme: Dare
+    text: Cook something special for your family members which you never cooked before.
+    timer: 
+  - theme: Dare
+    text: "Sing your wife/husband\u2019s favorite song."
+    timer: 
+  - theme: Dare
+    text: Call me how you can call in our bedroom.
+    timer: 
+  - theme: Dare
+    text: Act like you best friend.
+    timer: 
+  - theme: Dare
+    text: Create your own song and sing for me.
+    timer: 
+  - theme: Dare
+    text: Treat me like your own baby.
+    timer: 
+  - theme: Dare
+    text: Clean the entire home within an hour.
+    timer: 
+  - theme: Dare
+    text: Spend 2 days in our home without maintaining any contact with me.
+    timer: 
+  - theme: Dare
+    text: Wear traditional dress daily for one month.
+    timer: 
+  - theme: Dare
+    text: Close your eyes, prepare tea and drink it.
+    timer: 
+  - theme: Dare
+    text: Show me how you feel when I leave you suddenly.
+    timer: 
+  - theme: Dare
+    text: Read a dirty book loudly for me.
+    timer: 
+  - theme: Dare
+    text: Explain how you feel when we had our first kiss.
+    timer: 
+  - theme: Dare
+    text: Kiss 10 times anywhere you want.
+    timer: 
+  - theme: Dare
+    text: Give a rose at a public place and propose me in front of everyone.
+    timer: 
+  - theme: Dare
+    text: Seduce me without touching my body.
+    timer: 
+  - theme: Dare
+    text: "Tell me a secret you haven\u2019t share with anyone before."
+    timer: 
+  - theme: Dare
+    text: Write your name on my body by using your fingers.
+    timer: 
+  - theme: Dare
+    text: Turn upside down like Spiderman and kiss me until you get bored.
+    timer: 
+  - theme: Dare
+    text: Show me the best part of your body that makes me seduce.
+    timer: 
+  - theme: Dare
+    text: Do salsa dance with me for a romantic song.
+    timer: 
+  - theme: Dare
+    text: "Let\u2019s go for honeymoon again."
+    timer: 
+  - theme: Dare
+    text: "Think I\u2019m your best friend and explain our married life."
+    timer: 
+  - theme: Dare
+    text: Show me your negative character.
+    timer: 
+  - theme: Dare
+    text: Tell me what is the most uncomfortable thing with me while we are in date.
+    timer: 
+  - theme: Dare
+    text: Dance for our wedding song with the same dress you wore on that day.
+    timer: 
+  - theme: Dare
+    text: "Show me how you behave when I\u2019m fully tired."
+    timer: 
+  - theme: Dare
+    text: Leave your sister for one month with me.
+    timer: 
+  - theme: Dare
+    text: Be ready for a surprise midnight long drive with me.
+    timer: 
+  - theme: Dare
+    text: "Make a phone call to your parents and say I\u2019m in the hospital in
+      a critical condition."
+    timer: 
+  - theme: Dare
+    text: Present me a rose daily for ten days.
+    timer: 
+  - theme: Dare
+    text: Is your ex still in contact with you.
+    timer: 
+  - theme: Dare
+    text: Who are your favorite in-laws in our family?
+    timer: 
+  - theme: Dare
+    text: Have you ever been harassed by your spouse?
+    timer: 
+  - theme: Dare
+    text: Say any vulgar words continuously for 2 minutes.
+    timer: 
+  - theme: Dare
+    text: Do you ever make out when we are on the date?
+    timer: 
+  - theme: Dare
+    text: Close your eyes and wear all your clothes.
+    timer: 
+  - theme: Dare
+    text: When do you planning for a baby?
+    timer: 
+  - theme: Dare
+    text: Tell me what you do in your whole day before we get married.
+    timer: 
+  - theme: Dare
+    text: Do you have any marital relationship with someone?
+    timer: 
+  - theme: Dare
+    text: Describe me your first pregnant experience.
+    timer: 
+  - theme: Dare
+    text: Act like your wife or husband favorite actor nudely.
+    timer: 
+  - theme: Dare
+    text: Keep a banana (Peeled) on your wife husband private parts and eat it.
+    timer: 
+  - theme: Dare
+    text: Give a dirty speech about your personal parts for 15 minutes.
+    timer: 
+  - theme: Dare
+    text: Remove your wife/husband clothes by using your teeth.
+    timer: 
+  - theme: Dare
+    text: Do shower with your partner for one week.
+    timer: 
+  - theme: Dare
+    text: Sleep naked with your wife/husband for one week.
+    timer: 
+  - theme: Dare
+    text: Do whatever your partner says for ten minutes like a slave.
+    timer: 
+  - theme: Dare
+    text: "Roll a small fruit from top to bottom of your partner\u2019s body for
+      2 minutes and eat it."
+    timer: 
+  - theme: Dare
+    text: "Bite your wife/husband\u2019s bottom lips until it bleeds."
+    timer: 
+  - theme: Dare
+    text: Watch a dirty video with your wife/husband and do exactly what they do
+      in that video.
+    timer: 
+  - theme: Dare
+    text: Do a belly dance and send that video to me.
+    timer: 
+  - theme: Dare
+    text: Send me your ATM pin.
+    timer: 
+  - theme: Dare
+    text: Block the person you usually talk with them daily.
+    timer: 
+  - theme: Dare
+    text: Squeeze lemon juice on your hair and send that pic to me.
+    timer: 
+  - theme: Dare
+    text: Pour some sauce on your mobile screen and make a video call to me after
+      I lift the call, lick the sauce.
+    timer: 
+  - theme: Dare
+    text: Take a picture wearing my underwear and send it now.
+    timer: 
+  - theme: Dare
+    text: Take a selfie with the broom and send it to me.
+    timer: 
+  - theme: Dare
+    text: "Set your phone\u2019s ringtone to whatever song I send to you."
+    timer: 
+  - theme: Dare
+    text: Do a kissing scene with your mobile in your current location.
+    timer: 
+  - theme: Dare
+    text: "Send a voice message saying \u201CI Love You\u201D along with my name
+      in three different romantic ways."
+    timer: 

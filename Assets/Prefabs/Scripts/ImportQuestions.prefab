@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3887243977545183826
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3887243977545183829}
+  - component: {fileID: 3887243977545183828}
+  - component: {fileID: 7322770064808816127}
+  m_Layer: 0
+  m_Name: ImportQuestions
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3887243977545183829
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3887243977545183826}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3887243977545183828
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3887243977545183826}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6b2ec66b1eaaab41b8814035679bd4c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  questionData:
+  - nameDeck: Deck-1
+    codeLink: 1Y_L6gKSu0ZJmqSBjUxlRehrd2ULER3Asj97djjQXV8k
+  - nameDeck: Deck-2
+    codeLink: 1a2Sr7GpgLeVxAOLu2BgQD7oVsFSS_B-yg9yWpN-rkpI
+  - nameDeck: Deck-3
+    codeLink: 1VFI_TWV6MNUtbkuBAt_UKET4JUVxv33mdiiGk6crv-4
+  - nameDeck: Deck-4
+    codeLink: 1ETzG8PMth-dTqnCMNgE7zloH1i3lKXdPjdlCWDL6zTg
+  - nameDeck: Deck-5
+    codeLink: 15pOg_8ZGtkOc6oFvkTRa-zBl0BytTSHQfwVht2QOk7c
+  - nameDeck: Deck-6
+    codeLink: 1UWwLj8-ay9M2emd1aRx6IKJ_771LMVVHOwXMLXpH7BQ
+--- !u!114 &7322770064808816127
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3887243977545183826}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c4c6b8bc3c139c419553b08481b78d9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  deckSettings:
+  - {fileID: 11400000, guid: 5b6f38b12f673034bb5e0fc8759868cb, type: 2}
+  - {fileID: 11400000, guid: dd7d04017939077409007567d4d42251, type: 2}
+  - {fileID: 11400000, guid: 88dab95fa34fba84da4446e9868a8839, type: 2}
+  - {fileID: 11400000, guid: a97955f96234b644c8c593b4c2921c54, type: 2}
+  - {fileID: 11400000, guid: 7a862f0160c83f54787894f26b71fb38, type: 2}
+  - {fileID: 11400000, guid: 4eb30f2d1b98b6247be0b36054304aea, type: 2}
