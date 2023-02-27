@@ -23,7 +23,7 @@ public class ThemesWindow : MonoBehaviour
         }
     }
 
-    private void DisplayThemes()
+    public void DisplayThemes()
     {
         var decks = GetDeckSettings(GameManager.instance.gameMode);
         for (int i = 0; i < decksContainer.transform.childCount; i++)

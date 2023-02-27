@@ -66,6 +66,11 @@ public class GameManager : MonoBehaviour
         themesWindow.gameObject.SetActive(true);
     }
 
+    public void Susbscribe()
+    {
+        isSubscribe = true;
+    }
+
     private async void Start()
     {
         onBoarding.SetActive(!PlayerPrefs.HasKey("FirstStart"));
