@@ -78,17 +78,27 @@ public class TruthDareWindow : MonoBehaviour
 
         truthBtn.onClick.AddListener(() =>
         {
-            truthDare = TruthDare.Truth;
-            GameManager.instance.questionWindow.gameObject.SetActive(true);
-            gameObject.SetActive(false);
+            TruthAction();
         });
 
         dareBtn.onClick.AddListener(() =>
         {
-            truthDare = TruthDare.Dare;
-            GameManager.instance.questionWindow.gameObject.SetActive(true);
-            gameObject.SetActive(false);
+            DareAction();
         });
+    }
+
+    public void TruthAction()
+    {
+        truthDare = TruthDare.Truth;
+        GameManager.instance.questionWindow.gameObject.SetActive(true);
+        gameObject.SetActive(false);
+    }
+
+    public void DareAction()
+    {
+        truthDare = TruthDare.Dare;
+        GameManager.instance.questionWindow.gameObject.SetActive(true);
+        gameObject.SetActive(false);
     }
 
     private Player GetRandomPlayer()
