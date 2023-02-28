@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using TMPro;
+using Cysharp.Threading.Tasks;
 
 [RequireComponent(typeof(TextMeshProUGUI))]
 
@@ -8,9 +9,15 @@ public class LocalizedText : MonoBehaviour
     private TextMeshProUGUI text;
     private string key;
 
-    private void Start()
+    private async void OnEnable()
     {
-        Localize();
+        await Localize();
+    }
+
+
+    private async void Start()
+    {
+        await Localize();
         LocalizationManager.OnLanguageChange += OnLanguageChange;
     }
 
@@ -21,19 +28,27 @@ public class LocalizedText : MonoBehaviour
 
     private void OnLanguageChange()
     {
-        Localize();
+        LocalizeText();
     }
 
     private void Init()
     {
         text = GetComponent<TextMeshProUGUI>();
-        key = text.text;
+        if(text.text.Contains("_key"))
+            key = text.text;
     }
 
-    public void Localize(string newKey = null)
+    public void LocalizeText()
     {
         if (text == null)
             Init();
+        text.text = LocalizationManager.GetTranslate(key);
+    }
+
+    public async UniTask Localize(string newKey = null)
+    {
+        await UniTask.Delay(10);
+        Init();
 
         if (newKey != null)
             key = newKey;

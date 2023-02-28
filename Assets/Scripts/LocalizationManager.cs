@@ -57,9 +57,11 @@ public class LocalizationManager : MonoBehaviour
         if (languageId == -1)
             languageId = SelectedLanguage;
 
+        
         if (localization.ContainsKey(key))
             return localization[key][languageId];
-    
+        
+
         return key;
     }
 }

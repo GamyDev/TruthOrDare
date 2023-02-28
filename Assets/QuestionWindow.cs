@@ -113,7 +113,7 @@ public class QuestionWindow : MonoBehaviour
 
         questionText.text = currentQuestion.text;
 
-        title.text = GameManager.instance.gameMode == DeckType.ForFriends ? "For Friends" : "For Couples";
+        title.text = GameManager.instance.gameMode == DeckType.ForFriends ? "For Friends_key" : "For Couples_key";
 
         timerPanel.SetActive(false);
         simplePanel.SetActive(true);

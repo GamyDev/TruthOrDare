@@ -18,7 +18,7 @@ public class Settings : MonoBehaviour
     {
         music.value = PlayerPrefs.GetInt("Music", 1);
         AudioListener.volume = PlayerPrefs.GetInt("Music", 1);
-        musicText.text = PlayerPrefs.GetInt("Music", 1) == 1 ? "Music: On" : "Music: Off";
+        musicText.text = PlayerPrefs.GetInt("Music", 1) == 1 ? "Music: On_key" : "Music: Off_key";
     }
 
 
@@ -27,7 +27,7 @@ public class Settings : MonoBehaviour
         AudioListener.volume = value;
         PlayerPrefs.SetInt("Music", (int)value);
        
-        musicText.text = value == 1 ? "Music: On" : "Music: Off";
+        musicText.text = value == 1 ? "Music: On_key" : "Music: Off_key";
     }
 
     public void SwitchMusic()

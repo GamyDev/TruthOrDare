@@ -16,10 +16,10 @@ public class ThemesWindow : MonoBehaviour
     {
         if(GameManager.instance.gameMode == DeckType.ForFriends)
         {
-            text.text = "For Friends";
+            text.text = "For Friends_key";
         } else
         {
-            text.text = "For Couples";
+            text.text = "For Couples_key";
         }
     }
 

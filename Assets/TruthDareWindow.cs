@@ -66,10 +66,10 @@ public class TruthDareWindow : MonoBehaviour
 
         if (GameManager.instance.gameMode == DeckType.ForFriends)
         {
-            title.text = "For Friends";
+            title.text = "For Friends_key";
         } else
         {
-            title.text = "For Couples";
+            title.text = "For Couples_key";
         }
 
         currentPlayer = GetRandomPlayer();
