@@ -28,7 +28,7 @@ public class SwipeEffect : MonoBehaviour,IDragHandler,IBeginDragHandler,IEndDrag
     public void OnDrag(PointerEventData eventData)
     {
         //speed = Mathf.Clamp(eventData.delta.x * Time.deltaTime, -1f, 1f);
-        speed = eventData.delta.x * Time.deltaTime;
+        speed = eventData.delta.x * Time.deltaTime * 10;
 
         if (eventData.delta.x > 0 && ((transform.localEulerAngles.z >= 0 && transform.localEulerAngles.z <= 5) || (transform.localEulerAngles.z <= 365 && transform.localEulerAngles.z >= 360)))
         {
