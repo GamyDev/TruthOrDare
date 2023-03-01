@@ -27,7 +27,8 @@ public class SwipeEffect : MonoBehaviour,IDragHandler,IBeginDragHandler,IEndDrag
 
     public void OnDrag(PointerEventData eventData)
     {
-        speed = Mathf.Clamp(eventData.delta.x * Time.deltaTime, -1f, 1f);
+        //speed = Mathf.Clamp(eventData.delta.x * Time.deltaTime, -1f, 1f);
+        speed = eventData.delta.x * Time.deltaTime;
 
         if (eventData.delta.x > 0 && ((transform.localEulerAngles.z >= 0 && transform.localEulerAngles.z <= 5) || (transform.localEulerAngles.z <= 365 && transform.localEulerAngles.z >= 360)))
         {
@@ -115,6 +116,7 @@ public class SwipeEffect : MonoBehaviour,IDragHandler,IBeginDragHandler,IEndDrag
         }
 
         transform.localEulerAngles = _initialPosition;
+        cancelSwipe?.Invoke();
     }
  
 }

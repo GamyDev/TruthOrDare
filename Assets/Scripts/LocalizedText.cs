@@ -8,10 +8,13 @@ public class LocalizedText : MonoBehaviour
 {
     private TextMeshProUGUI text;
     private string key;
+    public bool dynamicText;
+    
 
     private async void OnEnable()
     {
-        await Localize();
+        if(dynamicText)
+            await Localize();
     }
 
 
