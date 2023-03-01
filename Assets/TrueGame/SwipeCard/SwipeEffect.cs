@@ -28,9 +28,9 @@ public class SwipeEffect : MonoBehaviour,IDragHandler,IBeginDragHandler,IEndDrag
     public void OnDrag(PointerEventData eventData)
     {
         //speed = Mathf.Clamp(eventData.delta.x * Time.deltaTime, -1f, 1f);
-        speed = eventData.delta.x * Time.deltaTime * 10;
+        speed = eventData.delta.x * Time.deltaTime * 5;
 
-        if (eventData.delta.x > 0 && ((transform.localEulerAngles.z >= 0 && transform.localEulerAngles.z <= 5) || (transform.localEulerAngles.z <= 365 && transform.localEulerAngles.z >= 360)))
+        if (eventData.delta.x > 0 && ((transform.localEulerAngles.z >= 0 && transform.localEulerAngles.z <= 5) || (transform.localEulerAngles.z <= 360 && transform.localEulerAngles.z >= 355)))
         {
             if (!directionRight)
             {
@@ -48,7 +48,7 @@ public class SwipeEffect : MonoBehaviour,IDragHandler,IBeginDragHandler,IEndDrag
                 directionLeft = false;
             }
         }
-        if (eventData.delta.x < 0 && ((transform.localEulerAngles.z >= 0 && transform.localEulerAngles.z <= 5) || (transform.localEulerAngles.z <= 365 && transform.localEulerAngles.z >= 360)))
+        if (eventData.delta.x < 0 && ((transform.localEulerAngles.z >= 0 && transform.localEulerAngles.z <= 5) || (transform.localEulerAngles.z <= 360 && transform.localEulerAngles.z >= 355)))
         {
             if (!directionLeft)
             {
@@ -78,14 +78,14 @@ public class SwipeEffect : MonoBehaviour,IDragHandler,IBeginDragHandler,IEndDrag
         }
 
         transform.localEulerAngles = new Vector3(transform.localEulerAngles.x,transform.localEulerAngles.y, transform.localEulerAngles.z - speed);
-        if(transform.localEulerAngles.z > 90 && 360 - transform.localEulerAngles.z > 45)
+        if(transform.localEulerAngles.z > 90 && 360 - transform.localEulerAngles.z > 25)
         {
-            transform.localEulerAngles = new Vector3(transform.localEulerAngles.x, transform.localEulerAngles.y, 315);
+            transform.localEulerAngles = new Vector3(transform.localEulerAngles.x, transform.localEulerAngles.y, 335);
         }
 
-        if(transform.localEulerAngles.z > 45 && transform.localEulerAngles.z < 90)
+        if(transform.localEulerAngles.z > 25 && transform.localEulerAngles.z < 90)
         {
-            transform.localEulerAngles = new Vector3(transform.localEulerAngles.x, transform.localEulerAngles.y, 45);
+            transform.localEulerAngles = new Vector3(transform.localEulerAngles.x, transform.localEulerAngles.y, 25);
         }
     }
 
@@ -96,20 +96,20 @@ public class SwipeEffect : MonoBehaviour,IDragHandler,IBeginDragHandler,IEndDrag
 
     public void OnEndDrag(PointerEventData eventData)
     {
-        if (eventData.delta.x == 0 && (transform.localEulerAngles.z > 5 && transform.localEulerAngles.z < 90))
+        if ((transform.localEulerAngles.z > 5 && transform.localEulerAngles.z < 90))
         {
             swipeLeft?.Invoke();
             Debug.Log("Left");
         }
 
 
-        if (eventData.delta.x == 0 && (transform.localEulerAngles.z > 90 && 360 - transform.localEulerAngles.z > 5))
+        if ( (transform.localEulerAngles.z > 90 && 360 - transform.localEulerAngles.z > 5))
         { 
             swipeRight?.Invoke();
             Debug.Log("Right");
         }
 
-        if ((eventData.delta.x == 0 && (transform.localEulerAngles.z > 90 && (360 - transform.localEulerAngles.z >= 0 && 360 - transform.localEulerAngles.z <= 5))) || (eventData.delta.x == 0 && ((transform.localEulerAngles.z >= 0 && transform.localEulerAngles.z <= 5) && transform.localEulerAngles.z < 90)))
+        if (((transform.localEulerAngles.z > 90 && (360 - transform.localEulerAngles.z >= 0 && 360 - transform.localEulerAngles.z <= 5))) || (eventData.delta.x == 0 && ((transform.localEulerAngles.z >= 0 && transform.localEulerAngles.z <= 5) && transform.localEulerAngles.z < 90)))
         {
             cancelSwipe?.Invoke();
             Debug.Log("Cancel");

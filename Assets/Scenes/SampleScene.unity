@@ -14047,9 +14047,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: f646d488337c94084b47e56752970960, type: 3}
+  m_audioClip: {fileID: 8300000, guid: ed78281634b344190ab53cb911e03e33, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.5
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -17488,7 +17488,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 879668686855741539, guid: 1017e14f5769d43aa91f409c628e26b1, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 622.9976
+      value: 622.9973
       objectReference: {fileID: 0}
     - target: {fileID: 1476548398277374154, guid: 1017e14f5769d43aa91f409c628e26b1, type: 3}
       propertyPath: m_text
@@ -19690,7 +19690,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2151089250130671610, guid: 48f054fa74d6f4f3187b081d74ea2578, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 626.81726
+      value: 626.81757
       objectReference: {fileID: 0}
     - target: {fileID: 2151089250188492145, guid: 48f054fa74d6f4f3187b081d74ea2578, type: 3}
       propertyPath: m_Pivot.x
