@@ -8,7 +8,7 @@ public class SelectModeWindow : MonoBehaviour
 
     private void OnEnable()
     {
-        Invoke("DisableAnimator", 1.8f);
+        Invoke("DisableAnimator", 2f);
     }
 
     public void DisableAnimator()
