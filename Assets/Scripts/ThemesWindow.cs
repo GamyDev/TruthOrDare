@@ -49,6 +49,7 @@ public class ThemesWindow : MonoBehaviour
                     truthDareWindow.gameObject.SetActive(true); 
                     gameObject.SetActive(false);
                     GameManager.instance.truthDareWindow.ResetQuestion();
+                    GameManager.instance.players.ResetPlayer();
                 });
             } else
             {
@@ -60,6 +61,7 @@ public class ThemesWindow : MonoBehaviour
                         truthDareWindow.gameObject.SetActive(true);
                         gameObject.SetActive(false);
                         GameManager.instance.truthDareWindow.ResetQuestion();
+                        GameManager.instance.players.ResetPlayer();
                     });
                 } else
                 {

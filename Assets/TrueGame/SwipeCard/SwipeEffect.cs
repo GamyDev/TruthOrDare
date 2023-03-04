@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DG.Tweening;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -24,6 +25,13 @@ public class SwipeEffect : MonoBehaviour,IDragHandler,IBeginDragHandler,IEndDrag
     public UnityEvent swipingLeft;
 
     public UnityEvent cancelSwipe;
+
+    public Vector3 startPosition;
+
+    private void Start()
+    {
+        startPosition = transform.localPosition;
+    }
 
     public void OnDrag(PointerEventData eventData)
     {
@@ -98,15 +106,19 @@ public class SwipeEffect : MonoBehaviour,IDragHandler,IBeginDragHandler,IEndDrag
     {
         if ((transform.localEulerAngles.z > 5 && transform.localEulerAngles.z < 90))
         {
-            swipeLeft?.Invoke();
+            //swipeLeft?.Invoke();
+            transform.DOMoveX(transform.localPosition.x - (GetComponent<RectTransform>().rect.width / 4), 0.5f).OnComplete(MoveLeftCompleted).SetEase(Ease.InExpo);
             Debug.Log("Left");
+            return;
         }
 
 
         if ( (transform.localEulerAngles.z > 90 && 360 - transform.localEulerAngles.z > 5))
-        { 
-            swipeRight?.Invoke();
+        {
+            //swipeRight?.Invoke();
             Debug.Log("Right");
+            transform.DOMoveX(transform.localPosition.x + (GetComponent<RectTransform>().rect.width / 4), 0.5f).OnComplete(MoveRightCompleted).SetEase(Ease.InExpo);
+            return;
         }
 
         if (((transform.localEulerAngles.z > 90 && (360 - transform.localEulerAngles.z >= 0 && 360 - transform.localEulerAngles.z <= 5))) || (eventData.delta.x == 0 && ((transform.localEulerAngles.z >= 0 && transform.localEulerAngles.z <= 5) && transform.localEulerAngles.z < 90)))
@@ -118,5 +130,18 @@ public class SwipeEffect : MonoBehaviour,IDragHandler,IBeginDragHandler,IEndDrag
         transform.localEulerAngles = _initialPosition;
         cancelSwipe?.Invoke();
     }
- 
+
+    private void MoveLeftCompleted()
+    {
+        swipeLeft?.Invoke();
+        transform.localPosition = startPosition;
+        transform.localEulerAngles = _initialPosition;
+    }
+
+    private void MoveRightCompleted()
+    {
+        swipeRight?.Invoke();
+        transform.localPosition = startPosition;
+        transform.localEulerAngles = _initialPosition;
+    }
 }

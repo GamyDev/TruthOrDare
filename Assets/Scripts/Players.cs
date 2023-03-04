@@ -18,6 +18,8 @@ public class Players : MonoBehaviour
     public Sprite maleIcon;
     public Sprite femaleIcon;
 
+    public int currentPlayerIndex;
+
     public Sprite[] avatars;
 
     private void Start()
@@ -26,6 +28,31 @@ public class Players : MonoBehaviour
         Init();
         SpawnPlayers();
     }
+
+    public void ResetPlayer()
+    {
+        for (int i = 0; i < players.Count; i++)
+        {
+            players[i].numQuestion = 0;
+        }
+    }
+
+    public Player NextPlayer()
+    {
+        int nextIndex = currentPlayerIndex + 1;
+        players[currentPlayerIndex].numQuestion++;
+        if(nextIndex > players.Count - 1)
+            nextIndex = 0;
+
+        currentPlayerIndex = nextIndex;
+        return players[currentPlayerIndex];
+    }
+
+    public Player GetCurrentPlayer()
+    {
+        return players[currentPlayerIndex];
+    }
+
     public void DisplayPlayers()
     {
         for (int i = 0; i < players.Count; i++)
@@ -140,4 +167,5 @@ public class Player
     public string name;
     public bool male;
     public int avatar = -1;
+    public int numQuestion;
 }

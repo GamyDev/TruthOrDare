@@ -28,28 +28,33 @@ public class TruthDareWindow : MonoBehaviour
 
     public void ResetQuestion()
     {
+        GameManager.instance.players.ResetPlayer();
         currentQuestionNum = 0;
-        questionNum.fillAmount = (float)currentQuestionNum / (float)GameManager.instance.questionsPerRound;
-        questions.text = $"{currentQuestionNum + 1}/{GameManager.instance.questionsPerRound}";
+        questionNum.fillAmount = (float)GameManager.instance.players.GetCurrentPlayer().numQuestion / (float)(GameManager.instance.questionsPerRound - 1);
+        questions.text = $"{GameManager.instance.players.GetCurrentPlayer().numQuestion + 1}/{GameManager.instance.questionsPerRound}";
 
-        GameManager.instance.questionWindow.questionNumSlider.fillAmount = (float)currentQuestionNum / (float)GameManager.instance.questionsPerRound;
-        GameManager.instance.questionWindow.questionNumText.text = $"{currentQuestionNum + 1}/{GameManager.instance.questionsPerRound}";
+        GameManager.instance.questionWindow.questionNumSlider.fillAmount = (float)GameManager.instance.players.GetCurrentPlayer().numQuestion / (float)(GameManager.instance.questionsPerRound - 1);
+        GameManager.instance.questionWindow.questionNumText.text = $"{GameManager.instance.players.GetCurrentPlayer().numQuestion + 1}/{GameManager.instance.questionsPerRound}";
     }
 
     public void NextQuestion()
     {
+        currentPlayer = GameManager.instance.players.NextPlayer();
         currentQuestionNum++;
-        questionNum.fillAmount = (float)currentQuestionNum / (float)GameManager.instance.questionsPerRound;
-        questions.text = $"{currentQuestionNum + 1}/{GameManager.instance.questionsPerRound}";
+        questionNum.fillAmount = (float)GameManager.instance.players.GetCurrentPlayer().numQuestion / (float)(GameManager.instance.questionsPerRound - 1);
+        questions.text = $"{GameManager.instance.players.GetCurrentPlayer().numQuestion + 1}/{GameManager.instance.questionsPerRound}";
 
-        GameManager.instance.questionWindow.questionNumSlider.fillAmount = (float)currentQuestionNum / (float)GameManager.instance.questionsPerRound;
-        GameManager.instance.questionWindow.questionNumText.text = $"{currentQuestionNum + 1}/{GameManager.instance.questionsPerRound}";
+        GameManager.instance.questionWindow.questionNumSlider.fillAmount = (float)GameManager.instance.players.GetCurrentPlayer().numQuestion / (float)(GameManager.instance.questionsPerRound - 1);
+        GameManager.instance.questionWindow.questionNumText.text = $"{GameManager.instance.players.GetCurrentPlayer().numQuestion + 1}/{GameManager.instance.questionsPerRound}";
+    }
 
-        if (currentQuestionNum == GameManager.instance.questionsPerRound - 1)
+    public void ShowWin()
+    {
+        if (currentQuestionNum == (GameManager.instance.questionsPerRound * GameManager.instance.players.players.Count))
         {
-            gameObject.SetActive(false);
             GameManager.instance.questionWindow.gameObject.SetActive(false);
             GameManager.instance.winPanel.SetActive(true);
+            GameManager.instance.truthDareWindow.gameObject.SetActive(false);
         }
     }
 
@@ -57,12 +62,12 @@ public class TruthDareWindow : MonoBehaviour
     {
         questionNum.fillAmount = 1;
 
-        questionNum.fillAmount = (float)currentQuestionNum / (float)GameManager.instance.questionsPerRound; 
-        questions.text = $"{currentQuestionNum + 1}/{GameManager.instance.questionsPerRound}";
+        questionNum.fillAmount = (float)GameManager.instance.players.GetCurrentPlayer().numQuestion / (float)(GameManager.instance.questionsPerRound - 1); 
+        questions.text = $"{(float)GameManager.instance.players.GetCurrentPlayer().numQuestion + 1} / {GameManager.instance.questionsPerRound}";
 
         GameManager.instance.questionWindow.questionNumSlider.fillAmount = 1;
-        GameManager.instance.questionWindow.questionNumSlider.fillAmount = (float)currentQuestionNum / (float)GameManager.instance.questionsPerRound;
-        GameManager.instance.questionWindow.questionNumText.text = $"{currentQuestionNum + 1}/{GameManager.instance.questionsPerRound}";
+        GameManager.instance.questionWindow.questionNumSlider.fillAmount = (float)GameManager.instance.players.GetCurrentPlayer().numQuestion / (float)(GameManager.instance.questionsPerRound - 1);
+        GameManager.instance.questionWindow.questionNumText.text = $"{(float)GameManager.instance.players.GetCurrentPlayer().numQuestion + 1} / {GameManager.instance.questionsPerRound}";
 
         if (GameManager.instance.gameMode == DeckType.ForFriends)
         {
@@ -72,7 +77,7 @@ public class TruthDareWindow : MonoBehaviour
             title.text = "For Couples_key";
         }
 
-        currentPlayer = GetRandomPlayer();
+        currentPlayer = GameManager.instance.players.GetCurrentPlayer();
         playerName.text = currentPlayer.name;
         playerAvatar.sprite = GameManager.instance.players.avatars[currentPlayer.avatar];
 
