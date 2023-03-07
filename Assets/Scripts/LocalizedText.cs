@@ -20,7 +20,11 @@ public class LocalizedText : MonoBehaviour
 
     private async void Start()
     {
-        await Localize();
+        if (dynamicText)
+            await Localize();
+        else
+            LocalizeText();
+
         LocalizationManager.OnLanguageChange += OnLanguageChange;
     }
 
