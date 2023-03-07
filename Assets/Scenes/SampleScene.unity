@@ -2199,6 +2199,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+  startPosition: {x: 0, y: 0, z: 0}
 --- !u!1 &150460718
 GameObject:
   m_ObjectHideFlags: 0
@@ -10082,6 +10083,7 @@ GameObject:
   - component: {fileID: 1193513004}
   - component: {fileID: 1193513005}
   - component: {fileID: 1193513006}
+  - component: {fileID: 1193513007}
   m_Layer: 0
   m_Name: Scripts
   m_TagString: Untagged
@@ -10138,6 +10140,20 @@ MonoBehaviour:
   addPlayerPanelSize: 0
   addSpeakerphonePanelSize: 0
   addSubscriptionPanelSize: 0
+--- !u!114 &1193513007
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1193513002}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fac296b49de343a381b4057393e2e24, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameManager: {fileID: 0}
+  subscriptionProductId: com.drinkboozegame.truthordare.subscription
 --- !u!1 &1213725224
 GameObject:
   m_ObjectHideFlags: 0
@@ -19019,10 +19035,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1170456616234511413, guid: 0696dc7481b7142788bce4e37c4de35e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1170456616234511413, guid: 0696dc7481b7142788bce4e37c4de35e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1170456616234511413, guid: 0696dc7481b7142788bce4e37c4de35e, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1170456616234511413, guid: 0696dc7481b7142788bce4e37c4de35e, type: 3}
@@ -19030,7 +19050,15 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1629498780}
     - target: {fileID: 1170456616234511413, guid: 0696dc7481b7142788bce4e37c4de35e, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1193513007}
+    - target: {fileID: 1170456616234511413, guid: 0696dc7481b7142788bce4e37c4de35e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1170456616234511413, guid: 0696dc7481b7142788bce4e37c4de35e, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1170456616234511413, guid: 0696dc7481b7142788bce4e37c4de35e, type: 3}
@@ -19038,11 +19066,23 @@ PrefabInstance:
       value: Play
       objectReference: {fileID: 0}
     - target: {fileID: 1170456616234511413, guid: 0696dc7481b7142788bce4e37c4de35e, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: Restore
+      objectReference: {fileID: 0}
+    - target: {fileID: 1170456616234511413, guid: 0696dc7481b7142788bce4e37c4de35e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
       value: UnityEngine.AudioSource, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 1170456616234511413, guid: 0696dc7481b7142788bce4e37c4de35e, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: Samples.Purchasing.Core.BuyingSubscription.BuyingSubscription, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 1170456616234511413, guid: 0696dc7481b7142788bce4e37c4de35e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 1170456616234511413, guid: 0696dc7481b7142788bce4e37c4de35e, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 1170456616460762070, guid: 0696dc7481b7142788bce4e37c4de35e, type: 3}
@@ -22160,7 +22200,7 @@ PrefabInstance:
     - target: {fileID: 7401240525762998485, guid: 8c92690bb29944596849eb7829aed17f, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[4].m_Target
       value: 
-      objectReference: {fileID: 1314601359}
+      objectReference: {fileID: 1193513007}
     - target: {fileID: 7401240525762998485, guid: 8c92690bb29944596849eb7829aed17f, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
       value: 2
@@ -22199,7 +22239,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7401240525762998485, guid: 8c92690bb29944596849eb7829aed17f, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[4].m_MethodName
-      value: Susbscribe
+      value: BuySubscription
       objectReference: {fileID: 0}
     - target: {fileID: 7401240525762998485, guid: 8c92690bb29944596849eb7829aed17f, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
@@ -22219,7 +22259,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7401240525762998485, guid: 8c92690bb29944596849eb7829aed17f, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[4].m_TargetAssemblyTypeName
-      value: GameManager, Assembly-CSharp
+      value: Samples.Purchasing.Core.BuyingSubscription.BuyingSubscription, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 7401240525762998485, guid: 8c92690bb29944596849eb7829aed17f, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_BoolArgument
