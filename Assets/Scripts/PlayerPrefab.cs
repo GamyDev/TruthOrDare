@@ -11,6 +11,12 @@ public class PlayerPrefab : MonoBehaviour
     public GameObject female;
     public Image avatar;
 
+
+    private void OnEnable()
+    {
+        input.shouldHideMobileInput = true; 
+    }
+
     public void SetGender(bool mail)
     {  
         GameManager.instance.players.players[transform.GetSiblingIndex()].male = mail;
