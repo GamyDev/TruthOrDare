@@ -34,6 +34,7 @@ namespace Samples.Purchasing.Core.BuyingSubscription
         void Start()
         {
             InitializePurchasing();
+            SetSubscribtion(true);
         }
 
 

@@ -10152,7 +10152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0fac296b49de343a381b4057393e2e24, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
+  gameManager: {fileID: 1314601359}
   subscriptionProductId: com.drinkboozegame.truthordare.subscription
 --- !u!1 &1213725224
 GameObject:
