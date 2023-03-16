@@ -37,11 +37,6 @@ public class RefreshButton : MonoBehaviour
 
         File.WriteAllText(Application.persistentDataPath + "/Data/" + deck + ".csv", data);
 
-        Debug.Log($"{deck} downloaded succesfully! {QuestionsParser.ReadCsv(deck).Count} questions loaded!");
-
         GetComponent<Button>().interactable = true;
-
-        testText.text = $"Loaded {QuestionsParser.ReadCsv("Deck-1").Count.ToString()} questions!";
-
 }
 }

@@ -20,467 +20,617 @@ MonoBehaviour:
   - theme: Truth
     text: What is the worst gift you ever received and from whom?
     timer: 
+    textRU: 
   - theme: Truth
     text: "Say any 4 items you purchased with your partner\u2019s money and never
       used it?"
     timer: 
+    textRU: 
   - theme: Truth
     text: Describe the weird dream you have ever got.
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever danced on a table inside the bar?
     timer: 
+    textRU: 
   - theme: Truth
     text: If you had to give the most annoying award to someone in your family, who
       would you select?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever break up with someone before Christmas just because you can
       avoid buying a gift?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the job you hate the most and why?
     timer: 
+    textRU: 
   - theme: Truth
     text: If you found $1 million on road, do you keep it for yourself or take it
       to the police station?
     timer: 
+    textRU: 
   - theme: Truth
     text: How many kids would you like to have?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most fun thing about you that no one knows till now?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is your deepest secret?
     timer: 
+    textRU: 
   - theme: Truth
     text: "Tell me that one thing you always wanted to say but couldn\u2019t."
     timer: 
+    textRU: 
   - theme: Truth
     text: What is exactly on your mind now?
     timer: 
+    textRU: 
   - theme: Truth
     text: What do you think I should change in me?
     timer: 
+    textRU: 
   - theme: Truth
     text: What are your likes and dislikes?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the best thing you like when you are a teenager?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is your happiest moment in your life?
     timer: 
+    textRU: 
   - theme: Truth
     text: When did you start taking alcohol?
     timer: 
+    textRU: 
   - theme: Truth
     text: What was your nickname in childhood?
     timer: 
+    textRU: 
   - theme: Truth
     text: Your two favorite colors and why?
     timer: 
+    textRU: 
   - theme: Truth
     text: "Did someone break your heart? If yes, say the name of the person and I\u2019ll
       break their bones"
     timer: 
+    textRU: 
   - theme: Truth
     text: What are the two big things you have sacrificed for me?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the best thing we did together?
     timer: 
+    textRU: 
   - theme: Truth
     text: "Did you even say I\u2019m beautiful even though you think I\u2019m ugly?"
     timer: 
+    textRU: 
   - theme: Truth
     text: "What is one biggest secret about you I\u2019m unaware of?"
     timer: 
+    textRU: 
   - theme: Truth
     text: Do you think you deserve a better partner than me?
     timer: 
+    textRU: 
   - theme: Truth
     text: What do you think that changed in me after marriage?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the best gift you have received from your partner?
     timer: 
+    textRU: 
   - theme: Truth
     text: How do you feel during our first night?
     timer: 
+    textRU: 
   - theme: Truth
     text: What comes to your mind when you hear my name suddenly from someone?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever experimented with opposite gender of you? Do you like to
       do it now?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most romantic scene you have ever witnessed?
     timer: 
+    textRU: 
   - theme: Truth
     text: Do you miss something on me?
     timer: 
+    textRU: 
   - theme: Truth
     text: When were the craziest clothes you wore and for whom?
     timer: 
+    textRU: 
   - theme: Truth
     text: Describe your first kiss with me after marriage.
     timer: 
+    textRU: 
   - theme: Truth
     text: Do you feel possessive if I talk with other people of my gender?
     timer: 
+    textRU: 
   - theme: Truth
     text: Do you know how cute you look when you smile?
     timer: 
+    textRU: 
   - theme: Truth
     text: If we had to run away far from our life, where would you suggest us going?
     timer: 
+    textRU: 
   - theme: Truth
     text: How many spoons of sugar did you add in coffee? It tastes too sweet like
       you.
     timer: 
+    textRU: 
   - theme: Truth
     text: "Why do I feel like I\u2019m seeing two moons at the same time today?"
     timer: 
+    textRU: 
   - theme: Truth
     text: Tell me that one secret that you are hiding from me.
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever attracted to someone of the same gender?
     timer: 
+    textRU: 
   - theme: Truth
     text: What was your most embarrassing date with your ex? Describe it.
     timer: 
+    textRU: 
   - theme: Truth
     text: Do you ever have a serious relationship with someone from your family?
     timer: 
+    textRU: 
   - theme: Truth
     text: Describe the most embarrassing thing you have done to your crush.
     timer: 
+    textRU: 
   - theme: Truth
     text: What is your embarrassing thing happen to you during our wedding ceremony?
     timer: 
+    textRU: 
   - theme: Truth
     text: How many people did you date before marrying me?
     timer: 
+    textRU: 
   - theme: Truth
     text: "What is your embarrassing thing happen to you when we\u2019re making out?"
     timer: 
+    textRU: 
   - theme: Truth
     text: What would have happened if we both are not married to each other?
     timer: 
+    textRU: 
   - theme: Truth
     text: Do you have a crush on my sister?
     timer: 
+    textRU: 
   - theme: Truth
     text: If you could pick one person to join us for a night, who would you pick?
     timer: 
+    textRU: 
   - theme: Truth
     text: Describe your first night experience.
     timer: 
+    textRU: 
   - theme: Truth
     text: What are the 4 body parts your partner likes to kiss in you?
     timer: 
+    textRU: 
   - theme: Truth
     text: "Have you ever fallen in love with your partner\u2019s friends and he noticed
       it?"
     timer: 
+    textRU: 
   - theme: Truth
     text: "Have you ever lied to your partner to avoid making out just because you\u2019re
       not in the mood?"
     timer: 
+    textRU: 
   - theme: Truth
     text: "What is your partner\u2019s favorite position?"
     timer: 
+    textRU: 
   - theme: Truth
     text: Are you satisfied when you are making out with your partner?
     timer: 
+    textRU: 
   - theme: Truth
     text: How do you ask your partner when you are in good mood?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the strangest place you make out with your husband?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most irritating thing your wife do when you were making out?
     timer: 
+    textRU: 
   - theme: Truth
     text: If you could pick one person to join us for a night, who would you pick?
     timer: 
+    textRU: 
   - theme: Truth
     text: Describe your first night experience.
     timer: 
+    textRU: 
   - theme: Truth
     text: What are the 4 body parts your partner likes to kiss in you?
     timer: 
+    textRU: 
   - theme: Truth
     text: "Have you ever fallen in love with your partner\u2019s friends and he noticed
       it?"
     timer: 
+    textRU: 
   - theme: Truth
     text: "Have you ever lied to your partner to avoid making out just because you\u2019re
       not in the mood?"
     timer: 
+    textRU: 
   - theme: Truth
     text: "What is your partner\u2019s favorite position?"
     timer: 
+    textRU: 
   - theme: Truth
     text: Are you satisfied when you are making out with your partner?
     timer: 
+    textRU: 
   - theme: Truth
     text: How do you ask your partner when you are in good mood?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the strangest place you make out with your husband?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most irritating thing your wife do when you were making out
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most embarrassing thing your boyfriend/girlfriend did to you?
     timer: 
+    textRU: 
   - theme: Truth
     text: Tell me one secret about you, which you only wanted to share with me.
     timer: 
+    textRU: 
   - theme: Truth
     text: Describe me in one word.
     timer: 
+    textRU: 
   - theme: Truth
     text: With whom you feel more comfortable with naked and why?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever feel bad about your vagina/penis?
     timer: 
+    textRU: 
   - theme: Truth
     text: How do you when you masturbated for the first/last time?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is your favorite thing about family gatherings?
     timer: 
+    textRU: 
   - theme: Truth
     text: What are your favorite vegetarian and non-vegetarian food?
     timer: 
+    textRU: 
   - theme: Truth
     text: When was the first time you have fallen in love with me?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most embarrassing punishment you faced at college?
     timer: 
+    textRU: 
   - theme: Dare
     text: Acting like your favorite family member and send that video to the same
       person.
     timer: 
+    textRU: 
   - theme: Dare
     text: Lift someone and spin together for 15 seconds.
     timer: 
+    textRU: 
   - theme: Dare
     text: Place a lemon on the spoon, put it in your mouth and do a back walk.
     timer: 
+    textRU: 
   - theme: Dare
     text: Take a selfie with your family with a funny face and publish it on Facebook.
     timer: 
+    textRU: 
   - theme: Dare
     text: Do a funny dance to your favorite song like a kid.
     timer: 
+    textRU: 
   - theme: Dare
     text: Sing your favorite song by turning upside down with devil voice.
     timer: 
+    textRU: 
   - theme: Dare
     text: Act like your wife/husband in front of your parents.
     timer: 
+    textRU: 
   - theme: Dare
     text: Tell a joke to your family members until they laugh loudly.
     timer: 
+    textRU: 
   - theme: Dare
     text: Do sounds like cat, donkey, duck, dog etc..,
     timer: 
+    textRU: 
   - theme: Dare
     text: Cook something special for your family members which you never cooked before.
     timer: 
+    textRU: 
   - theme: Dare
     text: "Sing your wife/husband\u2019s favorite song."
     timer: 
+    textRU: 
   - theme: Dare
     text: Call me how you can call in our bedroom.
     timer: 
+    textRU: 
   - theme: Dare
     text: Act like you best friend.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create your own song and sing for me.
     timer: 
+    textRU: 
   - theme: Dare
     text: Treat me like your own baby.
     timer: 
+    textRU: 
   - theme: Dare
     text: Clean the entire home within an hour.
     timer: 
+    textRU: 
   - theme: Dare
     text: Spend 2 days in our home without maintaining any contact with me.
     timer: 
+    textRU: 
   - theme: Dare
     text: Wear traditional dress daily for one month.
     timer: 
+    textRU: 
   - theme: Dare
     text: Close your eyes, prepare tea and drink it.
     timer: 
+    textRU: 
   - theme: Dare
     text: Show me how you feel when I leave you suddenly.
     timer: 
+    textRU: 
   - theme: Dare
     text: Read a dirty book loudly for me.
     timer: 
+    textRU: 
   - theme: Dare
     text: Explain how you feel when we had our first kiss.
     timer: 
+    textRU: 
   - theme: Dare
     text: Kiss 10 times anywhere you want.
     timer: 
+    textRU: 
   - theme: Dare
     text: Give a rose at a public place and propose me in front of everyone.
     timer: 
+    textRU: 
   - theme: Dare
     text: Seduce me without touching my body.
     timer: 
+    textRU: 
   - theme: Dare
     text: "Tell me a secret you haven\u2019t share with anyone before."
     timer: 
+    textRU: 
   - theme: Dare
     text: Write your name on my body by using your fingers.
     timer: 
+    textRU: 
   - theme: Dare
     text: Turn upside down like Spiderman and kiss me until you get bored.
     timer: 
+    textRU: 
   - theme: Dare
     text: Show me the best part of your body that makes me seduce.
     timer: 
+    textRU: 
   - theme: Dare
     text: Do salsa dance with me for a romantic song.
     timer: 
+    textRU: 
   - theme: Dare
     text: "Let\u2019s go for honeymoon again."
     timer: 
+    textRU: 
   - theme: Dare
     text: "Think I\u2019m your best friend and explain our married life."
     timer: 
+    textRU: 
   - theme: Dare
     text: Show me your negative character.
     timer: 
+    textRU: 
   - theme: Dare
     text: Tell me what is the most uncomfortable thing with me while we are in date.
     timer: 
+    textRU: 
   - theme: Dare
     text: Dance for our wedding song with the same dress you wore on that day.
     timer: 
+    textRU: 
   - theme: Dare
     text: "Show me how you behave when I\u2019m fully tired."
     timer: 
+    textRU: 
   - theme: Dare
     text: Leave your sister for one month with me.
     timer: 
+    textRU: 
   - theme: Dare
     text: Be ready for a surprise midnight long drive with me.
     timer: 
+    textRU: 
   - theme: Dare
     text: "Make a phone call to your parents and say I\u2019m in the hospital in
       a critical condition."
     timer: 
+    textRU: 
   - theme: Dare
     text: Present me a rose daily for ten days.
     timer: 
+    textRU: 
   - theme: Dare
     text: Is your ex still in contact with you.
     timer: 
+    textRU: 
   - theme: Dare
     text: Who are your favorite in-laws in our family?
     timer: 
+    textRU: 
   - theme: Dare
     text: Have you ever been harassed by your spouse?
     timer: 
+    textRU: 
   - theme: Dare
     text: Say any vulgar words continuously for 2 minutes.
     timer: 
+    textRU: 
   - theme: Dare
     text: Do you ever make out when we are on the date?
     timer: 
+    textRU: 
   - theme: Dare
     text: Close your eyes and wear all your clothes.
     timer: 
+    textRU: 
   - theme: Dare
     text: When do you planning for a baby?
     timer: 
+    textRU: 
   - theme: Dare
     text: Tell me what you do in your whole day before we get married.
     timer: 
+    textRU: 
   - theme: Dare
     text: Do you have any marital relationship with someone?
     timer: 
+    textRU: 
   - theme: Dare
     text: Describe me your first pregnant experience.
     timer: 
+    textRU: 
   - theme: Dare
     text: Act like your wife or husband favorite actor nudely.
     timer: 
+    textRU: 
   - theme: Dare
     text: Keep a banana (Peeled) on your wife husband private parts and eat it.
     timer: 
+    textRU: 
   - theme: Dare
     text: Give a dirty speech about your personal parts for 15 minutes.
     timer: 
+    textRU: 
   - theme: Dare
     text: Remove your wife/husband clothes by using your teeth.
     timer: 
+    textRU: 
   - theme: Dare
     text: Do shower with your partner for one week.
     timer: 
+    textRU: 
   - theme: Dare
     text: Sleep naked with your wife/husband for one week.
     timer: 
+    textRU: 
   - theme: Dare
     text: Do whatever your partner says for ten minutes like a slave.
     timer: 
+    textRU: 
   - theme: Dare
     text: "Roll a small fruit from top to bottom of your partner\u2019s body for
       2 minutes and eat it."
     timer: 
+    textRU: 
   - theme: Dare
     text: "Bite your wife/husband\u2019s bottom lips until it bleeds."
     timer: 
+    textRU: 
   - theme: Dare
     text: Watch a dirty video with your wife/husband and do exactly what they do
       in that video.
     timer: 
+    textRU: 
   - theme: Dare
     text: Do a belly dance and send that video to me.
     timer: 
+    textRU: 
   - theme: Dare
     text: Send me your ATM pin.
     timer: 
+    textRU: 
   - theme: Dare
     text: Block the person you usually talk with them daily.
     timer: 
+    textRU: 
   - theme: Dare
     text: Squeeze lemon juice on your hair and send that pic to me.
     timer: 
+    textRU: 
   - theme: Dare
     text: Pour some sauce on your mobile screen and make a video call to me after
       I lift the call, lick the sauce.
     timer: 
+    textRU: 
   - theme: Dare
     text: Take a picture wearing my underwear and send it now.
     timer: 
+    textRU: 
   - theme: Dare
     text: Take a selfie with the broom and send it to me.
     timer: 
+    textRU: 
   - theme: Dare
     text: "Set your phone\u2019s ringtone to whatever song I send to you."
     timer: 
+    textRU: 
   - theme: Dare
     text: Do a kissing scene with your mobile in your current location.
     timer: 
+    textRU: 
   - theme: Dare
     text: "Send a voice message saying \u201CI Love You\u201D along with my name
       in three different romantic ways."
     timer: 
+    textRU: 

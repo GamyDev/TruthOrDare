@@ -25,4 +25,6 @@ public class Question
     [TextArea(3, 5)]
     public string text;
     public string timer;
+    [TextArea(3, 5)]
+    public string textRU;
 }

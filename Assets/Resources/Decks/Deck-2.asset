@@ -20,938 +20,1198 @@ MonoBehaviour:
   - theme: Truth
     text: What is your favorite hobby?
     timer: 
+    textRU: 
   - theme: Truth
     text: What hobby have you always wanted to try but never had the chance?
     timer: 
+    textRU: 
   - theme: Truth
     text: How much time do you typically spend on your hobbies in a week?
     timer: 
+    textRU: 
   - theme: Truth
     text: What do you find most fulfilling about your hobbies?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever turned a hobby into a job or career?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is a hobby that you used to enjoy but no longer do?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is your least favorite hobby and why?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is a hobby that you think everyone should try at least once in their
       life?
     timer: 
+    textRU: 
   - theme: Truth
     text: What hobby do you think would be the most challenging for you to pick up?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever traveled specifically for a hobby or interest?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most unique hobby or interest you have?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever competed in a competition related to your hobby or interest?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is a hobby that you would like to learn more about in the future?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most expensive hobby or interest you have taken up?
     timer: 
+    textRU: 
   - theme: Truth
     text: What hobby or interest do you enjoy doing alone vs with others?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever met someone with the same hobby or interest and became friends?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever taught someone else your hobby or interest?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most difficult hobby or interest you have taken up?
     timer: 
+    textRU: 
   - theme: Truth
     text: What hobby or interest do you think is the most relaxing?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is a hobby or interest you would like to pass down to future generations?
     timer: 
+    textRU: 
   - theme: Truth
     text: What hobby or interest have you recently discovered that you love?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is a hobby or interest that you think is a waste of time?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever taken a break from a hobby or interest and why?
     timer: 
+    textRU: 
   - theme: Truth
     text: What hobby or interest do you think is the most undervalued or misunderstood?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever combined two or more hobbies or interests to create something
       new?
     timer: 
+    textRU: 
   - theme: Truth
     text: What hobby or interest have you taken up during quarantine or lockdown?
     timer: 
+    textRU: 
   - theme: Truth
     text: What hobby or interest do you think is the most physically demanding?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is a hobby or interest that you have given up and regret?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is a hobby or interest that you have taken up again after a long break?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most spontaneous hobby or interest you have taken up?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever turned a hobby into a business or side hustle?
     timer: 
+    textRU: 
   - theme: Truth
     text: What hobby or interest do you enjoy doing the most with friends or family?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that you didn't enjoy and why?
     timer: 
+    textRU: 
   - theme: Truth
     text: What hobby or interest have you taken up specifically to challenge yourself?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever had a hobby or interest that you kept secret from others?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most socially impactful hobby or interest you have taken up?
     timer: 
+    textRU: 
   - theme: Truth
     text: What hobby or interest do you enjoy doing in your free time?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever volunteered or given back to the community through your hobby
       or interest?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most creative hobby or interest you have taken up?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is a hobby or interest that you have pursued to help cope with stress
       or anxiety?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever traveled to a different country specifically for a hobby
       or interest?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is a hobby or interest that you think is the most entertaining to
       watch?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most meaningful hobby or interest you have taken up?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever collaborated with someone on a hobby or interest?
     timer: 
+    textRU: 
   - theme: Truth
     text: What hobby or interest do you think is the most sustainable or eco-friendly?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever shared a hobby or interest with someone who has become a
       close friend?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is a hobby or interest that you have taken up specifically to improve
       a skill or talent?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most nostalgic hobby or interest you have?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever joined a club or group related to your hobby or interest?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most adventurous hobby or interest you have taken up?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most educational hobby or interest you have taken up?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that you learned from a family
       member or friend?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most therapeutic hobby or interest you have taken up?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever taught someone a hobby or interest that they now enjoy?
     timer: 
+    textRU: 
   - theme: Truth
     text: What hobby or interest have you taken up specifically to improve your health
       or wellness?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever taken a class or workshop related to your hobby or interest?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most community-oriented hobby or interest you have taken up?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most cultural hobby or interest you have taken up?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever attended a festival or event related to your hobby or interest?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most seasonal hobby or interest you have taken up?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever given a presentation or demonstration related to your hobby
       or interest?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most tech-savvy hobby or interest you have taken up?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever used your hobby or interest to help others or make a positive
       impact?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most nostalgic hobby or interest you have taken up?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that is considered "out of your
       comfort zone"?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most impactful hobby or interest you have taken up on your
       personal growth?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that is considered "trendy" or
       "popular"?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most meaningful hobby or interest you have shared with someone
       else?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that is considered "outdated" or
       "old-fashioned"?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most fulfilling hobby or interest you have taken up?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever pursued a hobby or interest with the goal of becoming an
       expert or professional in it?
     timer: 
+    textRU: 
   - theme: Truth
     text: What hobby or interest have you taken up specifically to expand your knowledge
       or learning?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that is considered "risky" or "dangerous"?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most spiritual hobby or interest you have taken up?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that is considered "alternative"
       or "unconventional"?
     timer: 
+    textRU: 
   - theme: Truth
     text: What hobby or interest have you taken up specifically for self-expression
       or creativity?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that is considered "cult-like"
       or "obsessive"?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most collaborative hobby or interest you have taken up?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that is considered "extreme" or
       "thrilling"?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most nature-oriented hobby or interest you have taken up?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that is considered "quirky" or
       "eccentric"?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most life-changing hobby or interest you have taken up?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that is considered "avant-garde"
       or "cutting-edge"?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most meaningful hobby or interest you have pursued with a significant
       other?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that is considered "futuristic"
       or "innovative"?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most meaningful hobby or interest you have pursued with a close
       friend?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that is considered "artsy" or "aesthetic"?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most meaningful hobby or interest you have pursued with a family
       member?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that is considered "nostalgic"
       or "sentimental"?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most meaningful hobby or interest you have pursued with a community
       or group?
     timer: 
+    textRU: 
   - theme: Truth
     text: What hobby or interest have you taken up specifically for personal development
       or growth?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that is considered "challenging"
       or "difficult"?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most meaningful hobby or interest you have pursued with a mentor
       or teacher?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that is considered "unusual" or
       "strange"?
     timer: 
+    textRU: 
   - theme: Truth
     text: What hobby or interest have you taken up specifically for relaxation or
       stress relief?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that is considered "nerdy" or "geeky"?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most meaningful hobby or interest you have pursued with a pet
       or animal?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that is considered "underground"
       or "obscure"?
     timer: 
+    textRU: 
   - theme: Truth
     text: What hobby or interest have you taken up specifically for physical fitness
       or exercise?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that is considered "edgy" or "edgy"?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most unique hobby or interest you have taken up?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that is considered "adventurous"
       or "exploratory"?
     timer: 
+    textRU: 
   - theme: Truth
     text: What hobby or interest have you taken up specifically for mental stimulation
       or challenge?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that is considered "whimsical"
       or "fanciful"?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most meaningful hobby or interest you have pursued with a sibling?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that is considered "eclectic" or
       "diverse"?
     timer: 
+    textRU: 
   - theme: Truth
     text: What hobby or interest have you taken up specifically for spiritual or
       emotional connection?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that is considered "thought-provoking"
       or "intellectual"?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most meaningful hobby or interest you have pursued with a childhood
       friend?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that is considered "esoteric" or
       "obscure"?
     timer: 
+    textRU: 
   - theme: Truth
     text: What hobby or interest have you taken up specifically for socializing or
       making new friends?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that is considered "enjoyable"
       or "pleasurable"?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most meaningful hobby or interest you have pursued with a romantic
       partner?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that is considered "exciting" or
       "thrilling"?
     timer: 
+    textRU: 
   - theme: Truth
     text: What hobby or interest have you taken up specifically for personal expression
       or creativity?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that is considered "romantic" or
       "sentimental"?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most meaningful hobby or interest you have pursued with a close
       family member?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that is considered "quirky" or
       "unconventional"?
     timer: 
+    textRU: 
   - theme: Truth
     text: What hobby or interest have you taken up specifically for personal growth
       or development?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that is considered "inspiring"
       or "motivational"?
     timer: 
+    textRU: 
   - theme: Truth
     text: What hobby or interest have you taken up specifically for cultural exploration
       or education?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that is considered "philanthropic"
       or "charitable"?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most meaningful hobby or interest you have pursued with a mentor
       or role model?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that is considered "outdoorsy"
       or "adventurous"?
     timer: 
+    textRU: 
   - theme: Truth
     text: What hobby or interest have you taken up specifically for personal fulfillment
       or satisfaction?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that is considered "historical"
       or "archival"?
     timer: 
+    textRU: 
   - theme: Truth
     text: What is the most meaningful hobby or interest you have pursued with a close
       friend?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that is considered "environmental"
       or "sustainable"?
     timer: 
+    textRU: 
   - theme: Truth
     text: What hobby or interest have you taken up specifically for self-discovery
       or self-awareness?
     timer: 
+    textRU: 
   - theme: Truth
     text: Have you ever tried a hobby or interest that is considered "humanitarian"
       or "altruistic"?
     timer: 
+    textRU: 
   - theme: Dare
     text: Do an impression of your favorite celebrity and post it on social media.
     timer: 
+    textRU: 
   - theme: Dare
     text: Act out a scene from your favorite movie or TV show with a broom or mop
       as your co-star.
     timer: 
+    textRU: 
   - theme: Dare
     text: Play an instrument or sing a song in front of everyone.
     timer: 
+    textRU: 
   - theme: Dare
     text: Do a silly dance in public for 30 seconds.
     timer: 30
+    textRU: 
   - theme: Dare
     text: Make a piece of art or craft using only materials found in the room you're
       in.
     timer: 
+    textRU: 
   - theme: Dare
     text: Do a blind taste test with different types of food and guess what they
       are.
     timer: 
+    textRU: 
   - theme: Dare
     text: Perform a magic trick with objects you can find in the room.
     timer: 
+    textRU: 
   - theme: Dare
     text: Put on a fashion show with clothes from your closet or your friend's closet.
     timer: 
+    textRU: 
   - theme: Dare
     text: Record a video of yourself doing a workout routine and share it on social
       media.
     timer: 
+    textRU: 
   - theme: Dare
     text: Do a yoga pose or stretch for 30 seconds.
     timer: 30
+    textRU: 
   - theme: Dare
     text: Do a makeup tutorial using only one color of eyeshadow.
     timer: 
+    textRU: 
   - theme: Dare
     text: Recite a poem or monologue from memory.
     timer: 
+    textRU: 
   - theme: Dare
     text: Try a new recipe and share the results with everyone.
     timer: 
+    textRU: 
   - theme: Dare
     text: Do a handstand against a wall or do a cartwheel.
     timer: 
+    textRU: 
   - theme: Dare
     text: Write a short story or a haiku on the spot.
     timer: 
+    textRU: 
   - theme: Dare
     text: Do a science experiment using materials in the kitchen.
     timer: 
+    textRU: 
   - theme: Dare
     text: Show off your juggling skills with any objects you can find.
     timer: 
+    textRU: 
   - theme: Dare
     text: Make a funny face and keep it for 30 seconds.
     timer: 
+    textRU: 
   - theme: Dare
     text: Perform a stand-up comedy routine with jokes you make up on the spot.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a meme using a picture of yourself and share it on social media.
     timer: 
+    textRU: 
   - theme: Dare
     text: Read a passage from your favorite book in a funny accent.
     timer: 
+    textRU: 
   - theme: Dare
     text: Do a hand-lettering or calligraphy project and show it to everyone.
     timer: 
+    textRU: 
   - theme: Dare
     text: Take a photo of yourself doing a silly pose and use it as your profile
       picture for the next 24 hours.
     timer: 
+    textRU: 
   - theme: Dare
     text: Paint your nails with a design or pattern that everyone else chooses for
       you.
     timer: 
+    textRU: 
   - theme: Dare
     text: Learn a new dance move and perform it for everyone.
     timer: 
+    textRU: 
   - theme: Dare
     text: Dress up in a costume of your choice and take a photo or video of yourself.
     timer: 
+    textRU: 
   - theme: Dare
     text: Play a game of charades and act out a hobby or interest.
     timer: 
+    textRU: 
   - theme: Dare
     text: Write a love letter to your favorite hobby or interest.
     timer: 
+    textRU: 
   - theme: Dare
     text: Make a video of yourself doing a random act of kindness and share it on
       social media.
     timer: 
+    textRU: 
   - theme: Dare
     text: Draw a portrait of a friend or family member and show it to them.
     timer: 
+    textRU: 
   - theme: Dare
     text: Play a game of Pictionary and draw a hobby or interest.
     timer: 
+    textRU: 
   - theme: Dare
     text: Put together a puzzle as quickly as you can.
     timer: 
+    textRU: 
   - theme: Dare
     text: Do a magic trick with cards or coins.
     timer: 
+    textRU: 
   - theme: Dare
     text: Try a new sport or physical activity and share your experience with everyone.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a playlist of songs that relate to your favorite hobby or interest.
     timer: 
+    textRU: 
   - theme: Dare
     text: Bake or cook something using a recipe that everyone else chooses for you.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a vision board of your future goals related to your hobby or interest.
     timer: 
+    textRU: 
   - theme: Dare
     text: Make a TikTok video of yourself doing a popular dance challenge.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a DIY project using materials found in the room.
     timer: 
+    textRU: 
   - theme: Dare
     text: Write a short story or script about a character who shares your hobby or
       interest.
     timer: 
+    textRU: 
   - theme: Dare
     text: Build a tower or structure using only playing cards.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a funny meme about your favorite hobby or interest and share it
       on social media.
     timer: 
+    textRU: 
   - theme: Dare
     text: Dress up in a costume inspired by your favorite hobby or interest and perform
       a short skit.
     timer: 
+    textRU: 
   - theme: Dare
     text: Learn a new skill related to your hobby or interest and show off what you've
       learned.
     timer: 
+    textRU: 
   - theme: Dare
     text: Write a poem about your favorite hobby or interest and recite it to everyone.
     timer: 
+    textRU: 
   - theme: Dare
     text: Use a random word generator to come up with a new name for your hobby or
       interest and use it for the rest of the game.
     timer: 
+    textRU: 
   - theme: Dare
     text: Take a photo of yourself doing a handstand or cartwheel outdoors and post
       it on social media.
     timer: 
+    textRU: 
   - theme: Dare
     text: Do a karaoke performance of a song related to your hobby or interest.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a vision board of your dream travel destinations related to your
       hobby or interest.
     timer: 
+    textRU: 
   - theme: Dare
     text: Make a video tutorial on a skill related to your hobby or interest and
       share it on social media.
     timer: 
+    textRU: 
   - theme: Dare
     text: Play a game of "Guess That Hobby" where you give clues to a hobby and everyone
       else has to guess what it is.
     timer: 
+    textRU: 
   - theme: Dare
     text: Use a virtual reality headset or app to experience something related to
       your hobby or interest and share your experience with everyone.
     timer: 
+    textRU: 
   - theme: Dare
     text: Design a new logo or emblem for your favorite hobby or interest.
     timer: 
+    textRU: 
   - theme: Dare
     text: Do a puzzle as quickly as you can with a blindfold on.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a parody of a song related to your hobby or interest and perform
       it for everyone.
     timer: 
+    textRU: 
   - theme: Dare
     text: Use a random word generator to come up with a new hobby or interest and
       research it for 10 minutes.
     timer: 
+    textRU: 
   - theme: Dare
     text: Write a short story or script about a character who discovers a new hobby
       or interest.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a themed scavenger hunt related to your hobby or interest for everyone
       to play.
     timer: 
+    textRU: 
   - theme: Dare
     text: Learn a new language or phrase related to your hobby or interest and use
       it in a conversation with someone else.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a unique piece of jewelry or accessory related to your hobby or
       interest using materials found in the room.
     timer: 
+    textRU: 
   - theme: Dare
     text: Make a video tutorial on how to make a DIY craft related to your hobby
       or interest and share it on social media.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a vision board of your dream workspace related to your hobby or
       interest.
     timer: 
+    textRU: 
   - theme: Dare
     text: Dress up in a costume inspired by a famous person known for their involvement
       in your hobby or interest and take a photo.
     timer: 
+    textRU: 
   - theme: Dare
     text: Use a random word generator to come up with a new challenge related to
       your hobby or interest and attempt to complete it.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a playlist of motivational songs to listen to while pursuing your
       hobby or interest.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a virtual museum or gallery of your favorite works related to your
       hobby or interest.
     timer: 
+    textRU: 
   - theme: Dare
     text: Play a game of "Guess That Equipment" where you give clues to a piece of
       equipment related to your hobby and everyone else has to guess what it is.
     timer: 
+    textRU: 
   - theme: Dare
     text: Write a blog post or article about a topic related to your hobby or interest
       and share it on social media.
     timer: 
+    textRU: 
   - theme: Dare
     text: Take a photo of yourself in a yoga or meditation pose and post it on social
       media.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a themed photo collage related to your hobby or interest and share
       it on social media.
     timer: 
+    textRU: 
   - theme: Dare
     text: Do a 24-hour challenge where you only do activities related to your hobby
       or interest.
     timer: 
+    textRU: 
   - theme: Dare
     text: Learn a new recipe related to your hobby or interest and share the results
       with everyone.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a virtual tour of a place related to your hobby or interest and
       share it with everyone.
     timer: 
+    textRU: 
   - theme: Dare
     text: Play a game of "Name That Tool" where you give clues to a tool related
       to your hobby or interest and everyone else has to guess what it is.
     timer: 
+    textRU: 
   - theme: Dare
     text: Make a video of yourself doing a random act of kindness related to your
       hobby or interest and share it on social media.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a funny comic strip related to your hobby or interest and share
       it on social media.
     timer: 
+    textRU: 
   - theme: Dare
     text: Write a short story or script about a character who overcomes a challenge
       related to your hobby or interest.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a virtual book club or discussion group related to your hobby or
       interest and invite others to join.
     timer: 
+    textRU: 
   - theme: Dare
     text: Make a video of yourself attempting a difficult physical challenge related
       to your hobby or interest and share it on social media.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a vision board of your dream mentor related to your hobby or interest.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a miniature version of something related to your hobby or interest
       using clay or other materials.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a vision board of your ideal event related to your hobby or interest.
     timer: 
+    textRU: 
   - theme: Dare
     text: Perform a dance routine inspired by your favorite hobby or interest and
       post it on social media.
     timer: 
+    textRU: 
   - theme: Dare
     text: Use a random word generator to come up with a new challenge related to
       your hobby or interest and attempt to complete it blindfolded.
     timer: 
+    textRU: 
   - theme: Dare
     text: Take a photo of yourself enjoying your hobby or interest in a unique location
       and share it on social media.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a themed crossword puzzle related to your hobby or interest and
       have everyone try to solve it.
     timer: 
+    textRU: 
   - theme: Dare
     text: Write a short story or script about a character who teaches someone else
       about your hobby or interest.
     timer: 
+    textRU: 
   - theme: Dare
     text: Use a random word generator to come up with a new hobby or interest and
       create a presentation on it to share with everyone.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a themed playlist of songs related to your hobby or interest for
       others to listen to.
     timer: 
+    textRU: 
   - theme: Dare
     text: Do a virtual tour of a location related to your hobby or interest and share
       it with everyone.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a game or quiz related to your hobby or interest and have everyone
       play it.
     timer: 
+    textRU: 
   - theme: Dare
     text: Make a video of yourself attempting a challenging skill related to your
       hobby or interest and share it on social media.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a themed crossword puzzle related to your hobby or interest and
       have everyone try to solve it.
     timer: 
+    textRU: 
   - theme: Dare
     text: Write a short story or script about a character who discovers a new passion
       related to your hobby or interest.
     timer: 
+    textRU: 
   - theme: Dare
     text: Use a random word generator to come up with a new challenge related to
       your hobby or interest and attempt to complete it using only your non-dominant
       hand.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a vision board of your dream workspace related to your hobby or
       interest.
     timer: 
+    textRU: 
   - theme: Dare
     text: Make a video of yourself teaching someone else a basic skill related to
       your hobby or interest.
     timer: 
+    textRU: 
   - theme: Dare
     text: Use a random word generator to come up with a new hobby or interest and
       research it for 10 minutes.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a themed crossword puzzle related to your hobby or interest and
       have everyone try to solve it.
     timer: 
+    textRU: 
   - theme: Dare
     text: Write a short story or script about a character who faces a setback related
       to your hobby or interest and overcomes it.
     timer: 
+    textRU: 
   - theme: Dare
     text: Do a live demonstration of a skill related to your hobby or interest on
       social media.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a virtual scavenger hunt related to your hobby or interest and have
       everyone participate.
     timer: 
+    textRU: 
   - theme: Dare
     text: Dress up as your favorite character related to your hobby or interest and
       create a short video skit.
     timer: 
+    textRU: 
   - theme: Dare
     text: Use a random word generator to come up with a new challenge related to
       your hobby or interest and attempt to complete it with a friend.
     timer: 
+    textRU: 
   - theme: Dare
     text: Write a poem or song related to your hobby or interest and perform it for
       everyone.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a virtual gallery of your own artwork related to your hobby or interest
       and share it with everyone.
     timer: 
+    textRU: 
   - theme: Dare
     text: Make a video of yourself sharing your favorite tips and tricks related
       to your hobby or interest.
     timer: 
+    textRU: 
   - theme: Dare
     text: Use a random word generator to come up with a new hobby or interest and
       create a presentation on it to share with everyone.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a themed crossword puzzle related to your hobby or interest and
       have everyone try to solve it.
     timer: 
+    textRU: 
   - theme: Dare
     text: Do a virtual tour of a location related to your hobby or interest and share
       it with everyone.
     timer: 
+    textRU: 
   - theme: Dare
     text: Make a video of yourself attempting a challenging task related to your
       hobby or interest and share it on social media.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a themed playlist of songs related to your hobby or interest for
       others to listen to.
     timer: 
+    textRU: 
   - theme: Dare
     text: Write a short story or script about a character who finds inspiration through
       your hobby or interest.
     timer: 
+    textRU: 
   - theme: Dare
     text: Use a random word generator to come up with a new challenge related to
       your hobby or interest and attempt to complete it without using your thumbs.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a vision board of your dream project related to your hobby or interest.
     timer: 
+    textRU: 
   - theme: Dare
     text: Use a random word generator to come up with a new hobby or interest and
       research it for 30 minutes.
     timer: 
+    textRU: 
   - theme: Dare
     text: Make a video of yourself teaching someone else a more advanced skill related
       to your hobby or interest.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a virtual book club or discussion group related to your hobby or
       interest and invite others to join.
     timer: 
+    textRU: 
   - theme: Dare
     text: Use a random word generator to come up with a new challenge related to
       your hobby or interest and attempt to complete it with a family member.
     timer: 
+    textRU: 
   - theme: Dare
     text: Write a short story or script about a character who discovers the joy of
       your hobby or interest for the first time.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a painting or drawing related to your hobby or interest and share
       it on social media.
     timer: 
+    textRU: 
   - theme: Dare
     text: Use a random word generator to come up with a new challenge related to
       your hobby or interest and attempt to complete it in a public place.
     timer: 
+    textRU: 
   - theme: Dare
     text: Write a blog post or article related to your hobby or interest and share
       it with everyone.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a virtual quiz related to your hobby or interest and have everyone
       participate.
     timer: 
+    textRU: 
   - theme: Dare
     text: Make a video of yourself sharing your favorite tools or equipment related
       to your hobby or interest.
     timer: 
+    textRU: 
   - theme: Dare
     text: Use a random word generator to come up with a new hobby or interest and
       create a social media account dedicated to it.
     timer: 
+    textRU: 
   - theme: Dare
     text: Create a virtual tour of your own workspace or studio related to your hobby
       or interest and share it with everyone.
     timer: 
+    textRU: 
   - theme: Dare
     text: Make a video of yourself teaching a basic skill related to your hobby or
       interest to a child.
     timer: 
+    textRU: 
   - theme: Dare
     text: Use a random word generator to come up with a new challenge related to
       your hobby or interest and attempt to complete it blindfolded with a partner.
     timer: 
+    textRU: 
   - theme: Dare
     text: Write a short story or script about a character who overcomes a fear related
       to your hobby or interest.
     timer: 
+    textRU: 

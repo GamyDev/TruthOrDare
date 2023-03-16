@@ -41,22 +41,37 @@ public class QuestionsParserEditor : Editor
         
         DeckSettings deckSettings = Resources.Load<DeckSettings>("Decks/" + deck);
         deckSettings.questions.Clear();
-        var questionsCsv = QuestionsParser.ReadCsv(deck);
-        foreach (var item in questionsCsv)
+        try
         {
-            deckSettings.questions.Add(new Question()
+            var questionsCsv = QuestionsParser.ReadCsv<CSVQuestionRU>(deck);
+            foreach (var item in questionsCsv)
             {
-                theme = item.theme,
-                text = item.text,
-                timer = item.timer
-            });
+                deckSettings.questions.Add(new Question()
+                {
+                    theme = item.theme,
+                    text = item.text,
+                    timer = item.timer,
+                    textRU = item.textRU
+                });
+            }
+        }
+        catch (System.Exception)
+        {
+            var questionsCsv = QuestionsParser.ReadCsv<CSVQuestion>(deck);
+            foreach (var item in questionsCsv)
+            {
+                deckSettings.questions.Add(new Question()
+                {
+                    theme = item.theme,
+                    text = item.text,
+                    timer = item.timer,
+                });
+            }
         }
 
         EditorUtility.SetDirty(deckSettings);
 
         AssetDatabase.SaveAssets();
         AssetDatabase.Refresh();
-
-        Debug.Log($"{deck} downloaded succesfully! {QuestionsParser.ReadCsv(deck).Count} questions loaded!");
     }
 }

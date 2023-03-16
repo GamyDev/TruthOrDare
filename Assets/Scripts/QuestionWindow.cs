@@ -47,7 +47,8 @@ public class QuestionWindow : MonoBehaviour
                         truthQuestions.Add(new Question() { 
                             text = decks[i].questions[j].text, 
                             theme = decks[i].questions[j].theme,
-                            timer = decks[i].questions[j].timer
+                            timer = decks[i].questions[j].timer,
+                            textRU = decks[i].questions[j].textRU
                         });
                     } 
                     if(decks[i].questions[j].theme == "Dare" && refreshDare)
@@ -56,7 +57,8 @@ public class QuestionWindow : MonoBehaviour
                         {
                             text = decks[i].questions[j].text,
                             theme = decks[i].questions[j].theme,
-                            timer = decks[i].questions[j].timer
+                            timer = decks[i].questions[j].timer,
+                            textRU = decks[i].questions[j].textRU
                         });
                     }
                 }
@@ -76,7 +78,8 @@ public class QuestionWindow : MonoBehaviour
         currentQuestion = new Question() { 
             text = questions[index].text,
             theme = questions[index].theme,
-            timer = questions[index].timer
+            timer = questions[index].timer,
+            textRU = questions[index].textRU
         };
 
         questions.RemoveAt(index);
@@ -94,9 +97,15 @@ public class QuestionWindow : MonoBehaviour
     }
 
 
+    private void OnDisable()
+    {
+        LocalizationManager.OnLanguageChange -= LanguageChange;
+    }
 
     private void OnEnable()
     {
+        LocalizationManager.OnLanguageChange += LanguageChange;
+
         var truthDare = GameManager.instance.truthDareWindow.truthDare;
 
         if (truthDare == TruthDare.Dare)
@@ -111,7 +120,10 @@ public class QuestionWindow : MonoBehaviour
         playerName.text = GameManager.instance.truthDareWindow.currentPlayer.name;
         avatar.sprite = GameManager.instance.players.avatars[GameManager.instance.truthDareWindow.currentPlayer.avatar];
 
-        questionText.text = currentQuestion.text;
+        if (LocalizationManager.SelectedLanguage == 0)
+            questionText.text = currentQuestion.text;
+        else
+           questionText.text = !string.IsNullOrEmpty(currentQuestion.textRU) ? currentQuestion.textRU : currentQuestion.text;
 
         title.text = GameManager.instance.gameMode == DeckType.ForFriends ? "For Friends_key" : "For Couples_key";
 
@@ -135,7 +147,14 @@ public class QuestionWindow : MonoBehaviour
             });
         }
     }
-     
+
+    private void LanguageChange()
+    {
+        if (LocalizationManager.SelectedLanguage == 0)
+            questionText.text = currentQuestion.text;
+        else
+            questionText.text = !string.IsNullOrEmpty(currentQuestion.textRU) ? currentQuestion.textRU : currentQuestion.text;
+    }
 
     private async UniTask StartTimer()
     {

@@ -42,14 +42,14 @@ public class QuestionsParser : MonoBehaviour
         return "https://docs.google.com/spreadsheets/d/" + codeLink + "/export?format=csv";
     }
 
-    public static List<CSVQuestion> ReadCsv(string deck)
+    public static List<T> ReadCsv<T>(string deck)
     {
         if(!File.Exists(Application.persistentDataPath + "/Data/" + deck + ".csv"))
         {
-            return new List<CSVQuestion>();
+            return new List<T>();
         }
 
-        List<CSVQuestion> questions = new List<CSVQuestion>();
+        List<T> questions = new List<T>();
 
         var config = new CsvConfiguration(CultureInfo.InvariantCulture)
         {
@@ -62,7 +62,7 @@ public class QuestionsParser : MonoBehaviour
             csv.Read();
             while (csv.Read())
             {
-                var record = csv.GetRecord<CSVQuestion>();
+                var record = csv.GetRecord<T>();
                 questions.Add(record);
             }
         }
@@ -82,6 +82,18 @@ public class CSVQuestionData
 
 [System.Serializable]
 public class CSVQuestion
+{
+    [Index(0)]
+    public string theme { get; set; }
+    [Index(1)]
+    public string text { get; set; }
+    [Index(2)]
+    public string timer { get; set; }
+}
+
+
+[System.Serializable]
+public class CSVQuestionRU
 { 
     [Index(0)]
     public string theme { get; set; }
@@ -89,6 +101,8 @@ public class CSVQuestion
     public string text { get; set; }
     [Index(2)]
     public string timer { get; set; }
+    [Index(3)]
+    public string textRU { get; set; }
 }
 
  
