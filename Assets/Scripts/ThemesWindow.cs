@@ -24,7 +24,7 @@ public class ThemesWindow : MonoBehaviour
         }
     }
 
-    public void DisplayThemes()
+    public void DisplayThemes(bool updateText = true)
     {
         var decks = GetDeckSettings(GameManager.instance.gameMode);
         for (int i = 0; i < decksContainer.transform.childCount; i++)
@@ -37,7 +37,12 @@ public class ThemesWindow : MonoBehaviour
 
             decksContainer.transform.GetChild(i).gameObject.SetActive(true);
             var themeItem = decksContainer.transform.GetChild(i).GetComponent<ThemeItem>();
-            themeItem.title.text = decks[i].deckTitle;
+
+            if(updateText)
+            {
+                themeItem.title.text = decks[i].deckTitle;
+            }
+
             themeItem.lockIcon.SetActive(!decks[i].free && !GameManager.instance.isSubscribe); 
             string title = decks[i].deckTitle;
 

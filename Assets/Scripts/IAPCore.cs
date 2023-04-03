@@ -155,14 +155,14 @@ public class IAPCore : MonoBehaviour, IStoreListener //для получения
                 SubActive.SetActive(true);
             }
             SetSubscribtion(true);
-            themesWindow.DisplayThemes();
+            themesWindow.DisplayThemes(false);
 
         }
         else
         {
             Debug.Log(string.Format("ProcessPurchase: FAIL. Unrecognized product: '{0}'", args.purchasedProduct.definition.id));
             SetSubscribtion(false);
-            themesWindow.DisplayThemes();
+            themesWindow.DisplayThemes(false);
         }
 
         return PurchaseProcessingResult.Complete;
