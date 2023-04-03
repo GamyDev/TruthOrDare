@@ -15,13 +15,14 @@ public class IAPCore : MonoBehaviour, IStoreListener //для получения
     private static IExtensionProvider m_StoreExtensionProvider; // подсистемы закупок для конкретных магазинов
 
    // public static string noads = "noads"; //одноразовые - nonconsumable
-    public static string vip = "com.drinkboozegame.cardgames.subscription.week";
+    public static string vip = "com.truthordare.cardgames.subscription.weekly";
     // public static string coins151 = "coins151"; //многоразовые - consumable
 
     [SerializeField] private TextMeshProUGUI textPrice;
     [SerializeField] private GameObject windowSub;
-    public static bool subscriptionActive = false;
-    public static event Action<bool> OnSubscribtionChange;
+    
+    [SerializeField] private GameManager gameManager;
+
 
     void Start()
     {
@@ -32,8 +33,18 @@ public class IAPCore : MonoBehaviour, IStoreListener //для получения
         LocalizationManager.OnLanguageChange += OnLanguageChange;
 
         var subscriptionProduct = m_StoreController.products.WithID(vip);
-        var isSubscribed = IsSubscribedTo(subscriptionProduct);
-     }
+
+        try
+        {
+            var isSubscribed = IsSubscribedTo(subscriptionProduct);
+            gameManager.isSubscribe = isSubscribed;
+
+        }
+        catch (StoreSubscriptionInfoNotSupportedException)
+        {
+
+        }
+    }
 
     private void OnLanguageChange()
     {
@@ -69,8 +80,7 @@ public class IAPCore : MonoBehaviour, IStoreListener //для получения
 
     public void SetSubscribtion(bool value)
     {
-        subscriptionActive = value;
-        OnSubscribtionChange?.Invoke(value);
+        gameManager.isSubscribe = value; 
     }
 
     public void TextInvoke()
@@ -181,6 +191,20 @@ public class IAPCore : MonoBehaviour, IStoreListener //для получения
         Debug.Log("OnInitialized: PASS");
         m_StoreController = controller;
         m_StoreExtensionProvider = extensions;
+
+
+        var subscriptionProduct = m_StoreController.products.WithID(vip);
+
+        try
+        {
+            var isSubscribed = IsSubscribedTo(subscriptionProduct);
+            gameManager.isSubscribe = isSubscribed; 
+
+        }
+        catch (StoreSubscriptionInfoNotSupportedException)
+        {
+
+        }
     }
 
     private bool IsInitialized()
