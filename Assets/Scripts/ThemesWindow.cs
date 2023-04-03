@@ -11,6 +11,7 @@ public class ThemesWindow : MonoBehaviour
     public string selectedTheme;
     public TruthDareWindow truthDareWindow;
     public GameObject subscriptionWindow;
+    public IAPCore iAPCore;
 
     private void SetTitle()
     {
@@ -68,6 +69,7 @@ public class ThemesWindow : MonoBehaviour
                     themeItem.GetComponent<Button>().onClick.AddListener(() => {
                         gameObject.SetActive(false);
                         subscriptionWindow.SetActive(true);
+                        iAPCore.TextInvoke();
                     });
                     
                 }

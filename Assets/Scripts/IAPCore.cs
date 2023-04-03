@@ -19,9 +19,11 @@ public class IAPCore : MonoBehaviour, IStoreListener //для получения
     // public static string coins151 = "coins151"; //многоразовые - consumable
 
     [SerializeField] private TextMeshProUGUI textPrice;
-    [SerializeField] private GameObject windowSub;
-    
+    [SerializeField] private TextMeshProUGUI textPrice2;
+
     [SerializeField] private GameManager gameManager;
+    [SerializeField] private GameObject SubActive;
+    [SerializeField] private ThemesWindow themesWindow;
 
 
     void Start()
@@ -93,13 +95,13 @@ public class IAPCore : MonoBehaviour, IStoreListener //для получения
         Product product = m_StoreController.products.WithID(vip);
         decimal price = product.metadata.localizedPrice == 0 ? 0.99M : product.metadata.localizedPrice;
         textPrice.text = textPrice.text.Replace("[price]", price.ToString());
+
+        decimal price2 = product.metadata.localizedPrice == 0 ? 0.99M : product.metadata.localizedPrice;
+        textPrice2.text = textPrice2.text.Replace("[price]", price.ToString());
         Debug.Log("TextPrice");
     }
 
-    public void ActiveWindow(bool Active)
-    {
-        windowSub.SetActive(Active);
-    }
+
 
     bool IsSubscribedTo(Product subscription)
     {
@@ -147,14 +149,20 @@ public class IAPCore : MonoBehaviour, IStoreListener //для получения
        if (String.Equals(args.purchasedProduct.definition.id, vip, StringComparison.Ordinal))
         {
             Debug.Log(string.Format("ProcessPurchase: PASS. Product: '{0}'", args.purchasedProduct.definition.id));
-
-           SetSubscribtion(true);
+            if (!PlayerPrefs.HasKey("windowShowSub"))
+            {
+                PlayerPrefs.SetInt("windowShowSub", 1);
+                SubActive.SetActive(true);
+            }
+            SetSubscribtion(true);
+            themesWindow.DisplayThemes();
 
         }
         else
         {
             Debug.Log(string.Format("ProcessPurchase: FAIL. Unrecognized product: '{0}'", args.purchasedProduct.definition.id));
             SetSubscribtion(false);
+            themesWindow.DisplayThemes();
         }
 
         return PurchaseProcessingResult.Complete;
