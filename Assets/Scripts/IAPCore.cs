@@ -94,10 +94,10 @@ public class IAPCore : MonoBehaviour, IStoreListener //для получения
     {
         Product product = m_StoreController.products.WithID(vip);
         decimal price = product.metadata.localizedPrice == 0 ? 0.99M : product.metadata.localizedPrice;
-        textPrice.text = textPrice.text.Replace("[price]", price.ToString());
+        textPrice.text = textPrice.text.Replace("[price]", price.ToString() + " " + product.metadata.isoCurrencyCode);
 
         decimal price2 = product.metadata.localizedPrice == 0 ? 0.99M : product.metadata.localizedPrice;
-        textPrice2.text = textPrice2.text.Replace("[price]", price.ToString());
+        textPrice2.text = textPrice2.text.Replace("[price]", price2.ToString() + " " + product.metadata.isoCurrencyCode) ;
         Debug.Log("TextPrice");
     }
 

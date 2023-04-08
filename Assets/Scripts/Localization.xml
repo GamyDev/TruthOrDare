@@ -66,8 +66,8 @@
 
 <Key Name="Free for 3 days, then [pric] per week_key">
     <Translates>
-      <en-us>Free for 3 days, then [price]$ per week</en-us>
-      <ru>Бесплатно на 3 дня, потом [price]$ в неделю</ru>
+      <en-us>Free for 3 days, then [price] per week</en-us>
+      <ru>Бесплатно на 3 дня, потом [price] в неделю</ru>
       <es></es>
       <de></de>
     </Translates>

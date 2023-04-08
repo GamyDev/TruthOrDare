@@ -72,7 +72,7 @@ public class ThemesWindow : MonoBehaviour
                 } else
                 {
                     themeItem.GetComponent<Button>().onClick.AddListener(() => {
-                        gameObject.SetActive(false);
+                      //  gameObject.SetActive(false);
                         subscriptionWindow.SetActive(true);
                         iAPCore.TextInvoke();
                     });
