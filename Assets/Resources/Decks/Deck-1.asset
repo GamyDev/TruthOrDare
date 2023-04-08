@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: Deck-1
   m_EditorClassIdentifier: 
   deckTitle: Embarrassing moments_key
+  icon: {fileID: 21300000, guid: 76a3dc3270b65e64ebce0bdab72f55c6, type: 3}
   type: 0
   free: 1
   adult: 0

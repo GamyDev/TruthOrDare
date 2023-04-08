@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: Deck-6
   m_EditorClassIdentifier: 
   deckTitle: For Married Couples_key
+  icon: {fileID: 21300000, guid: 5ed8eb8c098193140b36cc5a58a88073, type: 3}
   type: 1
   free: 0
   adult: 1
