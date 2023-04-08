@@ -11,6 +11,7 @@ public enum DeckType
 public class DeckSettings : ScriptableObject
 {
     public string deckTitle;
+    public Sprite icon;
     public DeckType type;
     public bool free;
     public bool adult;

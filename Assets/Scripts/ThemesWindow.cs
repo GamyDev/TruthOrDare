@@ -45,6 +45,7 @@ public class ThemesWindow : MonoBehaviour
 
             themeItem.lockIcon.SetActive(!decks[i].free && !GameManager.instance.isSubscribe); 
             string title = decks[i].deckTitle;
+            themeItem.icon.sprite = decks[i].icon;
 
             themeItem.GetComponent<Button>().onClick.RemoveAllListeners();
 
